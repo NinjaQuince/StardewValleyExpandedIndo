@@ -1,3 +1,2 @@
-#File-file dari folder CP
-
+# File-file dari folder Content Patcher
 Isinya dialog.
