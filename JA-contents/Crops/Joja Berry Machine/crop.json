@@ -2,7 +2,7 @@
 	"Name": "Joja Berry Machine",
 	"Product": "Joja Berry",
 	"SeedName": "Joja Berry Starter",
-	"SeedDescription": "Plant these in the spring, summer or fall. Takes 24 days to mature, and continues to produce. The machine is impassable. A light turns red when ready to harvest.",
+	"SeedDescription": "Tanam ini di musim semi, panas, atau gugur. Berbuah dalam 24 hari, dan bisa terus dipetik. Mesinnya tidak bisa dilewati. Jika siap panen lampunya akan menyala merah.",
 	"Type": "Fruit",
 	"CropType": "Normal",
 	"Seasons": ["spring", "summer", "fall"],
@@ -15,7 +15,7 @@
 		"MaximumPerHarvest": 1,
 		"MaxIncreasePerFarmLevel": 5,
 		"ExtraChance": 0.15,
-	},
+	}
 	"SeedPurchasePrice": 6500,
 	"SeedPurchaseFrom": "Zoey",
 	"SeedPurchaseRequirements": ["e 5553210"]
