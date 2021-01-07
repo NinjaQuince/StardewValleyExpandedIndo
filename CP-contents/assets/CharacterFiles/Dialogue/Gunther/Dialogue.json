@@ -55,14 +55,14 @@
   "winter_Sun6": "Oh, you use your hoe to unearth artifacts?$5#$e#I have a handy shovel I could lend you.$1",
   
   //EVENT DIALOGUE
-  "gunther_event1": "Ya. Sejumlah peradaban tinggal di lembah ini ribuan tahun lalu. Elf, Dwarf, Void Spirit...$5#$b#Aku ingin mengungkap misteri tentang peradaban tersebut.$5",
-  "gunther_event2": "Aku setuju, Tuan @.$5^Aku setuju, Nona @.$5",
-  "gunther_event3": "Hmm... ya. Banyak senjata ditemukan dari tanah ini.$5#$b#Mungkin suatu hari, kita akan menemukan asal-usul perang kuno antar ras...$5",
-  "gunther_event4": "Hmm...#$b#Kalau begitu ijinkan aku menyampaikan kesimpulanku, Tuan @.^Kalau begitu ijinkan aku menyampaikan kesimpulanku, Nona @.$5",
-  "gunther_event5": "Iya... Aku agak takut.$2#$b#Ini pertama kaliny aku menjelajahi tambang.$5#$b#Aku merasa terhormat bisa dikawal petualang pengalaman sepertimu.$1",
-  "gunther_event6": "Terima kasih.$5#$b#Aku merasa terhormat bisa dikawal petualang pengalaman sepertimu.$1",
-  "gunther_event7": "Aku tepat di belakangmu.$5",
-  "gunther_event8": "Aku tepat di belakangmu.$5"
+  "gunther_event1": "Yes. Several civilizations lived in this valley many hundreds of years ago. Elves, dwarfs, void spirits...$5#$b#I'm determined to unravel the mysteries surrounding these ancient societies.$5",
+  "gunther_event2": "I concur, Mr. @.$5^I concur, Ms. @.$5",
+  "gunther_event3": "Hmm... yes. Many weapons lie beneath the very soil we stand upon.$5#$b#Perhaps one day, we'll discover the origin of these ancient wars between other races...$5",
+  "gunther_event4": "Hmm...#$b#Allow me to draw my own conclusion in that case, Mr. @.^Allow me to draw my own conclusion in that case, Ms. @.$5",
+  "gunther_event5": "Well... yes. I am nervous.$2#$b#This is my first time exploring the mines.$5#$b#I'm honored a revered adventurer such as yourself is escorting me.$1",
+  "gunther_event6": "That's reassuring.$5#$b#I'm honored a revered adventurer such as yourself is escorting me.$1",
+  "gunther_event7": "I'll be right behind you.$5",
+  "gunther_event8": "I'll be right behind you.$5"
   
 }
 

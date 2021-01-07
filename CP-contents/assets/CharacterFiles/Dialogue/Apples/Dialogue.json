@@ -65,7 +65,7 @@
 "winter_Sat10": "*meep*!!!$1#$e#*meep*!!$0#$e#Apples full! Many starfruit in hut!",
 
 //EVENT DIALOGUE
-"apples_event1": "...$2#$b#Teman lain tidak bilang itu.$4#$b#Mereka bilang Apples salah.$2",
-"apples_event2": "...$2#$b#Apples buat salah besar. Apples minta maaf.$3#$b#Apples cuma ingin teman lain punya rumah...$3#$b#Jangan marah sama Apples...$3",
-"apples_event3": "...$2#$b#Apples punya banyak teman, tapi...$4"
+"apples_event1": "...$2#$b#Other friends don’t say that.$4#$b#They say Apples wrong.$2",
+"apples_event2": "...$2#$b#Apples make big mistake. Apples sorry.$3#$b#Apples only wanted to make new home for other friends...$3#$b#Don't be mad at Apples...$3",
+"apples_event3": "...$2#$b#Apples did make more friends...$4"
 }
