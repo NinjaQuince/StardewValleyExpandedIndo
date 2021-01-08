@@ -1,68 +1,74 @@
 ﻿
 { 
   //SPECIAL DIALOGUE
-  //Unused: "Introduction": "You must be Mr. @. Pleasure to meet you.$5^You must be Ms. @. Pleasure to meet you.$5",
-  
+  //Unused: "Introduction": "Anda pasti Tuan @. Senang berkenalan dengan anda.$5^Anda pasti Nona @. Senang berkenalan dengan anda.$5",
+  "Resort_Entering": "Willy bangga dengan perahunya. Katanya dulu itu milik ayahnya.$0",
+  "Resort_Leaving": "Kapan-kapan aku akan ke pulau sendiri...$0",
+  "Resort_Shore": "Kau sudah bertemu rekanku? Dia sedang menggali di pulau ini.",
+  "Resort_Chair": "Banyak misteri di pulau ini yang siap untuk ditemukan.$0",
+  "Resort_Bar": "Terima kasih sudah melayani kami, Gus.$1",
+  "Resort": "%Gunther sedang sibuk memeriksa artefak.",
+   
   //SPRING AND GENERAL DIALOGUE
-  "spring_1": "*sniff* Pollen...$2",
-  "spring_12": "Penny and the kids have been painting eggs in the library.$1",
-  "spring_23": "I wonder what Pierre is selling tomorrow at his stand...$5",
+  "spring_1": "*Enduuss~* Serbuk sari...$2",
+  "spring_12": "Penny dan anak-anak sedang melukis telur di perpustakaan.$1",
+  "spring_23": "Besok apa yang akan dijual Pierre di kios...$5",
   
-  "Mon": "Oh, hello Mr. @!$5^Oh, hello Ms. @!$5#$b#How fares the farm work?$1",
-  "Mon2": "*yawn* Hello, Mr. @!$5^*yawn Hello, Ms. @!$5#$b#Forgive my drowsiness. I was researching ancient artifacts all night.$5#$e#When one is exploring the unknown... it is easy to lose track of time!$1",
-  "Mon10": "We received a donation for the remarkable artifacts and minerals on display...$5#$b#Here's a portion of it, Mr. @ [336]^Here's a portion of it, Ms. @ [336]",
-  "Tue": "Lost relics of the past are buried under the very earth we walk upon...$5#$e#Mayor Lewis told me he saw you digging up artifacts around town.$5",
-  "Tue6": "I'm pondering over a research article's credibility...$5#$b#The fellow who wrote it is questionable.$5#$e#Farewell, Mr. @.$5^Farewell, Ms. @.$5",
-  "Wed": "I'm fluent in several languages, including dwarfish.$5#$b#One must understand different languages to unravel the secrets of the past.$1",
-  "Wed8": "Did you hear the news? An explorer discovered artifacts in Calico desert!$1#$e#These findings are especially significant to the field.$5",
-  "Thu": "*sigh* Some folks never put books back properly...$2#$e#Oh, don't mind my comments Mr. @.$5^Oh, don't mind my comments Ms. @.$5",
-  "Thu8": "Perhaps good food and drink is in order for a week of hard work!$1#$e#Have you had the 'shooting comet' cocktail?$5",
-  "Fri": "Some day I'll make a groundbreaking discovery!$1",
-  "Fri6": "Find any ancient-looking objects lately?$5#$e#There's many secrets buried underneath the soil here in Stardew Valley.$1",
-  "Sat": "Penny tutors Jas and Vincent in the library several days a week.$5",
-  "Sat4": "The artifacts and minerals you've donated are aiding me in my research, Mr. @.$5^The artifacts and minerals you've donated are aiding me in my research, Ms. @.$5#$e#Thank you.$5",
-  "Sun": "Are you finished with farm work today?$5#$e#I have research to conduct tonight... I'm getting closer to a huge discovery!$1",
+  "Mon": "Oh, halo Tuan @!$5^Oh, halo Nona @!$5#$b#Bagaimana pekerjaan di ladang?$1",
+  "Mon2": "*Hoahh~* Halo, Tuan @!$5^*Hoahh~* Halo, Nona @!$5#$b#Maaf aku masih mengantuk. Semalaman aku meneliti artefak kuno.$5#$e#Saat mempelajari hal baru... waktu terasa cepat berlalu!$1",
+  "Mon10": "Kita menerima sumbangan atas pajangan artefak dan mineral...$5#$b#Ini bagianmu, Tuan @ [336]^Ini bagianmu, Nona @ [336]",
+  "Tue": "Relik-relik yang hilang masih terkubur di tanah yang kita pijaki...$5#$e#Mayor Lewis bilang kau menggali artefak di penjuru kota.$5",
+  "Tue6": "Aku sedang memeriksa kredibilitas artikel penelitian...$5#$b#Orang yang menulisnya tidak meyakinkan.$5#$e#Sampai jumpa, Tuan @.$5^Sampai jumpa, Nona @.$5",
+  "Wed": "Aku fasih berbagai bahasa, termasuk bahasa dwarf.$5#$b#Kita harus paham berbagai bahasa untuk mengungkap rahasia masa lalu.$1",
+  "Wed8": "Apa kau dengar beritanya? Seorang Penjelajah menemukan artefak di gurun Calico!$1#$e#Penemuan ini sangat penting di bidangnya.$5",
+  "Thu": "*Hahh~* Ada yang tidak mengembalikan buku dengan rapi...$2#$e#Oh, jangan hiraukan komentarku Tuan @.$5^Oh, jangan hiraukan komentarku Nona @.$5",
+  "Thu8": "Aku mau pesan makanan dan minuman yang lezat seusai kerja keras sepekan ini!$1#$e#Apa kamu pernah coba minuman 'shooting comet'?$5",
+  "Fri": "Suatu hari aku akan menemukan hal yang luar biasa!$1",
+  "Fri6": "Akhir-akhir ini dapat barang kuno?$5#$e#Ada banyak rahasia di bawah tanah Stardew Valley.$1",
+  "Sat": "Penny mengajari Jas dan Vincent di perpustakaan sekian hari tiap pekan.$5",
+  "Sat4": "Artefak dan batuan yang kau donasikan membantu penelitianku, Tuan @.$5^Artefak dan batuan yang kau donasikan membantu penelitianku, Nona @.$5#$e#Terima kasih.$5",
+  "Sun": "Apa kau baru selesai kerja?$5#$e#Aku masih ingin meneliti malam ini... Aku sudah dekat dengan penemuan yang luar biasa!$1",
   
   //SUMMER DIALOGUE
-  "summer_1": "Hot and Humid today...$2",
-  "summer_10": "The governor is partaking in the festivities tomorrow.$1#$e#The governor is an astonishing public official. He maintains a higher than above-average approval rating.$5",
-  "summer_28": "There's a book in the library detailing the scientific findings of moon jelly fish.$5#$b#Truly remarkable aquatic creatures.$1",
+  "summer_1": "Cuacanya panas dan lembab...$2",
+  "summer_10": "Gubernur akan ikut serta dengan festival besok.$1#$e#Gubernur adalah pejabat yang menakjubkan. Dia menang pemilu dengan suara di atas rata-rata.$5",
+  "summer_28": "Ada buku di perpustakaan yang menjelaskan temuan ilmiah pada ubur-ubu moonlight.$5#$b#Mereka makhluk air yang luar biasa.$1",
   
-  "summer_Mon": "You might find buried objects on your farm.$5#$e#Lot's of history at %farm.$5",
-  "summer_Mon6": "Slimes have prevailed for some 40,000 years. You may discover petrified slimes in your adventures.$5#$e#Haha! Monsters existed far before humans.$1",
-  "summer_Sat": "You may discover ancient swords in the western forest.$5#$e#There was a battle long ago...$5#$e#Farewell, Mr. @.$5^Farewell, Ms. @.$5",
-  "summer_Sat6": "Birds are vocal today.$5#$e#Ah. That reminds me... I need to refill the bird feeder.$1",
+  "summer_Mon": "Mungkin ada benda terkubur di ladangmu.$5#$e#Banyak sejarah terjadi di kebun %farm.$5",
+  "summer_Mon6": "Slime sudah ada sejak 40,000 tahun lalu. Mungkin kau pernah menemukan slime yang mengeras saat bertualang.$5#$e#Haha! Monster ada jauh sebelum manusia.$1",
+  "summer_Sat": "Kau mungkin akan menemukan pedang kuno di Western Forest.$5#$e#Di sana dulu pernah ada perang...$5#$e#Sampai jumpa, Tuan @.$5^Sampai jumpa, Nona @.$5",
+  "summer_Sat6": "Hari ini burung-burung berkicauan.$5#$e#Ah. Aku juga teringat... Aku harus memberi makan burungku.$1",
   
   //FALL DIALOGUE
-  "fall_1": "Ah... do you hear that?$5#$b#The rustling sound of leaves travelling with the wind.$1",
-  "fall_5": "Willy shared a fishing story with me the other day.$1#$e#He was river fishing late at night in town...$5#$b#Suddenly... a glowing light from the river snatched the bait from his fishing rod!$1#$b#He tells me it was the doing of the 'Angler'.$5",
-  "fall_15": "Mayor Lewis says some couple dozen tourists are partaking in the festivities tomorrow.$5",
+  "fall_1": "Ah... Apa kau dengar itu?$5#$b#Gesekan daun-daun beserta tiupan angin.$1",
+  "fall_5": "Willy berbagi kisah memancingnya kemarin.$1#$e#Dia sedang memancing di kota pada larut malam...$5#$b#Tiba-tiba ada cahaya dari sungai yang menarik pancingnya!$1#$b#Dia bilang itu ulah ikan 'Angler'.$5",
+  "fall_15": "Mayor Lewis bilang akan ada banyak turis di festival besok.$5",
   
-  "fall_Tue": "I made incredible discoveries while pursuing my research at university as a young lad.$5#$e#Good day, Mr. @.$0^Good day, Ms. @.$5",
-  "fall_Tue8": "Thank you for your donations, Mr. @.$5^Thank you for your donations, Ms. @.$5#$e#You've done so much for one person!$1",
-  "fall_Fri": "Dwarfish gadgets sparked industrial revolutions across the globe.$5#$e#Their technology shapes the modern world we reside in.$1#$e#Oil and coal is dirty... but meets our societies energy needs.$5",
-  "fall_Fri8": "Sometimes I step outside to gaze at the community garden. Folks have put in a lot of work.$5#$b#If I see a crow land in there, I run out to scare it off!$1",
+  "fall_Tue": "Saat muda aku menemukan sesuatu yang luar biasa saat sedang riset di universitas.$5#$e#Semoga harimu indah, Tuan @.$0^Semoga harimu indah, Nona @.$5",
+  "fall_Tue8": "Terima kasih atas semua donasinya, Tuan @.$5^Terima kasih atas semua donasinya, Nona @.$5#$e#Meski sendiri tapi banyak yang sudah kau temukan!$1",
+  "fall_Fri": "Alat-alat dwarf memicu revolusi industri di seluruh dunia.$5#$e#Teknologi mereka yang membentuk dunia modern kita.$1#$e#Minyak dan batubara itu kotor... tapi keduanya bisa memenuhi kebutuhan energi kita.$5",
+  "fall_Fri8": "Kadang aku ke luar dan melihat-lihat kebun komunitas. Para warga sudah bekerja keras.$5#$b#Kalau ada gagak yang hinggap, aku langsung mengusirnya!$1",
   
   //WINTER DIALOGUE
-  "winter_1": "If you find yourself fatigued from the cold, consider visiting the library.$5#$b#The fire will keep you warm.$1",
-  "winter_24": "Many folks are excited for the Winter Star Festival.$1#$e#I'm assisting Gus with food preparations.$5",
-  "winter_28": "Snow is clearing soon.$5#$e#Good luck with the farming season Mr. @.$5^Good luck with the farming season Ms. @.$5",
+  "winter_1": "Kalau kamu lelah dan kedinginan, mampirlah ke perpustakaan.$5#$b#Perapiannya akan membuatmu hangat.$1",
+  "winter_24": "Banyak warga yang menantikan Winter Star Festival.$1#$e#Aku membantu Gus dengan pesiapan konsumsi.$5",
+  "winter_28": "Salju akan segera meleleh.$5#$e#Semoga kau cepat bisa beraktivitas, Tuan @.$5^Semoga kau cepat bisa beraktivitas, Nona @.$5",
   
-  "winter_Tue": "Hmmm...$2#$e#...$2#$e#Oh, hello. I'm pondering about a... dilemma in my research.$5#$e#Good day, Mr. @$5^Good day, Ms. @.$5",
-  "winter_Tue8": "Clint told me he feels like an archaeologist at times.$5#$e#Well, that's because of the geodes you're having him open for you.$1",
-  "winter_Thu8": "I'll never forget your heroic actions in the mines.$5",
-  "winter_Sun": "Hello, Mr. @. I hope you're making the most out of your day!$1^Hello, Ms. @. I hope you're making the most out of your day!$1",
-  "winter_Sun6": "Oh, you use your hoe to unearth artifacts?$5#$e#I have a handy shovel I could lend you.$1",
+  "winter_Tue": "Hmmm...$2#$e#...$2#$e#Oh, halo aku sedang mengalami... dilema dalam risetku.$5#$e#Semoga harimu indah, Tuan @$5^Semoga harimu indah, Nona @.$5",
+  "winter_Tue8": "Clint bilang padaku kalau dia kadang merasa seperti arkeolog.$5#$e#Yah, itu karena semua geode yang sudah dia pecahkan untukmu.$1",
+  "winter_Thu8": "Aku takkan meluoaka aksi heroikmu di tambang.$5",
+  "winter_Sun": "Halo, Tuan @. Semoga harimu bermanfaat!$1^Halo, Nona @. Semoga harimu bermanfaat!$1",
+  "winter_Sun6": "Oh, kau pakai cangkul untuk menggali artefak?$5#$e#Aku punya sekop kalau mau pinjam.$1",
   
   //EVENT DIALOGUE
-  "gunther_event1": "Yes. Several civilizations lived in this valley many hundreds of years ago. Elves, dwarfs, void spirits...$5#$b#I'm determined to unravel the mysteries surrounding these ancient societies.$5",
-  "gunther_event2": "I concur, Mr. @.$5^I concur, Ms. @.$5",
-  "gunther_event3": "Hmm... yes. Many weapons lie beneath the very soil we stand upon.$5#$b#Perhaps one day, we'll discover the origin of these ancient wars between other races...$5",
-  "gunther_event4": "Hmm...#$b#Allow me to draw my own conclusion in that case, Mr. @.^Allow me to draw my own conclusion in that case, Ms. @.$5",
-  "gunther_event5": "Well... yes. I am nervous.$2#$b#This is my first time exploring the mines.$5#$b#I'm honored a revered adventurer such as yourself is escorting me.$1",
-  "gunther_event6": "That's reassuring.$5#$b#I'm honored a revered adventurer such as yourself is escorting me.$1",
-  "gunther_event7": "I'll be right behind you.$5",
-  "gunther_event8": "I'll be right behind you.$5"
+  "gunther_event1": "Ya. Sejumlah peradaban pernah hidup di lembah ini ribuan tahun lalu. Elf, Dwarf, Void Spirit...$5#$b#Aku ingin membongkar misteri peradaban kuno itu.$5",
+  "gunther_event2": "Setuju, Tuan @.$5^Setuju, Nona @.$5",
+  "gunther_event3": "Hmm... benar. Banyak senjata terkubur di tanah ini.$5#$b#Mungkin nanti, kita bisa menemukan asal-usul perang kuno antara kaum tersebut...$5",
+  "gunther_event4": "Hmm...#$b#Izinkan aku untuk menyampaikan kesimpulanku, Tuan @.^Izinkan aku untuk menyampaikan kesimpulanku, Nona @.$5",
+  "gunther_event5": "Iya... Aku gugup.$2#$b#Ini pertama kali aku menjelajahi tambang.$5#$b#Aku merasa terhormat karena petualang berpengalaman sepertimu mau mengawalku.$1",
+  "gunther_event6": "Luar biasa.$5#$b#Aku merasa terhormat karena petualang berpengalaman sepertimu mau mengawalku.$1",
+  "gunther_event7": "Aku tepat di belakangmu.$5",
+  "gunther_event8": "Aku tepat di belakangmu.$5"
   
 }
 
