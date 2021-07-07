@@ -16,4 +16,9 @@ enchanted: dipikat/diisi
 rusty: usang
 recent: belakangan
 overgrown: rimbun
-sigh: desahan
+*sigh*: desahan
+someday: kelak
+organizing: menata
+restore: pulih
+backwater: asing, terpencil
+violent: ganas

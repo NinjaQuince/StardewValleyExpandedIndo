@@ -5443,11 +5443,11 @@
      },
 },
 
-{   //Event #5 - Apples Introduction - Spawns into world next day (wayahe iki)
+{   //Event #5 - Apples Introduction - Spawns into world next day
 	"Action": "EditData",
 	"Target": "data/events/Custom_AuroraVineyard",
 	"Entries": { 
-    "7775927/e 7775925/H": "communityCenter/-500 -500/farmer -300 -300 0 Apples -100 -100 2/pause 500/viewport 16 10 true/viewport move 0 1 6000 true/skippable/pause 4000/playSound doorClose/warp farmer 14 22/pause 800/move farmer 0 -4 0/pause 1000/faceDirection farmer 3/pause 1100/faceDirection farmer 0 true/pause 300/faceDirection farmer 1/pause 1250/move farmer 7 0 2/pause 1500/emote farmer 8/pause 500/move farmer 0 3 2/warp farmer -200 -200/playSound stairsdown/pause 750/globalFade/viewport -1000 -1000/changeLocation Custom_ApplesRoom/warp Apples 5 8/showFrame Apples 32/viewport 9 8 true/pause 4000/warp farmer 14 5/playSound stairsdown/pause 500/move farmer 0 3 2/pause 270/faceDirection farmer 3 true/pause 2250/move farmer -5 0 3/pause 1000/stopMusic/pause 1000/shake Apples 500/pause 1000/shake Apples 1000/pause 1000/showFrame Apples 0/playSound pickUpItem/jump Apples/pause 1200/playMusic junimoStarSong/playSound junimoMeep1/pause 800/faceDirection Apples 1 true/pause 700/playSound junimoMeep1/pause 600/playSound junimoMeep1/speak Apples \"Spirit-friend give starfruit!$1#$b#Spirit-friend make Apples happy!$0#$b#Apples take fruit and use forest magic to decorate new home!$1\"/pause 800/move Apples 2 0 1/pause 800/playSound junimoMeep1/pause 700/playSound junimoMeep1/jump Apples/pause 800/playSound junimoMeep1/speak Apples \"Apples here! Apples me!$1#$b#Be new-friend to Apples?$1\"/pause 500/playSound junimoMeep1/pause 200/move Apples 1 0 1/pause 500/playSound junimoMeep1/jump Apples/pause 1000/move Apples 0 1 1/move Apples 2 0 0 true/pause 300/faceDirection farmer 2 true/pause 400/playSound junimoMeep1/pause 300/move Apples 0 -2 3 true/pause 300/faceDirection farmer 1 true/pause 700/move Apples -2 0 2 true/pause 200/playSound junimoMeep1/pause 100/faceDirection farmer 0 true/pause 700/move Apples 0 2 1 true/pause 300/faceDirection farmer 3 true/pause 700/move Apples 1 0 0 true/pause 250/faceDirection farmer 2 true/pause 500/jump Apples/pause 1000/playSound junimoMeep1/speak Apples \"Apples leave soon to go to village. Apples tell other-friends about new home!$0#$b#Apples come back tomorrow!$1\"/pause 650/playSound junimoMeep1/pause 400/playSound junimoMeep1/pause 500/speak Apples \"Play with Apples before trip!$1\"/pause 500/playSound junimoMeep1/pause 500/jump Apples/pause 900/jump Apples/pause 200/playSound junimoMeep1/pause 700/faceDirection Apples 1 true/pause 250/faceDirection Apples 2 true/pause 400/animate Apples false true 200 24 25 24 27/pause 800/playSound junimoMeep1/pause 500/animate farmer false true 300 102 103/pause 1000/playSound junimoMeep1/pause 700/playSound junimoMeep1/pause 1200/globalFade/viewport -1000 -1000/pause 1250/message \"I'm friends with a Junimo! Starting tomorrow, I can talk to Apples.\"/pause 1200/message \"But why isn't the vineyard repaired?...\"/pause 1000/end dialogue Wizard \"%I explain to Magnus what I experienced in Aurora Vineyard.#$e#A Junimo named 'Apples' transformed the vineyard into their home?#$b#Most intriguing. Junimos repair abandoned buildings, not make them worse.#$e#Inform me if anything transpires.\"",
+    "7775927/e 7775925/H": "communityCenter/-500 -500/farmer -300 -300 0 Apples -100 -100 2/pause 500/viewport 16 10 true/viewport move 0 1 6000 true/skippable/pause 4000/playSound doorClose/warp farmer 14 22/pause 800/move farmer 0 -4 0/pause 1000/faceDirection farmer 3/pause 1100/faceDirection farmer 0 true/pause 300/faceDirection farmer 1/pause 1250/move farmer 7 0 2/pause 1500/emote farmer 8/pause 500/move farmer 0 3 2/warp farmer -200 -200/playSound stairsdown/pause 750/globalFade/viewport -1000 -1000/changeLocation Custom_ApplesRoom/warp Apples 5 8/showFrame Apples 32/viewport 9 8 true/pause 4000/warp farmer 14 5/playSound stairsdown/pause 500/move farmer 0 3 2/pause 270/faceDirection farmer 3 true/pause 2250/move farmer -5 0 3/pause 1000/stopMusic/pause 1000/shake Apples 500/pause 1000/shake Apples 1000/pause 1000/showFrame Apples 0/playSound pickUpItem/jump Apples/pause 1200/playMusic junimoStarSong/playSound junimoMeep1/pause 800/faceDirection Apples 1 true/pause 700/playSound junimoMeep1/pause 600/playSound junimoMeep1/speak Apples \"Teman-roh memberi Starfruit!$1#$b#Teman-roh buat Apples senang!$0#$b#Apples terima buah dan pakai sihir hutan buat dekorasi rumah baru!$1\"/pause 800/move Apples 2 0 1/pause 800/playSound junimoMeep1/pause 700/playSound junimoMeep1/jump Apples/pause 800/playSound junimoMeep1/speak Apples \"Apples disini! Aku Apples!$1#$b#Jadi teman-baru Apples?$1\"/pause 500/playSound junimoMeep1/pause 200/move Apples 1 0 1/pause 500/playSound junimoMeep1/jump Apples/pause 1000/move Apples 0 1 1/move Apples 2 0 0 true/pause 300/faceDirection farmer 2 true/pause 400/playSound junimoMeep1/pause 300/move Apples 0 -2 3 true/pause 300/faceDirection farmer 1 true/pause 700/move Apples -2 0 2 true/pause 200/playSound junimoMeep1/pause 100/faceDirection farmer 0 true/pause 700/move Apples 0 2 1 true/pause 300/faceDirection farmer 3 true/pause 700/move Apples 1 0 0 true/pause 250/faceDirection farmer 2 true/pause 500/jump Apples/pause 1000/playSound junimoMeep1/speak Apples \"Apples mau pergi ke desa. Apples beritahu teman-lain soal rumah baru!$0#$b#Apples kembali besok!$1\"/pause 650/playSound junimoMeep1/pause 400/playSound junimoMeep1/pause 500/speak Apples \"Main sama Apples sebelum berangkat!$1\"/pause 500/playSound junimoMeep1/pause 500/jump Apples/pause 900/jump Apples/pause 200/playSound junimoMeep1/pause 700/faceDirection Apples 1 true/pause 250/faceDirection Apples 2 true/pause 400/animate Apples false true 200 24 25 24 27/pause 800/playSound junimoMeep1/pause 500/animate farmer false true 300 102 103/pause 1000/playSound junimoMeep1/pause 700/playSound junimoMeep1/pause 1200/globalFade/viewport -1000 -1000/pause 1250/message \"Aku berteman dengan Junimo! Mulai besok, aku bisa bicara sama Apples.\"/pause 1200/message \"Tapi kenapa kebun anggurnya tidak diperbaiki?...\"/pause 1000/end dialogue Wizard \"%Aku jelaskan semua yang terjadi di Kebun Anggur Aurora pada Magnus.#$e#Ada Junimo bernama 'Apples' yang tinggal di kebun anggur itu?#$b#Sangat menarik. Junimo biasanya memperbaiki bangunan terlantar, bukan memperparahnya.#$e#Beritahu aku jika terjadi sesuatu.\"",
 	},
 },
 
@@ -5459,46 +5459,46 @@
    "Action": "EditData",
    "Target": "Data/Mail",
    "Entries": {
-   "AndyStrawberrySeeds": "Heya @,^^Here's three bags of strawberry seeds. These ought to help you durin' your first season in the valley. Farmers gotta stick together these days.^^ -Andy %item object 745 3 %%",
-   "GuntherGift": "Dear @,^^Enclosed is a portion of the funding we were recently awarded by the Regional Secretary of Artifacts. Thanks to your generous donations, the museum has become a major contributor to ongoing efforts to conserve Ferngill's cultural heritage. I hope these funds provide assistance in your future adventures.^^ -Gunther %item money 40000 40001 %%",
-   "AndyJojaCola": "Heya @,^^I got lucky in a raffle and landed myself a lifetime supply of Joja Cola! These'll help keep your energy up while you're working on the farm.^^  -Andy %item object 167 50 %%",
-   "AndyAncientSeeds": "@,^Found these while I was foraging deep in the forest. Not exactly sure what they are, but I reckon you're better equipped to cultivate them than me. Lemme know what pops up if you get em growing.^^  -Andy %item object 114 5 %%",
-   "SusanIntroduction": "Hello, @^^My name is Susan. Lewis told me you're a new farmer in town. I'm trapped on my farm in the mountains so I can't say hi in person! Hopefully the mess Joja made will be cleared out soon, because I'm going a little stir crazy. Can't wait to meet you and see how the farm is shaping up!^^  -Susan",
-   "SusanFertilizer": "Hello @!,^^This is some of the best fertilizer I've made. Grow something delicious and share it with me!^^  -Susan %item object 369 20 %%",
-   "SusanMelonSeeds": "@!^^My melons are growing like wildfire this year! Here's some extra seeds I got when I popped a number of them in my seedmaker. Don't go trying to compete with me for the melon market though... I'll win!^^  -Susan %item object 479 5 %%",
-   "VictorDewey": "Dear @,^^I'm writing to thank you for listening to me in the graveyard. I know conversations like that can be stressful. If Dewey ever returns, I know he'll be just as happy to have you for a friend as I am.^^  Sincerely, Victor",
-   "OliviaWine": "Dear @,^^The market went my way and I cashed out some of my shares for a huge windfall! To celebrate, I ordered a case of my favorite wine, and I wanted to share a few bottles with you. Let's have a glass together soon!^^  -Olivia %item object 348 5 %%",
-   "OliviaCellar": "Dear @,^^I wanted to thank you for being such a sweetheart and listening to me the other day. I know I can get a little maudlin when I've had a few glasses. Next time we have a drink, I'll tell you about some of the marvelous places I've visited. It's easy to forget there's a world outside of the valley sometimes, but I have plenty of stories to share.^^  All my love, Olivia",
-   //CUT CONTENT. You found a secret! ctrl + f AbigailJunimo to find a cut event "AbigailJunimo": "Hi @,^^I'm still processing what we talked about the other day. I've got more questions than answers. I can't believe that I'm not the only one. I know you won't, but please don't mention this to anyone. I think that this secret just has more secrets underneath it, and I'm not sure I'm ready to turn over all the rocks in my life. Let's talk more soon.^^  -Abby",
-   "GusSophia": "Hi @,^^Just wanted to drop you a quick line to ask you not to mention what I told you to Sophia. I trust you to be discreet. It's important we're on the same page. Looking forward to seeing you at the saloon soon.^^  -Gus",
-   "HaleyTalk": "@,^^Thanks for being kind the other day. I was totally freaking out and you were super patient. I talked to Emily and she's being super helpful and understanding too. I know I can be a  real brat sometimes. We should talk again soon.^^  -Haley",
-   "KentSummit": "Hey @,^^Sorry for getting worked up the other day. I wanted to let you know I've started talking to a professional about this. Ever since I came back, I never know what'll set me off. It's time I get my life in order.^^  -Kent",
-   "PierreSVERebate": "@,^^Thanks to you and the quality produce you've been shipping, my store's business is booming. Along with our regular rebates, I wanted to send you a special bonus. Thanks for being such a good customer and contributor to our small community. It's people like you who keep local businesses alive.^^  -Pierre %item money 2000 5001 %%",
-   "JojaRockslideNotice": "To our valued JojaMart customers:^^Please be advised that the landslide blockage near the railroad will be cleared using explosives tomorrow morning. Avoid the area in case of falling rocks. Joja Co. is not responsible for any damage incurred to people or property in the vicinity.^^JojaMart: We Value Your Business",
-   //"SVEadvertisement1": "Dear resident:^^Our records indicate that you may not have a membership at JojaMart. Did you know that Joja has consistently scored top in the industry for quality and value? A membership may seem like a big investment, but it unlocks so much - it's a real lifechanger! Join today, and become part of the Joja family.^^JojaMart: We Value Your Business",
-   "SVEadvertisement2": "Dear resident:^^In our time in STARDEW VALLEY, Joja has made an effort to become a contributing member of the community. But we can't do it without your help! If you choose to shop at Joja competitors such as PIERRE'S GENERAL STORE, you won't have the same assurance of quality and consistency. And without your business, we won't be able to afford to contribute as much as we'd like to local charities.^^^^Shop at JojaMart and help keep your community great!^^JojaMart: We Value Your Business",
-   //"SVEadvertisement3": "Is work stressing you out? Why not take a trip to the Fern Islands? The Islands are a bustling center of commerce, famous for ring fruit! Even those on a tight budget will find plenty to enjoy! From the sparkling-clean beaches to lush tropical forests, the Fern Islands are a natural oasis that appeals to beachgoers, birdwatchers, and appreciators of nature from all walks of life. Come chase your bliss on the Fern Islands!^^This advertisement paid for by the Fern Islands Bureau of Tourism.",
-   //"SVEadvertisement4": "Getting sick of watering crops? Upgraded tools still not doing the job? Running a farm is hard work. Consider hiring some farmhands to help! Especially in high-output seasons like the fall, having a few spare folks around can be invaluable for saving time. Plus, you help create jobs for your local community. Check your local bulletin board to see if anyone's looking for work!",
-   //"SVEadvertisement5": "ON SALE FOR A LIMITED TIME:^^Special yeast starter with nutrients designed to optimize wine fermentation from a quality-controlled yeast ranch. Has produced award-winning wine consistently since the strain was started almost twenty years ago. Inquiries welcome at Sunshine Vineyard.",
-   //"SVEadvertisement6": "Are you homebrewing beer? Fermenting your own grapes? Sick of your pricy liquids leaking or drying up in low-quality storage? Try hardwood barrels! They don't leak, they naturally repel liquids, and they're almost completely immune to temperature changes, so no more nasty cracks. Craft them yourself, or take the train to Grampleton and pick some up from one of our many talented artisans!",
-   "robinKitchenLetter": "Dear Farmer @,^^You might need some more space someday! That's where I can help. If you bring me some raw materials and pay a fee, I can expand your house. The first expansion I offer includes a kitchen. With a kitchen, you'll be able to cook any recipes you've learned!^^Anyway, I hope you're starting to feel at home in Stardew Valley!^^   Your local carpenter,^   Robin",
-   "JasThankYouLetter": "To Farmer @,^^Aunt Marnie said I needed to write a thank you letter. So... thanks for finding me in the forest and taking me back home. I won't go that far in the forest again.^^  -Jas",
-   "winter_7": "Dear @,^^Tomorrow we're all gathering by Andy's house and walking to the fishing spot in the forest for the Festival of Ice.^^It's a celebration of winter... there'll be snowmen, ice sculptures, and an ice fishing competition!^Arrive between 9 AM and 2 PM if you'd like to participate.^  -Mayor Lewis",
-   "OliviaDatingLetter": "Dear @,^^I've been having feelings about our relationship we just started. I need to tell you some things. Can you visit me at my residence when you have a chance?^^  -Olivia",
-   "OliviaPartyLetter": "Hi honey,^^I'm throwing a house party tonight at my residence. Most of the townsfolk will be there, along with my special guest: the governor!! I would absolutely love you to come, @. The party starts at 6:00PM. Don't be late!^^  -Your love, Olivia",
-   "MarlonLetterCherryBomb": "@,^^The mines are dangerous. These cherry bombs will help during your expeditions.^^Be careful.^^   -Marlon %item object 286 5 %%",
-   "MarlonLetterCherryBombX": "@,^^We received an extra shipment of supplies from Castle Village. I believe you can make good use of these. Good luck.^^  -Marlon %item object 286 10 %%",
-   "MarlonLetterBomb": "@,^^Your assistance in monster eradication has been most helpful to our efforts in protecting the valley. These bombs will help you on your adventures. Stay safe.^^  -Marlon %item object 287 10 %%",
-   "MarlonLetterMegaBomb": "@,^^The guild received another shipment of weapons from Castle Village. These bombs pack a punch. Don't stand too close to them once ignited.^^  -Marlon %item object 288 10 %%",
-   "MarlonLetterPotions": "@,^^Camilla, the witch of Castle Village, supplied 30 elixers to the guild. This is one of her finest brews yet. I'm mailing you half of them. These will assist in your expeditions. Good luck.^^  -Marlon %item object 773 15 %%",
-   "ShrineOfIllusionsLetter": "Greetings @,^^You've proven your trustworthiness. I would like to propose I teach you some basic magic. Visit me in my chambers at your earliest convenience.^^   -M. Rasmodius",
-   "AndyPictureLetter": "Hey farmer,^^Found something in the midst of organizin' my house. Drop on by and I'll show ya! I think you'll enjoy it.^^   -Andy",
-   "SophiaThankYouLetter": "Hey you,^^Thanks for helping me restore my parents' room. I couldn't have done it without you, especially with the heavy stuff! I know it's strange I packed everything up and moved it all back... I suppose it was a change of heart.^Enclosed is a bottle of my finest aged Blue Moon wine. Thanks, silly!^^  -Sophia %item object {{spacechase0.JsonAssets/ObjectId:Aged Blue Moon Wine}} 1 %%",
-   "escortedGunther": "Dear @,^^Enclosed is payment for your services. Thank you for aiding in my research and protecting me.^^ -Gunther %item money 20000 20001 %%",
-   "harveyBalloon": "@,^I have a surprise for you. Meet me in Grampleton Fields, across Shearwater Bridge!^   -Harvey[#]Harvey's Surprise",
-   "JojaSeeds": "Dear valued customer,^^Thanks to the warehouse completion, JojaMart is now selling all seeds year-round! We at Joja appreciate your business.^^   -Morris",
-   "MysteriousWizardLetter": "@,^^Meet me in the forest west of my tower at 2:00 PM sharp today. There's something we must discuss. Come alone.",
-   "ThiefOfJusticeMovie": "You are cordially invited to attend a very special early showing of:^^THE THIEF OF JUSTICE^STARRING CLAIRE WHITLEY^^Premiering tonight at the theater at 5 PM."
+   "AndyStrawberrySeeds": "Heiyo @,^^Ini tiga kantong benih strawberry. Benih ini akan membantu di musim pertamamu berada di lembah. Kita sebagai sesama petani harus saling membantu.^^ -Andy %item object 745 3 %%",
+   "GuntherGift": "Kepada @,^^Di surat ini terlampir dana penghargaan dari Kementerian Artefak Daerah kepada kita. Berkat donasimu, museum telah jadi kontributor utama dalam upaya pelestarian warisan budaya Ferngill. Semoga dana ini bisa membantu di petualanganmu berikutnya.^^ -Gunther %item money 40000 40001 %%",
+   "AndyJojaCola": "Heiyo @,^^Aku menang undian dan dapat suplai Joja Cola seumur hidup! Minuman ini akan menjaga staminamu tetap prima saat bekerja di kebun.^^  -Andy %item object 167 50 %%",
+   "AndyAncientSeeds": "@,^Aku menemukan ini saat cari makanan di hutan dalam. Aku kurang tahu ini apa, tapi kamu punya alat lebih lengkap untuk menanam ini. Beritahu aku kalau sudah tumbuh dan berbuah.^^  -Andy %item object 114 5 %%",
+   "SusanIntroduction": "Halo, @^^Namaku Susan. Lewis bilang kamu petani yang baru pindah ke kota. Aku terjebak di kebunku di gunung, jadi aku tidak bisa menemuimu! Semoga kekacauan akibat Joja ini segera bisa selesai, aku bisa gila kalau disini terus. Aku tak sabar bertemu denganmu dan lihat keadaan kebunmu!^^  -Susan",
+   "SusanFertilizer": "Halo @!,^^Ini ada sejumlah pupuk terbaik buatanku. Tanamlah sesuatu yang lezat dan bagikan padaku!^^  -Susan %item object 369 20 %%",
+   "SusanMelonSeeds": "@!^^Melon-melonku tumbuh cepat tahun ini! Ini ada benih sisa yang kubuat pakai Seedmaker. Jangan coba bersaing denganku di pasar melon ya... Karena pasti aku yang menang!^^  -Susan %item object 479 5 %%",
+   "VictorDewey": "Kepada @,^^Surat ini kutulis sebagai ucapan terima kasih karena sudah mau mendengarku di pemakaman. Percakapan seperti itu memang bikin sedih. Kalau misal Dewey kembali, aku tahu dia akan senang punya teman sepertimu. Layaknya aku.^^  Dengan tulus, Victor",
+   "OliviaWine": "Kepada @,^^Pasar saham berpihak padaku dan aku mencairkan sejumlah uang untuk dana darurat! Untuk merayakan itu, aku memesan kotak khusus buat Wine favoritku, dan aku ingin membaginya padamu. Kapan-kapan mari minum bersama lagi!^^  -Olivia %item object 348 5 %%",
+   "OliviaCellar": "Kepada @,^^Aku ingin berterima kasih karena sudah berbaik hati mendengar keluh kesahku kemarin. Aku memang suka cengeng kalau sedang banyak minum. Lain kali, akan kuceritakan tempat-tempat luar biasa yang pernah kukunjungi. Kadang kita lupa kalau dunia itu tak hanya lembah ini saja, dan ceritaku banyak.^^  Salam penuh cinta, Olivia",
+   //CUT CONTENT. You found a secret! ctrl + f AbigailJunimo to find a cut event "AbigailJunimo": "Hai @,^^Aku masih memikirkan perbincangan kita kemarin. Aku lebih dapat banyak pertanyaan dari jawaban. Kukira cuma aku saja yang bisa melihatnya. Tapi tolong jangan beritahu orang lain soal ini. Kurasa rahasia ini masih punya rahasia lagi untuk digali, dan aku belum siap untuk mengungkap banyak hal. Kapan-kapan kita lanjut pembicaraan ini.^^  -Abby",
+   "GusSophia": "Hai @,^^Aku cuma ingin memintamu agar tidak membicarakan soal kemarin pada Sophia. Aku ingin kamu tutup mulut. Semoga kita saling paham. Mampirlah ke Saloon kalau luang.^^  -Gus",
+   "HaleyTalk": "@,^^Terima kasih sudah mau sabar kemarin. Aku berlebihan dan kamu menenangkanku. Aku sudah bicara pada Emily dan dia sangat peka soal ini. Aku memang kadang suka bandel seperti anak kecil. Kapan-kapan kita ngobrol lagi ya.^^  -Haley",
+   "KentSummit": "Hei @,^^Maaf membuatmu cemas kemarin. Aku cuma ingin memberitahumu kalau aku sudah bicara pada psikolog. Sejak aku pulang, aku tak tahu apa yang membuatku berubah. Sudah saatnya aku menata kembali hidupku.^^  -Kent",
+   "PierreSVERebate": "@,^^Terima kasih. Berkat produk berkualitas yang selama ini kau kirim, tokoku jadi ramai. Beserta uang bonus rutin, aku ingin memberimu bonus spesial. Terima kasih sudah jadi pelanggan dan pemasok yang baik di komunitas kecil kita. Orang sepertimulah yang menyokong kelangsungan bisnis lokal.^^  -Pierre %item money 2000 5001 %%",
+   "JojaRockslideNotice": "Kepada Yth. pelanggan JojaMart:^^Peringatan bahwa tanah longsor di dekat rel kereta api akan dibersihkan menggunakan peledak besok pagi. Hindari daerah tersebut karena rawan jatuhan batu. Joja Co. tidak bertanggung jawab atas kerusakan yang terjadi pada individu atau properti di sekitarnya.^^JojaMart: Kami Menghargai Anda",
+   // "SVEadvertisement1": "Kepada penghuni:^^Catatan kami menunjukkan bahwa Anda belum memiliki membership di JojaMart. Tahukah Anda bahwa Joja secara konsisten mendapat skor teratas di industri untuk kualitas dan nilai produk? Membership mungkin tampak seperti investasi besar, tetapi sangat bermanfaat - ini akan mengubah hidupmu! Bergabunglah sekarang, dan jadilah bagian dari keluarga Joja.^^JojaMart: Kami Menghargai Anda",
+   "SVEadvertisement2": "Kepada penghuni:^^Selama di STARDEW VALLEY, Joja sudah menjadi anggota komunitas yang baik. Tapi semua ini berkat bantuan Anda! Jika Anda berbelanja di pesaing Joja seperti PIERRE'S GENERAL STORE, jaminan kualitasnya tidak akan sama. Dan tanpa bantuan Anda, kami juga takkan mampu berkontribusi pada badan amal lokal.^^^^Belanjalah di JojaMart agar komunitas Anda tetap hebat!^^JojaMart: Kami Menghargai Anda",
+   // "SVEadvertisement3": "Apakah pekerjaan membuat Anda stres? Mengapa tidak berwisata ke Fern Islands? Kepulauan ini adalah pusat perdagangan yang ramai dan terkenal dengan ring fruitnya! Bahkan mereka yang memiliki anggaran terbatas akan menemukan banyak hal untuk dinikmati! Dari pantai yang bersih hingga hutan tropis yang rimbun, Fern Islands adalah oasis alami bagi para penikmat pantai, pengamat burung, dan pengamat alam dari semua lapisan masyarakat. Ayo kejar kebahagiaan Anda di Fern Islands!^^Iklan ini dibiayai oleh Biro Pariwisata Fern Islands.",
+   // "SVEadvertisement4": "Muak menyiram tanaman? Alat yang di-upgrade masih belum bisa mengatasi? Menjalankan pertanian itu keras. Pertimbangkan untuk menyewa beberapa buruh tani untuk membantu! Terutama di musim-musim produksi tinggi seperti musim gugur, punya beberapa tenaga bantu akan sangat berharga untuk menghemat waktu. Ditambah, Anda juga membuka lapangan pekerjaan bagi komunitas lokal. Periksa papan buletin untuk melihat apakah ada yang mencari pekerjaan!",
+   // "SVEadvertisement5": "DISKON UNTUK WAKTU TERBATAS:^^Ragi spesial dengan nutrisi yang dirancang untuk mengoptimalkan fermentasi wine dari peternakan ragi yang terkontrol kualitasnya. Dan telah menghasilkan wine pemenang penghargaan secara konsisten sejak dua puluh tahun yang lalu. Jika ada pertanyaan silakan mampir ke Sunshine Vineyard.",
+   // "SVEadvertisement6": "Apa Anda membuat bir rumahan? Memfermentasi anggur Anda sendiri? Muak dengan cairan mahal Anda yang bocor atau mengering di barrel berkualitas rendah? Cobalah hardwood barrel! Tidak mudah bocor, secara alami anti air, dan hampir sepenuhnya kebal terhadap perubahan suhu, jadi tidak ada lagi retakan parah di barrel. Anda bisa merakitnya sendiri, atau pergi ke Grampleton dan beli beberapa dari dari salah satu pengrajin kami yang terampil!",
+   "robinKitchenLetter": "Kepada Petani @,^^Mungkin kelak kamu ingin memperluas rumahmu! Aku bisa membantumu. Dengan sejumlah material dan ongkos, aku bisa memperluasnya. Perluasan pertama yang kutawarkan sudah termasuk dapur. Dengan dapur, kamu bisa memasak resep apapun yang sudah dipelajari!^^Semoga kamu semakin betah tinggal di Stardew Valley!^^   Tukang kayu lokal,^   Robin",
+   "JasThankYouLetter": "Kepada Petani @,^^Bibi Marnie bilang aku harus menulis surat terima kasih padamu, Jadi... terima kasih sudah menemukanku di hutan dan mengantarku pulang. Aku tidak akan pergi jauh-jauh ke dalam hutan lagi.^^  -Jas",
+   "winter_7": "Kepada @,^^Besok kami akan berkumpul di rumah Andy dan jalan bersama-sama ke lokasi pemancingan di hutan untuk Festival of Ice.^^Ini perayaan atas musim dingin... akan ada manusia salju, patung es, dan lomba memancing!^Datanglah pukul 9 AM sampai 2 PM kalau mau berpartisipasi.^  -Mayor Lewis",
+   "OliviaDatingLetter": "Kepada @,^^Aku merasakan sesuatu atas hubungan yang baru kita mulai. Ada hal yang ingin kukatakan padamu. Bisakah kamu datang ke rumahku saat luang?^^  -Olivia",
+   "OliviaPartyLetter": "Hai sayang,^^Aku mengadakan pesta malam ini di rumahku. Banyak warga yang akan datang, ada tamu spesial juga: pak gubernur!! Aku ingin sekali kamu datang, @. Pestanya dimulai jam 6:00PM. Jangan terlambat!^^  -Kekasihmu, Olivia",
+   "MarlonLetterCherryBomb": "@,^^Tambang adalah tempat berbahaya. Cherry Bomb ini akan membantu ekspedisimu.^^Hati-hati.^^   -Marlon %item object 286 5 %%",
+   "MarlonLetterCherryBombX": "@,^^Ada barang lebih dari kiriman Castle Village. Aku yakin kamu membutuhkannya. Semoga beruntung.^^  -Marlon %item object 286 10 %%",
+   "MarlonLetterBomb": "@,^^Upayamu dalam pemberantasan monster sangat membantu tujuan kami untuk melindungi lembah. Bom ini akan membantumu dalam petualangan. Jaga diri.^^  -Marlon %item object 287 10 %%",
+   "MarlonLetterMegaBomb": "@,^^Serikat menerima kiriman senjata lagi dari Castle Village. Bom ini daya ledaknya tinggi. Menjauhlah kalau sudah disulut.^^  -Marlon %item object 288 10 %%",
+   "MarlonLetterPotions": "@,^^Camilla, penyihir dari Castle Village, menyuplai 30 ramuan ke serikat. Ini salah satu ramuan terbaiknya. Setengahnya kukirim padamu. Ini akan membantu ekspedisimu. Semoga beruntung.^^  -Marlon %item object 773 15 %%",
+   "ShrineOfIllusionsLetter": "Salam @,^^Kau sudah membuktikan diri. Jika berkenan, aku ingin mengajarimu dasar-dasar sihir. Datanglah ke rumahku jika ada waktu.^^   -M. Rasmodius",
+   "AndyPictureLetter": "Hei petani,^^Aku menemukan sesuatu pas menata rumah. Mampirlah kalau kau tertarik! Kurasa kau akan suka.^^   -Andy",
+   "SophiaThankYouLetter": "Hei kau,^^Terima kasih sudah membantu pemulihan kamar orang tuaku. Aku takkan bisa melakukannya tanpamu, khususnya yang berat-berat! Memang aneh karena sudah kukemas lalu kukeluarkan lagi... Mungkin karena pikiranku berubah.^Aku juga melampirkan sebotol Aged Blue Moon Wine. Makasih, konyol!^^  -Sophia %item object {{spacechase0.JsonAssets/ObjectId:Aged Blue Moon Wine}} 1 %%",
+   "escortedGunther": "Kepada @,^^Pembayaran atas layananmu terlampir disini. Terima kasih sudah membantu risetku dan melindungiku.^^ -Gunther %item money 20000 20001 %%",
+   "harveyBalloon": "@,^Ada kejutan untukmu. Temui aku di Grampleton Fields, seberang Jembatan Shearwater!^   -Harvey[#]Kejutan Harvey",
+   "JojaSeeds": "Kepada Yth. pelanggan,^^Terima kasih telah menyelesaikan pembangunan gudang, sekarang JojaMart menjual semua jenih benih sepanjang tahun! Di Joja, kami yang menghargai anda.^^   -Morris",
+   "MysteriousWizardLetter": "@,^^Temui aku di hutan barat menaraku pada 2:00 PM tepat. Ada hal yang harus kita bahas. Datanglah sendiri.",
+   "ThiefOfJusticeMovie": "Dengan hormat, anda diundang ke pratayang film:^^THE THIEF OF JUSTICE^DIBINTANGI CLAIRE WHITLEY^^Tayang perdana malam ini di bioskop pukul 5 PM."
 
 	}
 },
@@ -5508,20 +5508,20 @@
    "Target": "Data/Mail",
    "When": { "HasSeenEvent": "6665292" },
    "Entries": {
-   "quest10": "@,^I've heard you've been giving some people a hand around town! Everyone seems really thankful. I'm awarding you this month's \"Best Neighbor\" award (with a small cash prize). Keep it up! ^   -Lewis%item money 500 501 %%[#]Best Neighbor",
-   "quest35": "Dear @,^you've been such a help around town since you moved here... everyone keeps telling me all the wonderful things you've done for them! Please accept this thank-you prize. ^   -Lewis%item money 2500 2501 %%[#]Thank-you From Lewis",
-   "quest100": "@,^I am pleased to announce that you've been chosen as \"Neighbor of the year\"! That comes with a 10,000g prize! Congratulations! Everyone in town wants to say 'thanks' for all you've done. ^   -Lewis%item money 10000 10001 %%[#]Neighbor Of The Year",
-   "EmilyClothingTherapy": "@,^I have this crazy new idea that I want to involve you in... It's called \"Clothing Therapy\".^^Please come to Lewis' manor today to see what it's all about.^^ Love, Emily[#]Emily's Idea",
-   "foundLostTools": "Dear @,^Someone dropped your tools into the lost and found bin last night.^^I came in and set them next to your bed.^Hope I didn't wake you... ^^  -Mayor Morris[#]Lost Tools",
-   "winter_18": "Dear @,^I would like to give you some information about an upcoming event: the Feast of the Winter Star. It's a time for the community to come together and think back on all the good fortune we've had this year.^A favorite tradition is the \"secret gift exchange\", where everyone in town is randomly assigned to someone else. On the day of the festival, everyone brings a gift for their secret friend and surprise them with something special!^This year, your secret friend is:^    %secretsanta ^Don't tell anyone! The feast will take place on the 25th from 10AM to 2PM at the town square. See you then! ^   -Lewis^   -Event Coordinater[#]Secret Gift-Giver",
-   "spring_12": "Dear @,^Tomorrow we're holding the Egg Festival in the town square. ^^You should arrive between 9 AM and 2 PM if you'd like to attend.^You wouldn't want to miss the annual egg hunt!^  -Lewis^  -Event Coordinator[#]Egg Festival Notice",
-   "spring_23": "Dear @,^Tomorrow we're all getting together for the Flower Dance.^^If you can find a partner, you might even want to participate in the dance yourself!^There's a little clearing beyond the forest west of town where we hold the dance. Arrive between 9 AM and 2 PM if you're interested.^  -Lewis^   -Event Coordinater[#]Flower Dance Notice",
-   "summer_10": "Dear @,^Tomorrow we're all gathering at the beach for the annual Pelican Town Luau.^^The highlight of the event is the communal potluck. Make sure you bring something good to contribute!^The governor himself is attending the event, so make sure you're on your best behavior.^Come to the beach sometime between 9 AM and 2 PM.^   -Lewis^   -Event Coordinater[#]Luau Notice",
-   "fall_9": "Dear @,^One week from today, we are holding the Stardew Valley Fair in the town square!^It's the biggest event of the year, drawing people from all across the country to our humble town.^If you'd like, you can set up a grange display for the event. Just bring up to 9 items that best showcase your talents. You'll be judged on the quality and diversity of your display.^The fair starts at 9 AM... don't miss it!^   -Lewis^   -Event Coordinater[#]Stardew Valley Fair Notice",
-   "fall_26": "Dear @,^Notice a chill in the air? It could just be the approach of winter...^Or it could be the tingle of a dark specter, here to help us celebrate tomorrow's festival... the Spirit's Eve.^Come to town at 10 PM if you'd like to participate.^  -Lewis^  -Event Coordinater[#]Spirit's Eve Notice",
-   "winter_7": "Dear @,^Tomorrow we're all gathering in front of Marnie's house for the Festival of Ice.^^It's a celebration of winter... there'll be snowmen, ice sculptures, and an ice fishing competition!^Arrive between 9 AM and 2 PM if you'd like to participate.^  -Lewis^  -Event Coordinater[#]Festival Of Ice Notice",
-   "summer_21_2": "@,^I need truffle oil. Don't ask me why.^ -Lewis%item quest 120 %%[#]Lewis' Request",
-   "winter_24": "Dear @,^Tomorrow is the Feast of the Winter Star.^Did you get a gift for your 'secret friend'... %secretsanta?^The feast starts at 9 AM in the town square. See you then! ^   -Lewis^   -Event Coordinater[#]Feast Of The Winter Star Reminder",
+   "quest10": "@,^Kudengar kau sudah banyak membantu penduduk! Semuanya sangat berterimakasih padamu. Penghargaan \"Tetangga Terbaik\" bulan ini kuberikan padamu (beserta hadiah sedikit uang). Lanjutkan! ^   -Lewis%item money 500 501 %%[#]Tetangga Terbaik",
+   "quest35": "Kepada @,^kamu sudah banyak membantu sejak pindah ke kota... semuanya selalu bilang hal baik tentangmu! Terimalah pemberian ini sebagai ucapan terima kasih. ^   -Lewis%item money 2500 2501 %%[#]Ungkapan Terima Kasih Lewis",
+   "quest100": "@,^Dengan senang hati aku sampaikan bahwa kamu telah terpilih sebagai \"Tetangga Terbaik Tahun Ini\"!  Beserta hadiah 10.000g! Selamat! Semua orang di kota ini ingin berterima kasih atas semua yang sudah kamu lakukan. ^   -Lewis%item money 10000 10001 %%[#]Tetangga Terbaik Tahun Ini",
+   "EmilyClothingTherapy": "@,^Aku ada ide gila dan ingin melibatkanmu... Idenya adalah \"Clothing Therapy\".^^Datanglah ke rumah Lewis hari ini kalau ingin tahu lebih lanjut.^^ Dengan kasih sayang, Emily[#]Ide Emily",
+   "foundLostTools": "Kepada @,^Tadi malam ada orang yang menaruh alat-alatmu di kotak barang temuan.^^Sudah aku kembalikan di dekat tempat tidurmu.^Semoga tidurmu tidak terganggu... ^^  -Mayor Morris[#]Alat Hilang",
+   "winter_18": "Dear @,^Aku hendak membari info tentang acara yang akan datang: Feast of the Winter Star. Ini adalah waktu dimana komunitas berkumpul dan bersyukur atas tahun ini.^Tradisi favorit adalah \"tukar hadiah rahasia\", dimana semua orang saling memberi hadiah pada teman rahasia yang ditunjuk secara acak. Saat festival berlangsung, semua akan membawa hadiah spesial untuk teman rahasia masing-masing!^Tahun ini, teman rahasiamu adalah:^    %secretsanta ^Jangan beritahu siapapun! Festivalnya dimulai pada jam 10Am sampai 2PM tanggal 25 di alun-alun. Sampai ketemu lagi! ^   -Lewis^   -Koordinator Acara[#]Pemberi Hadiah Rahasia",
+   "spring_12": "Kepada @,^Besok kami akan mengadakan Egg Festival di alun-alun. ^^Datanglah pukul 9 AM sampai 2 PM kalau mau ikut.^Kamu pasti tak mau melewatkan perburuan telur tahunan!^  -Lewis^  -Koordinator Acara[#]Pemberitahuan Egg Festival",
+   "spring_23": "Kepada @,^Besok kami semua akan berkumpul untuk acara Flower Dance.^^Kalau punya pasangan, ikutlah serta dalam menari!^Ada tanah terbuka di dalam hutan barat kota. Kami akan mengadakannya di sana. Datanglah pukul 9 AM sampai 2 PM kalau tertarik.^  -Lewis^   -Koordinator Acara[#]Pemberitahuan Flower Dance",
+   "summer_10": "Kepada @,^Besok kami akan berkumpul di pantai untuk festival tahunan Pelican Town, Luau.^^Acara utamanya adalah makan seadanya dari warga. Pastikan membawa bahan makanan bagus untuk disumbangkan!^Pak Gubernur juga akan hadir di acara ini, jadi jaga kelakuanmu.^Datanglah ke pantai pukul 9 AM sampai 2 PM.^   -Lewis^   -Koordinator Acara[#]Pemberitahuan Luau",
+   "fall_9": "Kepada @,^Seminggu lagi, kami akan mengadakan Stardew Valley Fair di alun-alun!^Ini festival paling ramai tiap tahun, karena akan ada banyak turis berdatangan.^Kalau mau, kau juga boleh ikut membuat pajangan untuk dipamerkan. Bawalah 9 item terbaik dari buah keahlianmu. Pajanganmu akan dinilai berdasarkan variasi dan kualitas.^Pamerannya dimulai pukul 9 AM... jangan sampai kelewatan!^   -Lewis^   -Koordinator Acara[#]Pemberitahuan Stardew Valley Fair",
+   "fall_26": "Kepada @,^Sudah mulai merasakan dingin? Itu tandanya musim dingin sudah dekat...^Atau mungkin kau menggigil karena ada roh jahat yang ingin mengajakmu untuk meramaikan festival besok... yaitu Spirit Eve.^Datanglah ke alun-alun pukul 10 PM kalau mau ikut.^  -Lewis^  -Koordinator Acara[#]Pemberitahuan Spirit's Eve",
+   "winter_7": "Kepada @,^^Besok kami akan berkumpul di rumah Andy dan jalan bersama-sama ke lokasi pemancingan di hutan untuk Festival of Ice.^^Ini perayaan atas musim dingin... akan ada manusia salju, patung es, dan lomba memancing!^Datanglah pukul 9 AM sampai 2 PM kalau mau berpartisipasi.^ -Lewis^  -Koordinator Acara[#]Pemberitahuan Feast Of The Winter Star",
+   "summer_21_2": "@,^Aku butuh Truffle Oil. Jangan tanya buat apa.^ -Lewis%item quest 120 %%[#]Permintaan Lewis",
+   "winter_24": "Kepada @,^Feast of the Winter Star diadakan besok.^Apa kamu sudah menyiapkan hadiah buat 'teman rahasia'mu... %secretsanta?^Acara akan dimulai pukul 9 AM di alun-alun. Sampai ketemu di sana! ^   -Lewis^   -Koordinator Acara[#]Pengingat Feast Of The Winter Star",
    }
 },
 
@@ -5579,7 +5579,7 @@
       "Action": "EditData",
       "Target": "Data/ExtraDialogue",
       "Entries": {
-      "PurchasedItem_Teen": "Hey, so I picked up a {2} at the store last night. Pierre said it came from %farm Farm!$1",
+      "PurchasedItem_Teen": "Hei, semalam aku beli sebuah {2} di toko. Pierre bilang itu dari Kebun %farm!$1",
     }
 },
 
@@ -6648,12 +6648,12 @@
      "Action": "EditData",
      "Target": "Strings/StringsFromMaps",
      "Entries": {
-	    "MovieTheater_Gunther": "%It smells like buttered popcorn!",
-        "MovieTheater_Gunther2": "%It smells like buttered popcorn!",
-        "MovieTheater_Marlon": "%Gil is sleeping.",
-        "MovieTheater_Marlon2": "%Gil is taking it easy.",
-		"MovieTheater_Morris": "%There's free Joja Cola.",
-        "MovieTheater_Morris2": "%There's free Joja Cola.",
+	    "MovieTheater_Gunther": "%Ini bau popcorn!",
+        "MovieTheater_Gunther2": "%Ini bau popcorn!",
+        "MovieTheater_Marlon": "%Gil sedang tidur.",
+        "MovieTheater_Marlon2": "%Gil sedang bersantai.",
+		"MovieTheater_Morris": "%Ada Joja Cola gratis.",
+        "MovieTheater_Morris2": "%Ada Joja Cola gratis.",
 	 }
 },
 
@@ -6847,18 +6847,18 @@
 {    //Changes perfection string
 	 "Action": "EditData",
      "Target": "Strings/UI",
-     "Entries": { "Chat_Eternal3": "You feel the mountain summit calling to you..." }
+     "Entries": { "Chat_Eternal3": "Kamu merasa puncak gunung memanggilmu..." }
 },
 
 {    //Summit SVE spouse dialogue additions
 	 "Action": "EditData",
      "Target": "Data/ExtraDialogue",
      "Entries": { 
-	    "SummitEvent_Dialogue3_Sophia": "Hey, silly...$1\"/pause 500/faceDirection farmer 1/pause 350/speak Sophia \"Thank you for always filling my days with joy and comforting me when I'm down.$1#$b#It's nice knowing there will always be someone there for me.$9\"/pause 500/faceDirection Sophia 3/pause 300/speak Sophia \"I love living this happy farmer's life with you.$4",
-		"SummitEvent_Dialogue3_Victor": "I remember the last time we were up here. We've both grown so much since then. Crazy how time flies.$1#$b#There's nowhere else I'd rather be than here with you, in this moment.$3\"/pause 500/faceDirection Victor 3/pause 300/faceDirection farmer 1/pause 150/speak Victor \"Thank you for coming into my life, and making every day an adventure.$1", 
-		"SummitEvent_Dialogue3_Olivia": "I don't have a single regret about choosing to spend the rest of my life with you, all those years ago.$3\"/pause 500/faceDirection Olivia 3/pause 500/faceDirection farmer 1/pause 300/speak Olivia \"I wish I could show you how I see you through my eyes.$3#$b#If only so you could feel how much you mean to me, and how much I love you.$4", 
-		"SummitEvent_Dialogue3_Claire": "Taking the job offer at Joja Mart was the best decision I ever made.$1#$b#Goes to show, you never know what the future holds. Or how one choice can change your whole life...$5\"/pause 500/faceDirection Claire 3/pause 500/faceDirection farmer 1/pause 300/speak Claire \"My heart is and always will be yours...$4",
-	    "SummitEvent_Dialogue3_Wizard": "You know, after the way things with my ex wife concluded, and... and Caroline, too...I truly wasn't sure I'd ever find someone to spend my life with.#$b#I thought I might be destined to be alone with my spells, in my tower in the woods.$2#$b#And then you moved into the valley, and it didn't matter that I hid myself away...$0#$b#You came through the woods to knock on my door and find me, again and again. You brought hope into my life when I thought it had died a long while ago.$5\"/pause 500/faceDirection Wizard 3/pause 500/faceDirection farmer 1/pause 300/speak Wizard \"Thank you for trusting me. For believing in me, and giving me a chance at living again.$1#$b#You've given me the gift of joy, @. I can only do my best to return it...and so I shall, for the rest of our lives together.$4",
+	    "SummitEvent_Dialogue3_Sophia": "Hei, konyol...$1\"/pause 500/faceDirection farmer 1/pause 350/speak Sophia \"Terima kasih sudah membuat hari-hariku cerah dan selalu menghibur saat sedang sedih.$1#$b#Senang rasanya ada orang yang akan selalu setia menemaniku.$9\"/pause 500/faceDirection Sophia 3/pause 300/speak Sophia \"Aku bahagia hidup bersamamu.$4",
+		"SummitEvent_Dialogue3_Victor": "Aku ingat terakhir kali kita di sini. Waktu terasa cepat berlalu, melihat hubungan kita sekarang.$1#$b#Saat ini, tak ada tempat lain yang kuinginkan selain di sini, di sisimu.$3\"/pause 500/faceDirection Victor 3/pause 300/faceDirection farmer 1/pause 150/speak Victor \"Terima kasih telah hadir ke kehidupanku, dan bertualang bersamaku.$1", 
+		"SummitEvent_Dialogue3_Olivia": "Aku tidak pernah menyesal sekali pun dengan keputusanku untuk hidup bersamamu.$3\"/pause 500/faceDirection Olivia 3/pause 500/faceDirection farmer 1/pause 300/speak Olivia \"Aku ingin kau melihat betapa berartinya dirimu lewat mata kepalaku ini.$3#$b#Hanya itu caranya untuk menunjukkan betapa berartinya dirimu dan betapa besar cintaku padamu.$4", 
+		"SummitEvent_Dialogue3_Claire": "enerima tawaran kerja di Joja Mart adalah keputusan terbaik yang pernah kuambil dalam hidup.$1#$b#Kau tidak pernah tahu apa yang akan terjadi di masa depan...$5\"/pause 500/faceDirection Claire 3/pause 500/faceDirection farmer 1/pause 300/speak Claire \"Hatiku akan selalu jadi milikmu...$4",
+	    "SummitEvent_Dialogue3_Wizard": "Kau tahu, setelah berpisah dengan istriku, dan... dan perkara Caroline selesai... Kukira aku takkan menemukan teman hidupku lagi.#$b#Kukira aku akan terus sendiri dengan mantera-manteraku, di menaraku di tengah hutan.$2#$b#Lalu kamu datang ke lembah, dan aku tak perlu menyembunyikan diri lagi...$0#$b#Kau masuk ke hutan dan mengetuk pintu mencariku, lagi dan lagi. Kau membawa harapan ke hidupku yang kukira telah semu sejak dulu.$5\"/pause 500/faceDirection Wizard 3/pause 500/faceDirection farmer 1/pause 300/speak Wizard \"Terima kasih atas kepercayaanmu. Dan memberi kesempatan lagi dalam hidupku.$1#$b#Kamu membuatku bahagia, @. Dan aku akan membalasnya sebisa mungkin, sepanjang hidup kita bersama.$4",
 	 }
 },
 
@@ -6867,10 +6867,10 @@
      "Target": "Data/ExtraDialogue",
 	 "When": { "HasSeenEvent": "6665293" },
      "Entries": { 
-	    "SummitEvent_Intro_Morris": "Ah, @!$1#$e#Come to take a gander at this spectacular view have we?",
-        "SummitEvent_Dialogue1_Morris": "You know, when I was first assigned to this location over %year years ago, I considered it a step back in my career.$0#$b#What self-respecting Joja Manager would want to preside over a tiny, backwater location like Pelican Town?$1",
+	    "SummitEvent_Intro_Morris": "Ah, @!$1#$e#Datang untuk menikmati pemandangan juga?",
+        "SummitEvent_Dialogue1_Morris": "Kau tahu, saat ditugaskan ke sini %year tahun lalu, aku menganggapnya sebagai penurunan karir.$0#$b#Manajer Joja terhormat mana yang mau ditugaskan ke kota asing dan terpencil seperti Pelican Town?$1",
         "SummitEvent_Dialogue2_Morris": "But I have to say, this valley has really grown on me, over the years.$2#$b#Ever since becoming Mayor, my eyes opened to a different way of life. It's hard to say this, but... It's been... a humbling experience.$0",
-        "SummitEvent_Outro_Morris": "Together, we brought much needed change to the valley. Cheers the bright future that awaits us, @!$1",
+        "SummitEvent_Outro_Morris": "Bersama, kita telah memberi banyak perubahan ke lembah. Semoga masa depan cerah menanti kita, @!$1",
 	 }
 },
 
@@ -6886,11 +6886,11 @@
 	 "Action": "EditData",
      "Target": "Strings/Characters",
      "Entries": { 
-	 "MovieInvite_Spouse_Victor": "Ah, of course! I'd love to see a movie with you!$3#$e#Shall we walk to the movie theater together?$1",
-	 "MovieInvite_Spouse_Olivia": "Oh, you want to see a film at the cinema? It'll be a lovely date night.$3",
-	 "MovieInvite_Spouse_Sophia": "Oooh! A movie? Yay!$9#$b#I'll meet you there okay?$1#$e#I'm going to get cotton candy!$1",
-	 "MovieInvite_Spouse_Claire": "You want to see a film with me? Sure!$1",
-	 "MovieInvite_Spouse_Wizard": "You wish to watch a movie at the theater? I'd be delighted.$0",
+	 "MovieInvite_Spouse_Victor": "Ah, tentu saja! Aku senang menonton film denganmu!$3#$e#Mau jalan bersama ke bioskop?$1",
+	 "MovieInvite_Spouse_Olivia": "Oh, kamu mau nonton film di bioskop? Ini akan jadi kencan yang indah.$3",
+	 "MovieInvite_Spouse_Sophia": "Oooh! Nonton film? Yey!$9#$b#Kutunggu kamu di sana ya?$1#$e#Aku akan beli permen kapas!$1",
+	 "MovieInvite_Spouse_Claire": "Kamu mau nonton film denganku? Iya, tentu!$1",
+	 "MovieInvite_Spouse_Wizard": "Kamu mengajakku lihat film di bioskop? Dengan senang hati kuterima.$0",
 	 }
 },
 
@@ -6928,9 +6928,9 @@
 	 "When": { "Year": "{{Range: 2, 999}}" },
      "Entries": {
      "set-up": "fallFest/27 60/farmer 12 54 1/changeToTemporaryMap Town-EggFestival/loadActors Set-Up/advancedMove Andy true 1 9000 -6 0 0 -8 4 7000 0 8 6 0 1 8000/advancedMove Vincent true -2 0 0 -2 2 0 0 2/advancedMove Jas true 2 0 0 2 -2 0 0 -2/advancedMove Leo true 0 -2 2 0 0 2 -2 0/advancedMove Pam true 0 -1 3 5000 0 2 3 5000 0 -1 3 4000/advancedMove Clint true 1 7000 0 1 3 7000 0 -1/advancedMove Demetrius true 2 15000 -3 0 0 8 3 20000 0 -8 3 0/advancedMove Willy true 2 25000 -4 0 0 -12 4 0 0 -1 4 30000 0 1 -4 0 0 12 4 0/advancedMove Shane true 4 40000 2 0 0 2 1 35000 0 -2 -2 0/advancedMove Harvey true 0 6 -6 0 0 9 -3 0 3 15000 3 0 0 3 18 0 0 -8 1 0 0 -11 -13 0 0 1 2 30000/playerControl eggFestival",
-     "afterEggHunt": "pause 100/playSound whistle/waitForOtherPlayers endContest/pause 1000/globalFade/viewport -1000 -1000/playMusic event1/loadActors MainEvent/warp farmer1 27 69 /warp farmer2 26 67/warp farmer3 32 67/warp farmer4 28 71/faceDirection farmer1 0/faceDirection farmer2 1/faceDirection farmer3 3/faceDirection farmer4 0/pause 1000/viewport 27 67 true/pause 2000/speak Lewis \"Wow, look at all these eggs!$h#$b#Now if only I could get you kids to pick up litter this efficiently, we'd have the cleanest town this side of the Gem Sea! *chuckle*$h\"/pause 800/playMusic none/speak Lewis \"And now, the winner of this year's egg hunt...\"/playMusic none/pause 3000/cutscene eggHuntWinner/null/playMusic event1/pause 500/fork AbbyWin/move Lewis 0 1 2/speak Lewis \"Here's your prize! Enjoy.\"/awardFestivalPrize/null/move Lewis 0 -1 0/speak Lewis \"Well, that's it for this year's Egg Festival. Thanks for coming, everyone!\"/pause 600/viewport move 1 0 5000/pause 2000/globalFade/viewport -1000 -1000/waitForOtherPlayers festivalEnd/end",
-     "AbbyWin": "pause 100/jump Abigail/faceDirection Vincent 3/pause 800/move Abigail 0 -1 0/faceDirection Vincent 0/speak Lewis \"Here's your prize, Abigail. Enjoy!\"/pause 500/move Abigail 0 -1 0/playSound coin/pause 400/move Abigail 0 2 0/faceDirection Lewis 0/speak Lewis \"Well, that's it for this year's Egg Festival. Thanks for coming, everyone!\"/pause 1000/viewport move 1 -1 5000/pause 2000/globalFade/viewport -1000 -1000/waitForOtherPlayers festivalEnd/end",
-     "mainEvent": "pause 400/playMusic none/pause 500/globalFade/viewport -1000 -1000/loadActors MainEvent/warp farmer1 27 69 /warp farmer2 27 67/warp farmer3 32 67/warp farmer4 28 71/faceDirection farmer1 0/faceDirection farmer2 1/faceDirection farmer3 3/faceDirection farmer4 0/pause 1000/viewport 27 67 true unfreeze/pause 2000/speak Lewis \"It's time for the highlight of today's festivities... The Annual Spring Egg Hunt!$h\"/pause 100/jump Jas/pause 100/jump Vincent/pause 250/pause 1200/speak Lewis \"Calm down now, kiddos. You're going to need all your energy if you hope to find the most eggs and take home the exclusive prize.\"/pause 100/faceDirection Vincent 3 true/faceDirection Jas 1 true/pause 1000/faceDirection Vincent 0 true/faceDirection Jas 0 /pause 800/faceDirection Lewis 3/faceDirection Lewis 2/faceDirection Lewis 1/faceDirection Lewis 2/pause 800/speak Lewis \"Now... Is everyone ready?\"/pause 1000/waitForOtherPlayers startContest/jump Lewis/pause 1000/speak Lewis \"Let the egg hunt begin!$h\"/advancedMove Sophia false 0 -13 -12 0 0 20 16 0 0 16 -18 0 0 4 4 0 0 -12 8 0 4 5000/advancedMove Maru false -2 0 0 6 -9 0 0 -2 -9 0 0 -1 2 0 0 -12 6 0 0 -4 15 0 0 1 3 0 0 1 5 0 0 2 12 0 0 11/advancedMove Abigail false 0 21 -20 0 0 3 7 0 0 -2 26 0 0 5 25 0/advancedMove Jas false 0 12 8 0 0 10 3 0 0 4 14 0 0 -20 -7 0 0 6 -14 0/advancedMove Sam false 4 0 0 -4 2 0 0 -4 12 0 0 -6 19 0 0 20 0 -20 0 20/advancedMove Vincent false 0 3 24 0 0 22 15 0 0 -21 -25 0 4 7000/advancedMove Leo false -1 0 0 7 -5 0 0 3 13 0 0 2 20 0 0 -9 -3 0 0 -19 19 0 0 -1/playSound whistle/playMusic tickTock/playerControl eggHunt",
+     "afterEggHunt": "pause 100/playSound whistle/waitForOtherPlayers endContest/pause 1000/globalFade/viewport -1000 -1000/playMusic event1/loadActors MainEvent/warp farmer1 27 69 /warp farmer2 26 67/warp farmer3 32 67/warp farmer4 28 71/faceDirection farmer1 0/faceDirection farmer2 1/faceDirection farmer3 3/faceDirection farmer4 0/pause 1000/viewport 27 67 true/pause 2000/speak Lewis \"Wow, lihat semua telur ini!$h#$b#Kalau saja kalian memungut sampah sehebat ini, Kota ini akan jadi yang terbersih di pesisir Gem Sea! *cekikikan*$h\"/pause 800/playMusic none/speak Lewis \"Dan sekarang, juara perburuan telur tahun ini adalah...\"/playMusic none/pause 3000/cutscene eggHuntWinner/null/playMusic event1/pause 500/fork AbbyWin/move Lewis 0 1 2/speak Lewis \"Ini hadiahnya. Selamat!\"/awardFestivalPrize/null/move Lewis 0 -1 0/speak Lewis \"Baiklah, dengan ini berakhir sudah Egg Festival tahun ini. Terima kasih sudah datang semuanya!\"/pause 600/viewport move 1 0 5000/pause 2000/globalFade/viewport -1000 -1000/waitForOtherPlayers festivalEnd/end",
+     "AbbyWin": "pause 100/jump Abigail/faceDirection Vincent 3/pause 800/move Abigail 0 -1 0/faceDirection Vincent 0/speak Lewis \"Ini hadiahmu, Abigail. Selamat!\"/pause 500/move Abigail 0 -1 0/playSound coin/pause 400/move Abigail 0 2 0/faceDirection Lewis 0/speak Lewis \"Baiklah, dengan ini berakhir sudah Egg Festival tahun ini. Terima kasih sudah datang semuanya!\"/pause 1000/viewport move 1 -1 5000/pause 2000/globalFade/viewport -1000 -1000/waitForOtherPlayers festivalEnd/end",
+     "mainEvent": "pause 400/playMusic none/pause 500/globalFade/viewport -1000 -1000/loadActors MainEvent/warp farmer1 27 69 /warp farmer2 27 67/warp farmer3 32 67/warp farmer4 28 71/faceDirection farmer1 0/faceDirection farmer2 1/faceDirection farmer3 3/faceDirection farmer4 0/pause 1000/viewport 27 67 true unfreeze/pause 2000/speak Lewis \"Waktunya sudah tiba untuk acara utama di festival ini... Perburuan Telur Tahunan!$h\"/pause 100/jump Jas/pause 100/jump Vincent/pause 250/pause 1200/speak Lewis \"Tenang dulu, anak-anak. Kalian akan butuh banyak energi kalau ingin menemukan banyak telur dan memenangkan hadiahnya.\"/pause 100/faceDirection Vincent 3 true/faceDirection Jas 1 true/pause 1000/faceDirection Vincent 0 true/faceDirection Jas 0 /pause 800/faceDirection Lewis 3/faceDirection Lewis 2/faceDirection Lewis 1/faceDirection Lewis 2/pause 800/speak Lewis \"Baiklah... Semuanya sudah siap?\"/pause 1000/waitForOtherPlayers startContest/jump Lewis/pause 1000/speak Lewis \"Perburuan telur dimulai!$h\"/advancedMove Sophia false 0 -13 -12 0 0 20 16 0 0 16 -18 0 0 4 4 0 0 -12 8 0 4 5000/advancedMove Maru false -2 0 0 6 -9 0 0 -2 -9 0 0 -1 2 0 0 -12 6 0 0 -4 15 0 0 1 3 0 0 1 5 0 0 2 12 0 0 11/advancedMove Abigail false 0 21 -20 0 0 3 7 0 0 -2 26 0 0 5 25 0/advancedMove Jas false 0 12 8 0 0 10 3 0 0 4 14 0 0 -20 -7 0 0 6 -14 0/advancedMove Sam false 4 0 0 -4 2 0 0 -4 12 0 0 -6 19 0 0 20 0 -20 0 20/advancedMove Vincent false 0 3 24 0 0 22 15 0 0 -21 -25 0 4 7000/advancedMove Leo false -1 0 0 7 -5 0 0 3 13 0 0 2 20 0 0 -9 -3 0 0 -19 19 0 0 -1/playSound whistle/playMusic tickTock/playerControl eggHunt",
      }
 },
 
@@ -7174,7 +7174,7 @@
      "Target": "Data/Festivals/spring13",
 	 "When": { "HasMod": "invatorzen.AspenCP" },
 	 "Entries": {
-     "mainEvent": "pause 500/playMusic none/pause 500/globalFade/viewport -1000 -1000/loadActors MainEvent/warp farmer1 27 69 /warp farmer2 27 67/warp farmer3 32 67/warp farmer4 28 71/faceDirection farmer1 0/faceDirection farmer2 1/faceDirection farmer3 3/faceDirection farmer4 0/pause 1000/viewport 27 67 true unfreeze/pause 2000/speak Lewis \"It's time for the highlight of today's festivities... The Annual Spring Egg Hunt!$h\"/pause 100/jump Jas/pause 100/jump Vincent/pause 1200/speak Lewis \"Calm down now, kiddos. You're going to need all your energy if you hope to find the most eggs and take home the exclusive prize.\"/pause 100/faceDirection Vincent 3 true/faceDirection Jas 1 true/pause 1000/faceDirection Vincent 0 true/faceDirection Jas 0 /pause 800/faceDirection Lewis 3/faceDirection Lewis 2/faceDirection Lewis 1/faceDirection Lewis 2/pause 800/speak Lewis \"Now... Is everyone ready?\"/pause 1000/waitForOtherPlayers startContest/jump Lewis/pause 1000/speak Lewis \"Let the egg hunt begin!$h\"/advancedMove Aspen false 4 0 0 -1 2 0 0 -6 10 0 0 2 11 0 0 7 11 0 0 15 -4 0 0 2 -10 0 0 7 -8 0 0 -7/advancedMove Sophia false 0 -13 -12 0 0 20 16 0 0 16 -18 0 0 4 4 0 0 -12 8 0 4 5000/advancedMove Maru false -2 0 0 6 -9 0 0 -2 -9 0 0 -1 2 0 0 -12 6 0 0 -4 15 0 0 1 3 0 0 1 5 0 0 2 12 0 0 11/advancedMove Abigail false 0 21 -20 0 0 3 7 0 0 -2 26 0 0 5 25 0/advancedMove Jas false 0 12 8 0 0 10 3 0 0 4 14 0 0 -20 -7 0 0 6 -14 0/advancedMove Sam false 4 0 0 -4 2 0 0 -4 12 0 0 -6 19 0 0 20 0 -20 0 20/advancedMove Vincent false 0 3 24 0 0 22 15 0 0 -21 -25 0 4 7000/playSound whistle/playMusic tickTock/playerControl eggHunt",
+     "mainEvent": "pause 500/playMusic none/pause 500/globalFade/viewport -1000 -1000/loadActors MainEvent/warp farmer1 27 69 /warp farmer2 27 67/warp farmer3 32 67/warp farmer4 28 71/faceDirection farmer1 0/faceDirection farmer2 1/faceDirection farmer3 3/faceDirection farmer4 0/pause 1000/viewport 27 67 true unfreeze/pause 2000/speak Lewis \"Waktunya sudah tiba untuk acara utama di festival ini... Perburuan Telur Tahunan!$h\"/pause 100/jump Jas/pause 100/jump Vincent/pause 1200/speak Lewis \"Tenang dulu, anak-anak. Kalian akan butuh banyak energi kalau ingin menemukan banyak telur dan memenangkan hadiahnya.\"/pause 100/faceDirection Vincent 3 true/faceDirection Jas 1 true/pause 1000/faceDirection Vincent 0 true/faceDirection Jas 0 /pause 800/faceDirection Lewis 3/faceDirection Lewis 2/faceDirection Lewis 1/faceDirection Lewis 2/pause 800/speak Lewis \"Baiklah... Semuanya sudah siap?\"/pause 1000/waitForOtherPlayers startContest/jump Lewis/pause 1000/speak Lewis \"Perburuan telur dimulai!$h\"/advancedMove Aspen false 4 0 0 -1 2 0 0 -6 10 0 0 2 11 0 0 7 11 0 0 15 -4 0 0 2 -10 0 0 7 -8 0 0 -7/advancedMove Sophia false 0 -13 -12 0 0 20 16 0 0 16 -18 0 0 4 4 0 0 -12 8 0 4 5000/advancedMove Maru false -2 0 0 6 -9 0 0 -2 -9 0 0 -1 2 0 0 -12 6 0 0 -4 15 0 0 1 3 0 0 1 5 0 0 2 12 0 0 11/advancedMove Abigail false 0 21 -20 0 0 3 7 0 0 -2 26 0 0 5 25 0/advancedMove Jas false 0 12 8 0 0 10 3 0 0 4 14 0 0 -20 -7 0 0 6 -14 0/advancedMove Sam false 4 0 0 -4 2 0 0 -4 12 0 0 -6 19 0 0 20 0 -20 0 20/advancedMove Vincent false 0 3 24 0 0 22 15 0 0 -21 -25 0 4 7000/playSound whistle/playMusic tickTock/playerControl eggHunt",
 	 },
 },
 
@@ -7201,9 +7201,9 @@
 	 "When": { "Year": "1" },
      "Entries": {
      "set-up": "fallFest/27 60/farmer 12 54 1/changeToTemporaryMap Town-EggFestival/loadActors Set-Up/advancedMove Andy true 1 9000 -6 0 0 -8 4 7000 0 8 6 0 1 8000/advancedMove Vincent true -2 0 0 -2 2 0 0 2/advancedMove Jas true 2 0 0 2 -2 0 0 -2/advancedMove Pam true 0 -1 3 5000 0 2 3 5000 0 -1 3 4000/advancedMove Clint true 1 7000 0 1 3 7000 0 -1/advancedMove Demetrius true 2 15000 -3 0 0 8 3 20000 0 -8 3 0/advancedMove Willy true 2 25000 -4 0 0 -12 4 0 0 -1 4 30000 0 1 -4 0 0 12 4 0/advancedMove Shane true 4 40000 2 0 0 2 1 35000 0 -2 -2 0/advancedMove Harvey true 0 6 -6 0 0 9 -3 0 3 15000 3 0 0 3 18 0 0 -8 1 0 0 -11 -13 0 0 1 2 30000/playerControl eggFestival",
-     "afterEggHunt": "pause 100/playSound whistle/waitForOtherPlayers endContest/pause 1000/globalFade/viewport -1000 -1000/playMusic event1/loadActors MainEvent/warp farmer1 27 69 /warp farmer2 26 67/warp farmer3 32 67/warp farmer4 28 71/faceDirection farmer1 0/faceDirection farmer2 1/faceDirection farmer3 3/faceDirection farmer4 0/pause 1000/viewport 27 67 true/pause 2000/speak Lewis \"Wow, look at all these eggs!$h#$b#Now if only I could get you kids to pick up litter this efficiently, we'd have the cleanest town this side of the Gem Sea! *chuckle*$h\"/pause 800/playMusic none/speak Lewis \"And now, the winner of this year's egg hunt...\"/playMusic none/pause 3000/cutscene eggHuntWinner/null/playMusic event1/pause 500/fork AbbyWin/move Lewis 0 1 2/speak Lewis \"Here's your prize! Enjoy.\"/awardFestivalPrize/null/move Lewis 0 -1 0/speak Lewis \"Well, that's it for this year's Egg Festival. Thanks for coming, everyone!\"/pause 600/viewport move 1 0 5000/pause 2000/globalFade/viewport -1000 -1000/waitForOtherPlayers festivalEnd/end",
-     "AbbyWin": "pause 100/jump Jas/pause 200/jump Vincent/pause 800/emote Penny 32 true/pause 200/move Lewis 1 0 2/move Lewis 0 1 2/pause 100/speak Lewis \"Here's your prize, kiddos. Enjoy!$1\"/move Jas 0 -1 0 true/pause 150/move Vincent 0 -1 0 true/pause 800/playSound coin/pause 700/faceDirection Jas 1 true/pause 600/faceDirection Vincent 3 true/pause 400/jump Vincent/pause 500/faceDirection Lewis 1 true/pause 200/faceDirection Lewis 0/pause 300/move Lewis 0 -1 0/speak Lewis \"Well, that's it for this year's Egg Festival. Thanks for coming, everyone!\"/pause 1000/viewport move 1 -1 5000/pause 2000/globalFade/viewport -1000 -1000/waitForOtherPlayers festivalEnd/end",
-     "mainEvent": "pause 500/playMusic none/pause 500/globalFade/viewport -1000 -1000/loadActors MainEvent/warp farmer1 27 69 /warp farmer2 27 67/warp farmer3 32 67/warp farmer4 28 71/faceDirection farmer1 0/faceDirection farmer2 1/faceDirection farmer3 3/faceDirection farmer4 0/pause 1000/viewport 27 67 true unfreeze/pause 2000/speak Lewis \"It's time for the highlight of today's festivities... The Annual Spring Egg Hunt!$h\"/pause 100/jump Jas/pause 100/jump Vincent/pause 1200/speak Lewis \"Calm down now, kiddos. You're going to need all your energy if you hope to find the most eggs and take home the exclusive prize.\"/pause 100/faceDirection Vincent 3 true/faceDirection Jas 1 true/pause 1000/faceDirection Vincent 0 true/faceDirection Jas 0 /pause 800/faceDirection Lewis 3/faceDirection Lewis 2/faceDirection Lewis 1/faceDirection Lewis 2/pause 800/speak Lewis \"Now... Is everyone ready?\"/pause 1000/waitForOtherPlayers startContest/jump Lewis/pause 1000/speak Lewis \"Let the egg hunt begin!$h\"/advancedMove Sophia false 0 -13 -12 0 0 20 16 0 0 16 -18 0 0 4 4 0 0 -12 8 0 4 5000/advancedMove Maru false -2 0 0 6 -9 0 0 -2 -9 0 0 -1 2 0 0 -12 6 0 0 -4 15 0 0 1 3 0 0 1 5 0 0 2 12 0 0 11/advancedMove Abigail false 0 21 -20 0 0 3 7 0 0 -2 26 0 0 5 25 0/advancedMove Jas false 0 12 8 0 0 10 3 0 0 4 14 0 0 -20 -7 0 0 6 -14 0/advancedMove Sam false 4 0 0 -4 2 0 0 -4 12 0 0 -6 19 0 0 20 0 -20 0 20/advancedMove Vincent false 0 3 24 0 0 22 15 0 0 -21 -25 0 4 7000/playSound whistle/playMusic tickTock/playerControl eggHunt",
+     "afterEggHunt": "pause 100/playSound whistle/waitForOtherPlayers endContest/pause 1000/globalFade/viewport -1000 -1000/playMusic event1/loadActors MainEvent/warp farmer1 27 69 /warp farmer2 26 67/warp farmer3 32 67/warp farmer4 28 71/faceDirection farmer1 0/faceDirection farmer2 1/faceDirection farmer3 3/faceDirection farmer4 0/pause 1000/viewport 27 67 true/pause 2000/speak Lewis \"Wow, lihat semua telur ini!$h#$b#Kalau saja kalian memungut sampah sehebat ini, Kota ini akan jadi yang terbersih di pesisir Gem Sea! *cekikikan*$h\"/pause 800/playMusic none/speak Lewis \"Dan sekarang, juara perburuan telur tahun ini adalah...\"/playMusic none/pause 3000/cutscene eggHuntWinner/null/playMusic event1/pause 500/fork AbbyWin/move Lewis 0 1 2/speak Lewis \"Ini hadiahnya. Selamat!\"/awardFestivalPrize/null/move Lewis 0 -1 0/speak Lewis \"Baiklah, dengan ini berakhir sudah Egg Festival tahun ini. Terima kasih sudah datang semuanya!\"/pause 600/viewport move 1 0 5000/pause 2000/globalFade/viewport -1000 -1000/waitForOtherPlayers festivalEnd/end",
+     "AbbyWin": "pause 100/jump Jas/pause 200/jump Vincent/pause 800/emote Penny 32 true/pause 200/move Lewis 1 0 2/move Lewis 0 1 2/pause 100/speak Lewis \"Ini hadiahmu, Abigail. Selamat!\"/move Jas 0 -1 0 true/pause 150/move Vincent 0 -1 0 true/pause 800/playSound coin/pause 700/faceDirection Jas 1 true/pause 600/faceDirection Vincent 3 true/pause 400/jump Vincent/pause 500/faceDirection Lewis 1 true/pause 200/faceDirection Lewis 0/pause 300/move Lewis 0 -1 0/speak Lewis \"Baiklah, dengan ini berakhir sudah Egg Festival tahun ini. Terima kasih sudah datang semuanya!\"/pause 1000/viewport move 1 -1 5000/pause 2000/globalFade/viewport -1000 -1000/waitForOtherPlayers festivalEnd/end",
+     "mainEvent": "pause 500/playMusic none/pause 500/globalFade/viewport -1000 -1000/loadActors MainEvent/warp farmer1 27 69 /warp farmer2 27 67/warp farmer3 32 67/warp farmer4 28 71/faceDirection farmer1 0/faceDirection farmer2 1/faceDirection farmer3 3/faceDirection farmer4 0/pause 1000/viewport 27 67 true unfreeze/pause 2000/speak Lewis \"Waktunya sudah tiba untuk acara utama di festival ini... Perburuan Telur Tahunan!$h\"/pause 100/jump Jas/pause 100/jump Vincent/pause 1200/speak Lewis \"Tenang dulu, anak-anak. Kalian akan butuh banyak energi kalau ingin menemukan banyak telur dan memenangkan hadiahnya.\"/pause 100/faceDirection Vincent 3 true/faceDirection Jas 1 true/pause 1000/faceDirection Vincent 0 true/faceDirection Jas 0 /pause 800/faceDirection Lewis 3/faceDirection Lewis 2/faceDirection Lewis 1/faceDirection Lewis 2/pause 800/speak Lewis \"Baiklah... Semuanya sudah siap?\"/pause 1000/waitForOtherPlayers startContest/jump Lewis/pause 1000/speak Lewis \"Perburuan telur dimulai!$h\"/advancedMove Sophia false 0 -13 -12 0 0 20 16 0 0 16 -18 0 0 4 4 0 0 -12 8 0 4 5000/advancedMove Maru false -2 0 0 6 -9 0 0 -2 -9 0 0 -1 2 0 0 -12 6 0 0 -4 15 0 0 1 3 0 0 1 5 0 0 2 12 0 0 11/advancedMove Abigail false 0 21 -20 0 0 3 7 0 0 -2 26 0 0 5 25 0/advancedMove Jas false 0 12 8 0 0 10 3 0 0 4 14 0 0 -20 -7 0 0 6 -14 0/advancedMove Sam false 4 0 0 -4 2 0 0 -4 12 0 0 -6 19 0 0 20 0 -20 0 20/advancedMove Vincent false 0 3 24 0 0 22 15 0 0 -21 -25 0 4 7000/playSound whistle/playMusic tickTock/playerControl eggHunt",
      }
 },
 
@@ -7211,7 +7211,7 @@
 	 "Action": "EditData",
      "Target": "Strings/StringsFromCSFiles",
 	 "When": { "Year": "1" },
-     "Entries": { "Event.cs.1862": "Jas and Vincent!" }
+     "Entries": { "Event.cs.1862": "Jas dan Vincent!" }
 },
 
 {    //Sophia wins the egg hunt if players have seen Sophia's introduction event - only year 1
@@ -7219,9 +7219,10 @@
      "Target": "Data/Festivals/spring13",
 	 "When": { "HasSeenEvent": "8185290", "Year": "1" },
      "Entries": {
-     "afterEggHunt": "pause 100/playSound whistle/waitForOtherPlayers endContest/pause 1000/globalFade/viewport -1000 -1000/playMusic event1/loadActors MainEvent/warp farmer1 27 69 /warp farmer2 26 67/warp farmer3 32 67/warp farmer4 28 71/faceDirection farmer1 0/faceDirection farmer2 1/faceDirection farmer3 3/faceDirection farmer4 0/pause 1000/viewport 27 67 true/pause 2000/speak Lewis \"Wow, look at all these eggs!$h#$b#Now if only I could get you kids to pick up litter this efficiently, we'd have the cleanest town this side of the Gem Sea! *chuckle*$h\"/pause 800/playMusic none/speak Lewis \"And now, the winner of this year's egg hunt...\"/playMusic none/pause 3000/cutscene eggHuntWinner/null/playMusic event1/pause 500/fork AbbyWin/move Lewis 0 1 2/speak Lewis \"Here's your prize! Enjoy.\"/awardFestivalPrize/null/move Lewis 0 -1 0/speak Lewis \"Well, that's it for this year's Egg Festival. Thanks for coming, everyone!\"/pause 600/viewport move 1 0 5000/pause 2000/globalFade/viewport -1000 -1000/waitForOtherPlayers festivalEnd/end",
-     "AbbyWin": "pause 100/showFrame Sophia 39/jump Sophia/faceDirection Vincent 3/pause 800/speak Sophia \"!!!$9\"/pause 200/faceDirection Vincent 0/pause 200/speak Lewis \"Here's your prize, Sophia. Enjoy!$1\"/pause 200/showFrame Sophia 0/pause 200/faceDirection Sophia 1 true/move Sophia 3 0 0/pause 500/playSound coin/pause 600/move Sophia -3 0 3/pause 120/faceDirection Sophia 2 true/pause 150/faceDirection Sophia 1 true/pause 400/faceDirection Lewis 0/speak Lewis \"Well, that's it for this year's Egg Festival. Thanks for coming, everyone!\"/pause 1000/viewport move 1 -1 5000/pause 2000/globalFade/viewport -1000 -1000/waitForOtherPlayers festivalEnd/end",
-     "mainEvent": "pause 500/playMusic none/pause 500/globalFade/viewport -1000 -1000/loadActors MainEvent/warp farmer1 27 69 /warp farmer2 27 67/warp farmer3 32 67/warp farmer4 28 71/faceDirection farmer1 0/faceDirection farmer2 1/faceDirection farmer3 3/faceDirection farmer4 0/pause 1000/viewport 27 67 true unfreeze/pause 2000/speak Lewis \"It's time for the highlight of today's festivities... The Annual Spring Egg Hunt!$h\"/pause 100/jump Jas/pause 100/jump Vincent/pause 250/pause 1200/speak Lewis \"Calm down now, kiddos. You're going to need all your energy if you hope to find the most eggs and take home the exclusive prize.\"/pause 100/faceDirection Vincent 3 true/faceDirection Jas 1 true/pause 1000/faceDirection Vincent 0 true/faceDirection Jas 0 /pause 800/faceDirection Lewis 3/faceDirection Lewis 2/faceDirection Lewis 1/faceDirection Lewis 2/pause 800/speak Lewis \"Now... Is everyone ready?\"/pause 1000/waitForOtherPlayers startContest/jump Lewis/pause 1000/speak Lewis \"Let the egg hunt begin!$h\"/advancedMove Sophia false 0 -13 -12 0 0 20 16 0 0 16 -18 0 0 4 4 0 0 -12 8 0 4 5000/advancedMove Maru false -2 0 0 6 -9 0 0 -2 -9 0 0 -1 2 0 0 -12 6 0 0 -4 15 0 0 1 3 0 0 1 5 0 0 2 12 0 0 11/advancedMove Abigail false 0 21 -20 0 0 3 7 0 0 -2 26 0 0 5 25 0/advancedMove Jas false 0 12 8 0 0 10 3 0 0 4 14 0 0 -20 -7 0 0 6 -14 0/advancedMove Sam false 4 0 0 -4 2 0 0 -4 12 0 0 -6 19 0 0 20 0 -20 0 20/advancedMove Vincent false 0 3 24 0 0 22 15 0 0 -21 -25 0 4 7000/playSound whistle/playMusic tickTock/playerControl eggHunt",
+     "set-up": "fallFest/27 60/farmer 12 54 1/changeToTemporaryMap Town-EggFestival/loadActors Set-Up/advancedMove Andy true 1 9000 -6 0 0 -8 4 7000 0 8 6 0 1 8000/advancedMove Vincent true -2 0 0 -2 2 0 0 2/advancedMove Jas true 2 0 0 2 -2 0 0 -2/advancedMove Pam true 0 -1 3 5000 0 2 3 5000 0 -1 3 4000/advancedMove Clint true 1 7000 0 1 3 7000 0 -1/advancedMove Demetrius true 2 15000 -3 0 0 8 3 20000 0 -8 3 0/advancedMove Willy true 2 25000 -4 0 0 -12 4 0 0 -1 4 30000 0 1 -4 0 0 12 4 0/advancedMove Shane true 4 40000 2 0 0 2 1 35000 0 -2 -2 0/advancedMove Harvey true 0 6 -6 0 0 9 -3 0 3 15000 3 0 0 3 18 0 0 -8 1 0 0 -11 -13 0 0 1 2 30000/playerControl eggFestival",
+     "afterEggHunt": "pause 100/playSound whistle/waitForOtherPlayers endContest/pause 1000/globalFade/viewport -1000 -1000/playMusic event1/loadActors MainEvent/warp farmer1 27 69 /warp farmer2 26 67/warp farmer3 32 67/warp farmer4 28 71/faceDirection farmer1 0/faceDirection farmer2 1/faceDirection farmer3 3/faceDirection farmer4 0/pause 1000/viewport 27 67 true/pause 2000/speak Lewis \"Wow, lihat semua telur ini!$h#$b#Kalau saja kalian memungut sampah sehebat ini, Kota ini akan jadi yang terbersih di pesisir Gem Sea! *ngakak*$h\"/pause 800/playMusic none/speak Lewis \"Dan sekarang, juara perburuan telur tahun ini adalah...\"/playMusic none/pause 3000/cutscene eggHuntWinner/null/playMusic event1/pause 500/fork AbbyWin/move Lewis 0 1 2/speak Lewis \"Ini hadiahnya. Selamat!\"/awardFestivalPrize/null/move Lewis 0 -1 0/speak Lewis \"Baiklah, dengan ini berakhir sudah Egg Festival tahun ini. Terima kasih sudah datang semuanya!\"/pause 600/viewport move 1 0 5000/pause 2000/globalFade/viewport -1000 -1000/waitForOtherPlayers festivalEnd/end",
+     "AbbyWin": "pause 100/jump Jas/pause 200/jump Vincent/pause 800/emote Penny 32 true/pause 200/move Lewis 1 0 2/move Lewis 0 1 2/pause 100/speak Lewis \"Ini hadiahmu, Abigail. Selamat!\"/move Jas 0 -1 0 true/pause 150/move Vincent 0 -1 0 true/pause 800/playSound coin/pause 700/faceDirection Jas 1 true/pause 600/faceDirection Vincent 3 true/pause 400/jump Vincent/pause 500/faceDirection Lewis 1 true/pause 200/faceDirection Lewis 0/pause 300/move Lewis 0 -1 0/speak Lewis \"Baiklah, dengan ini berakhir sudah Egg Festival tahun ini. Terima kasih sudah datang semuanya!\"/pause 1000/viewport move 1 -1 5000/pause 2000/globalFade/viewport -1000 -1000/waitForOtherPlayers festivalEnd/end",
+     "mainEvent": "pause 500/playMusic none/pause 500/globalFade/viewport -1000 -1000/loadActors MainEvent/warp farmer1 27 69 /warp farmer2 27 67/warp farmer3 32 67/warp farmer4 28 71/faceDirection farmer1 0/faceDirection farmer2 1/faceDirection farmer3 3/faceDirection farmer4 0/pause 1000/viewport 27 67 true unfreeze/pause 2000/speak Lewis \"Waktunya sudah tiba untuk acara utama di festival ini... Perburuan Telur Tahunan!$h\"/pause 100/jump Jas/pause 100/jump Vincent/pause 1200/speak Lewis \"Tenang dulu, anak-anak. Kalian akan butuh banyak energi kalau ingin menemukan banyak telur dan memenangkan hadiahnya.\"/pause 100/faceDirection Vincent 3 true/faceDirection Jas 1 true/pause 1000/faceDirection Vincent 0 true/faceDirection Jas 0 /pause 800/faceDirection Lewis 3/faceDirection Lewis 2/faceDirection Lewis 1/faceDirection Lewis 2/pause 800/speak Lewis \"Baiklah... Semuanya sudah siap?\"/pause 1000/waitForOtherPlayers startContest/jump Lewis/pause 1000/speak Lewis \"Perburuan telur dimulai!$h\"/advancedMove Sophia false 0 -13 -12 0 0 20 16 0 0 16 -18 0 0 4 4 0 0 -12 8 0 4 5000/advancedMove Maru false -2 0 0 6 -9 0 0 -2 -9 0 0 -1 2 0 0 -12 6 0 0 -4 15 0 0 1 3 0 0 1 5 0 0 2 12 0 0 11/advancedMove Abigail false 0 21 -20 0 0 3 7 0 0 -2 26 0 0 5 25 0/advancedMove Jas false 0 12 8 0 0 10 3 0 0 4 14 0 0 -20 -7 0 0 6 -14 0/advancedMove Sam false 4 0 0 -4 2 0 0 -4 12 0 0 -6 19 0 0 20 0 -20 0 20/advancedMove Vincent false 0 3 24 0 0 22 15 0 0 -21 -25 0 4 7000/playSound whistle/playMusic tickTock/playerControl eggHunt",
      }
 },
 
@@ -7237,7 +7238,7 @@
      "Target": "Data/Festivals/spring24",
      "Entries": {
      "set-up": "event1/22 22/farmer 76 17 1/changeToTemporaryMap Forest-FlowerFestival/loadActors Set-Up/advancedMove Sophia true 4 8000 -2 0 4 5000 2 0/advancedMove Vincent true -6 0 0 -1 6 0 0 1/advancedMove Jas true 1 0 0 1 -6 0 0 -1 5 0/advancedMove Pam true 2 25000 0 -3 2 0 4 25000 -2 0 0 3/advancedMove Haley true 0 1 2 3000 2 0 0 -1 -2 0 3 500 4 500 1 500 2 500 2 0 1 500 2 500 3 500 4 500 0 2 0 -2 -2 0/advancedMove Caroline true 7 0 0 1 1 18000 0 -1 -7 0 3 18000/advancedMove Willy true 2 7000 4 0 2 8000 -4 0/playerControl flowerFestival",
-	 "mainEvent": "pause 500/playMusic none/pause 500/globalFade/viewport -1000 -1000/loadActors MainEvent/warp farmer1 14 31/warp farmer2 11 21/warp farmer3 23 21/warp farmer4 12 21/faceDirection farmer1 0/faceDirection farmer3 2/faceDirection farmer4 2/faceDirection farmer 0/warp Girl1 13 24/warp Girl2 15 24/warp Girl3 11 24/warp Girl4 9 24/warp Girl5 17 24/warp Girl6 19 24/warp Guy1 13 27/warp Guy2 15 27/warp Guy3 11 27/warp Guy4 9 27/warp Guy5 17 27/warp Guy6 19 27/showFrame Girl1 40/showFrame Girl3 40/showFrame Girl5 40/showFrame Girl4 40/showFrame Girl2 40/showFrame Girl6 40/showFrame Guy6 44/showFrame Guy5 44/showFrame Guy4 44/showFrame Guy3 44/showFrame Guy2 44/showFrame Guy1 44/viewport 14 25 clamp true/pause 2000/playMusic FlowerDance/pause 600/animate Girl1 false true 600 43 41 43 42/animate Girl6 false true 600 43 41 43 42/animate Girl3 false true 600 43 41 43 42/animate Girl5 false true 600 43 41 43 42/animate Girl4 false true 600 43 41 43 42/animate Girl2 false true 600 43 41 43 42/animate Guy5 false true 600 44 45/animate Guy6 false true 600 44 45/animate Guy3 false true 600 44 45/animate Guy2 false true 600 44 45/animate Guy4 false true 600 44 45/animate Guy1 false true 600 44 45/pause 9600/animate Girl1 false true 600 46 47/animate Girl6 false true 600 46 47/animate Girl3 false true 600 46 47/animate Girl5 false true 600 46 47/animate Girl4 false true 600 46 47/animate Girl2 false true 600 46 47/animate Guy5 false true 300 46 47/animate Guy6 false true 300 46 47/animate Guy3 false true 300 46 47/animate Guy2 false true 300 46 47/animate Guy4 false true 300 46 47/animate Guy1 false true 300 46 47/positionOffset Guy1 0 -2/positionOffset Guy6 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/animate Girl1 false true 600 43 41 43 42/animate Girl6 false true 600 43 41 43 42/animate Girl3 false true 600 43 41 43 42/animate Girl5 false true 600 43 41 43 42/animate Girl4 false true 600 43 41 43 42/animate Girl2 false true 600 43 41 43 42/animate Guy5 false true 600 44 45/animate Guy6 false true 600 44 45/animate Guy3 false true 600 44 45/animate Guy2 false true 600 44 45/animate Guy4 false true 600 44 45/animate Guy1 false true 600 44 45/pause 7600/stopAnimation Girl3/stopAnimation Girl6/stopAnimation Girl5/stopAnimation Girl2/stopAnimation Girl1/stopAnimation Girl4/stopAnimation Guy3/stopAnimation Guy2/stopAnimation Guy6/stopAnimation Guy1/stopAnimation Guy5/stopAnimation Guy4/pause 3000/globalFade/viewport -1000 -1000/message \"That was fun! Time to go home...\"/waitForOtherPlayers festivalEnd/end",
+	 "mainEvent": "pause 500/playMusic none/pause 500/globalFade/viewport -1000 -1000/loadActors MainEvent/warp farmer1 14 31/warp farmer2 11 21/warp farmer3 23 21/warp farmer4 12 21/faceDirection farmer1 0/faceDirection farmer3 2/faceDirection farmer4 2/faceDirection farmer 0/warp Girl1 13 24/warp Girl2 15 24/warp Girl3 11 24/warp Girl4 9 24/warp Girl5 17 24/warp Girl6 19 24/warp Guy1 13 27/warp Guy2 15 27/warp Guy3 11 27/warp Guy4 9 27/warp Guy5 17 27/warp Guy6 19 27/showFrame Girl1 40/showFrame Girl3 40/showFrame Girl5 40/showFrame Girl4 40/showFrame Girl2 40/showFrame Girl6 40/showFrame Guy6 44/showFrame Guy5 44/showFrame Guy4 44/showFrame Guy3 44/showFrame Guy2 44/showFrame Guy1 44/viewport 14 25 clamp true/pause 2000/playMusic FlowerDance/pause 600/animate Girl1 false true 600 43 41 43 42/animate Girl6 false true 600 43 41 43 42/animate Girl3 false true 600 43 41 43 42/animate Girl5 false true 600 43 41 43 42/animate Girl4 false true 600 43 41 43 42/animate Girl2 false true 600 43 41 43 42/animate Guy5 false true 600 44 45/animate Guy6 false true 600 44 45/animate Guy3 false true 600 44 45/animate Guy2 false true 600 44 45/animate Guy4 false true 600 44 45/animate Guy1 false true 600 44 45/pause 9600/animate Girl1 false true 600 46 47/animate Girl6 false true 600 46 47/animate Girl3 false true 600 46 47/animate Girl5 false true 600 46 47/animate Girl4 false true 600 46 47/animate Girl2 false true 600 46 47/animate Guy5 false true 300 46 47/animate Guy6 false true 300 46 47/animate Guy3 false true 300 46 47/animate Guy2 false true 300 46 47/animate Guy4 false true 300 46 47/animate Guy1 false true 300 46 47/positionOffset Guy1 0 -2/positionOffset Guy6 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/animate Girl1 false true 600 43 41 43 42/animate Girl6 false true 600 43 41 43 42/animate Girl3 false true 600 43 41 43 42/animate Girl5 false true 600 43 41 43 42/animate Girl4 false true 600 43 41 43 42/animate Girl2 false true 600 43 41 43 42/animate Guy5 false true 600 44 45/animate Guy6 false true 600 44 45/animate Guy3 false true 600 44 45/animate Guy2 false true 600 44 45/animate Guy4 false true 600 44 45/animate Guy1 false true 600 44 45/pause 7600/stopAnimation Girl3/stopAnimation Girl6/stopAnimation Girl5/stopAnimation Girl2/stopAnimation Girl1/stopAnimation Girl4/stopAnimation Guy3/stopAnimation Guy2/stopAnimation Guy6/stopAnimation Guy1/stopAnimation Guy5/stopAnimation Guy4/pause 3000/globalFade/viewport -1000 -1000/message \"Itu tadi menyenangkan! Waktunya pulang...\"/waitForOtherPlayers festivalEnd/end",
 	 }
 },
 
@@ -7516,7 +7517,7 @@
      "Target": "Data/Festivals/summer11",
      "Entries": {
      "set-up": "event2/-1000 -1000/farmer 38 3 2/changeToTemporaryMap Beach-Luau/loadActors Set-Up/addTemporaryActor Governor 16 32 32 4 2/advancedMove Vincent true 3 0 3 3000 -3 0 3 3000/advancedMove Jas true 3 0 1 3000 -3 0 1 3000/advancedMove Pam true 4 25000 -5 0 4 20000 5 0/advancedMove Gus True 0 -1 3 4000 0 1 3 4000/advancedMove Shane true 1 10000 0 1 1 10000 0 -1/advancedMove Clint true 4 15000 -3 0 4 15000 6 0 4 10000 -3 0/animate Emily false true 250 16 17 16 17 20 21 20 21 18 19 18 19 22 23 22 23/animate Robin false true 500 20 21 20 22/animate Demetrius false true 500 24 25 24 26/animate Marnie false true 200 17 18 17 19/positionOffset Marnie 0 16/animate Claire false true 200 20 20 20 20 20 20 20 20 20 20 21 21 21 21 21 21 22 22 22 22 22 22 22 22 22 22 22 22 23 24 25 22 23 24 25 22 23 24 25 22 23 24 25 22 23 24 25 22 23 24 25 22 22 22 22 22 21 21 21 21 21 21 21 21 20/viewport 38 2 clamp true/pause 1000/playerControl luau",
-	 "mainEvent": "pause 500/playMusic ocean/globalFade/viewport -1000 -1000/loadActors MainEvent/addTemporaryActor Governor 16 32 35 10 2/warp farmer1 33 19/warp farmer2 32 19/warp farmer3 40 19/warp farmer4 28 9/faceDirection farmer1 0/faceDirection farmer2 0/faceDirection farmer3 0/faceDirection farmer4 1/viewport 35 12 true/pause 2000/faceDirection Lewis 3/pause 100/faceDirection Lewis 2/pause 100/faceDirection Lewis 1/pause 100/faceDirection Lewis 2/speak Lewis \"Well folks, it's time once again for the potluck ceremony.#$b#I trust that you all put high-quality ingredients in the pot this year. We don't want the governor to regret his visit to the valley!\"/pause 1000/faceDirection Lewis 3/pause 500/speak Lewis \"Well... Governor? Would you do us the honor of tasting the soup?\"/pause 500/speak Governor \"Of course! I've been looking forward to this all year.\"/playMusic none/pause 500/move Governor 0 1 2/pause 1000/playSound dwop/showFrame Governor 8 true/pause 1000/animate Governor false false 200 8 8 9 10 11 11/pause 1100/playSound sipTea/pause 1000/playSound gulp/pause 500/showFrame Governor 8 true/animate Governor false false 200 11 10 9 8/pause 900/speak Governor \"...$h\"/pause 300/cutscene governorTaste/null",
+	 "mainEvent": "pause 500/playMusic ocean/globalFade/viewport -1000 -1000/loadActors MainEvent/addTemporaryActor Governor 16 32 35 10 2/warp farmer1 33 19/warp farmer2 32 19/warp farmer3 40 19/warp farmer4 28 9/faceDirection farmer1 0/faceDirection farmer2 0/faceDirection farmer3 0/faceDirection farmer4 1/viewport 35 12 true/pause 2000/faceDirection Lewis 3/pause 100/faceDirection Lewis 2/pause 100/faceDirection Lewis 1/pause 100/faceDirection Lewis 2/speak Lewis \"Sudah saatnya memulai acara makan-makan.#$b#Semoga kalian memasukkan bahan berkualitas ke panci. Kita tak ingin Gubernur menyesali kunjungannya ke lembah!\"/pause 1000/faceDirection Lewis 3/pause 500/speak Lewis \"Bagaimana... Pak Gubernur? Apakah anda ingin jadi yang pertama mencicipi supnya?\"/pause 500/speak Governor \"Tentu saja! Aku menantikan ini setiap tahun.\"/playMusic none/pause 500/move Governor 0 1 2/pause 1000/playSound dwop/showFrame Governor 8 true/pause 1000/animate Governor false false 200 8 8 9 10 11 11/pause 1100/playSound sipTea/pause 1000/playSound gulp/pause 500/showFrame Governor 8 true/animate Governor false false 200 11 10 9 8/pause 900/speak Governor \"...$h\"/pause 300/cutscene governorTaste/null",
 	 }
 },
 
@@ -8093,12 +8094,12 @@
      "Entries": {
 	 //"shop": "BO 113 0 1 BL 746 0 1 BO 47 0 4 F 2794 0 1",
      "set-up": "spirits_eve/-1000 -1000/farmer 12 54 1/changeToTemporaryMap Town-Halloween/loadActors Set-Up/advancedMove Linus true 4 13000 1 0 4 6000 -1 0/advancedMove Sophia true 4 10000 1 3000 4 2000/advancedMove Maru true 1 5000 2 7000 3 3000 4 3500 1 2000 2 3000 3 1000 4 2000/advancedMove Alex true -3 0 4 4000 3 0 4 5000/advancedMove Jas true 1 1500 4 1000/advancedMove Abigail true 3 3500 2 3000 1 5000 3 5000 2 6000/advancedMove Harvey true 1 3500 4 5000 3 3000 2 5000 4 3000/advancedMove Pam true 0 1 3 7500 0 -1 3 5500/advancedMove Shane true -7 0 0 2 2 9000 0 -2 7 0 4 9000/advancedMove Demetrius true 3 18000 4 3000/addTemporaryActor Skeleton 16 32 30 59 2 false Monster/advancedMove Skeleton true 0 1 3 4000 2 0 0 -1 4 2000 -1 0 3 1000 2 2000 0 -1 4 4000 -1 0 0 1 2 5000/addTemporaryActor Skeleton 16 32 35 58 2 false Monster/addTemporaryActor Shadow_Brute 16 32 46 59 2 false Monster/addTemporaryActor Shadow_Brute 16 32 43 58 2 false Monster/advancedMove Shadow_Brute true -4 0 3 5000 4 0 2 5000 1 3000 2 1000/addTemporaryActor Skeleton_Mage 16 32 51 32 2 false Monster/advancedMove Skeleton_Mage true -2 0 0 2 1 6000 0 -2 2 0 2 5000/addTemporaryActor Wilderness_Golem 16 24 63 25 3 false Monster/advancedMove Wilderness_Golem true -9 0 0 2 2 1000 0 -2 9 0 2 1500/addTemporaryActor Stone_Golem 16 24 54 32 1 false Monster/advancedMove Stone_Golem true 9 0 4 1000 -9 0 4 400/addTemporaryActor Shadow_Shaman 16 24 68 23 2 false Monster/advancedMove Shadow_Shaman true 1 1500 2 2000 3 3000 2 5000 4 1000/addTemporaryActor Metal_Head 16 16 74 27 2 false Monster/advancedMove Metal_Head true -4 0 2 200 4 0 4 100/addTemporaryActor Mummy 16 32 74 24 2 false Monster/advancedMove Mummy true -2 0 3 200 2 0 2 6000/positionOffset Claire 5 -25/playerControl halloween",
-	 "Wizard": "Hello, @. Have you entered the maze? I deployed... surprises for anyone who dares enter.#0#$e#I might have gone a little overboard with the monsters!$h",
-	 "Linus": "Hi, @. I hope this evening is treating you well.$0#$b#Many shadow brutes are violent, but these ones are particularly aggressive. If given the opportunity, they would tear you limb from limb!$3#$e#Not all shadow people are violent, though.$0#$b#I'm good friends with one called 'Krobus'. I understand what it's like to be judged for being different.$h#$e#Enjoy the festival.$1",
-     "Krobus": "My friends... trapped in those cages...#$e#What will happen to them after the festival...?$2",
-	 "Pierre": "Happy Spirit's Eve, farmer @!$1#$e#Let me know if anything in my store catches your eye.$0",
-     "Dwarf": "Curious, I am...#$e#Did you climb up here to greet me?",
-	 "Leo": "I grew up exploring lush jungle mazes. This one was too easy!$0#$e#I don't need the stuff in the chest. It's yours!$1"
+	 "Wizard": "Halo, @. Apa kau sudah masuk ke labirin? Aku menaruh... kejutan bagi yang berani masuk.#0#$e#Mungkin aku berlebihan dengan monsternya!$h",
+	 "Linus": "Hai, @. Semoga malammu baik.$0#$b#Banyak Shadow Brutes yang ganas, tapi yang ini sangatlah agresif. Kalau diberi kesempatan, dia bisa mencabik tubuhmu sampai habis!$3#$e#Tapi tidak semuanya ganas.$0#$b#Aku berteman baik dengan salah satunya, namanya 'Krobus'. Aku paham rasanya dianggap berbeda.$h#$e#Nikmati festivalnya.$1",
+     "Krobus": "Temanku... dikurung....#$e#Apa yang akan terjadi pada mereka seusai festival...?$2",
+	 "Pierre": "Selamat Spirit Eve, petani @!$1#$e#Bilang saja kalau mau beli sesuatu.$0",
+     "Dwarf": "Penasaran, ya...#$e#Apa kau memanjat kesini untuk menemuiku?",
+	 "Leo": "Aku tumbuh menjelajahi hutan lebat. Kalau cuma seperti ini mudah!$0#$e#Aku tidak butuh benda di kotak itu. Kamu saja yang ambil!$1"
 	 }
 },
 
@@ -8314,22 +8315,22 @@
      "Entries": {
 	 //"shop": "O 373 0 3 O 608 0 3 BO 113 0 1 BL 746 0 1 BO 47 0 4 F 2794 0 1",
      "set-up": "spirits_eve/-1000 -1000/farmer 12 54 1/changeToTemporaryMap Town-Halloween/loadActors Set-Up/advancedMove Harvey true 2 5000 1 200 2 200 0 5 4 0 0 2 -6 0 0 -9 4 2000 -1 0 0 1 2 2000 3 2000 2 200 1 4000 2 4000 2 200 1 0 0 8 6 0 0 -2 -4 0 0 -5 4 2000 1 200 2 5000 3 1000/advancedMove Sophia true 2 8000 3 2000 2 4000 1 2500 2 500/advancedMove Sebastian true 2 7000 1 500 2 0 1 250 2 6000 -2 0 2 500/advancedMove Olivia true 3 12000 4 1250 3 5000 2 2000 3 1000/advancedMove Demetrius true 1 18000 2 300 3 200 -1 0 0 4 2 7000 1 200 4 200 0 -4 1 0 1 1000/advancedMove Alex true 4 5000 3 0 1 300 4 4000 3 500 -3 0 3 300 4 500/advancedMove Emily true 1 14000 2 200 3 3500 2 200 1 2000/advancedMove Andy true 3 32000 2 0 0 8 1 5000 0 -8 -2 0 3 1000/advancedMove Susan true 3 15000 0 1 3 7000 0 -1 3 1000/advancedMove Shane true 3 3000 1 0 0 7 2 6500 3 200 4 500 0 -7 -1 0 3 15000/advancedMove Victor true 2 8000 2 0 2 6000 -2 0 2 9000/advancedMove Robin true 1 16000 2 4000/advancedMove Linus true 3 24000 4 2500/advancedMove Haley true 2 7000 1 500 2 4000 1 3000 2 3000/advancedMove Maru true 2 7000 -7 0 2 2000 7 0 1 4000 2 1000/advancedMove Abigail true 2 13000 3 2000/advancedMove Elliott true 2 8000 3 2000 2 2500 3 1000 -1 0 0 -2 -8 0 0 -4 4 500 1 200 2 4000 0 4 8 0 0 2 1 0 1 200 2 1000/advancedMove Penny true 2 9000 -2 0 2 7000 2 0/advancedMove Sam true 2 12000 1 4000 2 1500/addTemporaryActor Mummy 16 32 28 71 2 false Monster/advancedMove Mummy true 4 12000 -2 0 4 5000 2 0 1 2000 2 4000 1 300 4 1000/addTemporaryActor Skeleton 16 32 23 70 0 false Monster/advancedMove Skeleton true 4 9000 1 0 0 -1 4 12000 1 500 2 1000 0 1 2 600 -1 0 3 500 4 500/addTemporaryActor Wilderness_Golem 16 24 25 73 2 false Monster/advancedMove Wilderness_Golem true 4 5000 8 0 4 7000 1 2000 4 400 3 500 -8 0 3 500 4 500/addTemporaryActor Shadow_Shaman 16 24 30 69 2 false Monster/advancedMove Shadow_Shamn true 4 8000 1 4000 4 3000 2 6000 -1 0 2 4000 4 3000 2 500 3 0 1 6000 4 6000 3 2000 -2 0 3 500 4 2000/addTemporaryActor Stone_Golem 16 24 31 72 2 false Monster/advancedMove Stone_Golem true 4 4000 1 4000 4 3000 1 3500 4 2000 0 -1 4 4000 1 3000 -1 0 3 3000 4 5000 1 500 1 0 1 4000 0 1 2 1000 3 500 4 1000/addTemporaryActor Shadow_Brute 16 32 33 71 1 false Monster/advancedMove Shadow_Brute true 1 3000 4 600 0 -2 4 500 1 10000 4 5000 1 2000 2 700 0 2 2 600 1 4000/playerControl halloween",
-     "Pierre": "Happy Spirit's Eve, farmer @!$1#$e#Let me know if anything in my store catches your eye.$0",
-	 "Marnie": "Are you ready to head back, Jas?$2",
-	 "Jas": "We're so close to winning! I can feel it, aunt Marnie!$1",
-	 "Alex": "There's a bunch of bright lights on the other side of the fences.$0",
-	 "Sam": "Ugh... I got lost in there.$5#$e#You're goin' in?$0",
-	 "Penny": "Where is that smell coming from?$0",
-	 "Shane": "I don't see any more of those spiced ciders...$0",
-	 "Linus": "I sense fear from these monsters...$2#$e#They're more scared of you than you are of them.$0",
-	 "Sebastian": "There's a lot of crazy looking monsters.$0",
-	 "Harvey": "Despite the fountain missing, I can still hear it...$2#$e#How eerie...$2",
-	 "Abigail": "Hey! You found the fake hedge.$1#$e#I wonder how magic makes a pumpkin talk...$0",
-	 "Wizard": "The town fountain is safe in another dimension...$0#$e#I haven't used this much mana in a while...$1",
-	 "Linus": "Hi, @. I hope this evening is treating you well.$0#$b#Many shadow brutes are violent, but these ones are particularly aggressive. If given the opportunity, they would tear you limb from limb!$3#$e#Not all shadow people are violent, though.$0#$b#I'm good friends with one called 'Krobus'. I understand what it's like to be judged for being different.$h#$e#Enjoy the festival.$1",
-     "Krobus": "My friends... trapped in those cages...#$e#What will happen to them after the festival...?$2",
-     "Dwarf": "Curious, I am...#$e#Large pumpkins, these are...",
-	 "Leo": "I grew up exploring lush jungle mazes. This one was too easy!$0#$e#I don't need the stuff in the chest. It's yours!$1"
+     "Pierre": "Selamat Spirit Eve, petani @!$1#$e#Bilang saja kalau mau beli sesuatu.$0",
+	 "Marnie": "Sudah siap pulang, Jas?$2",
+	 "Jas": "Sedikit lagi menang! Aku bisa merasakannnya, bibi Marnie!$1",
+	 "Alex": "Ada banyak cahaya terang di balik pagar.$0",
+	 "Sam": "Argh... Aku tersesat.$5#$e#Kamu mau masuk?$0",
+	 "Penny": "Darimana baunya, ya?$0",
+	 "Shane": "Sepertinya Spiced Cidernya sudah habis...$0",
+	 "Linus": "Aku merasakan ketakutan monster-monter ini...$2#$e#Mereka lebih takut pada kita daripada sebaliknya.$0",
+	 "Sebastian": "Ada banyak monster yang seram.$0",
+	 "Harvey": "Meski air mancurnya tidak ada, aku masih mendengar suaranya...$2#$e#Seram...$2",
+	 "Abigail": "Hei! Kau menemukan semak palsu.$1#$e#Bagaimana sihir bisa membuat labu bicara...$0",
+	 "Wizard": "Halo, @. Apa kau sudah masuk ke labirin? Aku menaruh... kejutan bagi yang berani masuk.#0#$e#Mungkin aku berlebihan dengan monsternya!$h",
+	 "Linus": "Hai, @. Semoga malammu baik.$0#$b#Banyak Shadow Brutes yang ganas, tapi yang ini sangatlah agresif. Kalau diberi kesempatan, dia bisa mencabik tubuhmu sampai habis!$3#$e#Tapi tidak semuanya ganas.$0#$b#Aku berteman baik dengan salah satunya, namanya 'Krobus'. Aku paham rasanya dianggap berbeda.$h#$e#Nikmati festivalnya.$1",
+     "Krobus": "Temanku... dikurung....#$e#Apa yang akan terjadi pada mereka seusai festival...?$2",
+     "Dwarf": "Penasaran, ya...#$e#Apa kau memanjat kesini untuk menemuiku?",
+	 "Leo": "Aku tumbuh menjelajahi hutan lebat. Kalau cuma seperti ini mudah!$0#$e#Aku tidak butuh benda di kotak itu. Kamu saja yang ambil!$1"
 	 }
 },
 
@@ -8542,7 +8543,7 @@
      "Target": "Data/Festivals/winter8",
      "Entries": {
      "set-up": "christmasTheme/-1000 -1000/farmer 68 0 1/changeToTemporaryMap Forest-IceFestival/loadActors Set-Up/animate Robin false true 100 24 25 26 24 25 26 24 25 26 24 25 26 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27/advancedMove Linus false 3 38000 9 0 0 -3 10 0 0 -7 3 0 0 -12 2 0 0 -9 3 0 2 10000 3 1000 2 200000/advancedMove Andy true 2 28000 -2 0 0 1 -2 0 0 -4 -9 0 0 -2 -8 0 0 -5 4 12000 0 5 8 0 0 2 9 0 0 4 2 0 0 -1 2 0 2 4000/advancedMove Olivia true 4 13500 3 3000/advancedMove Susan true 4 10000 -2 0 0 2 -4 0 4 8000 -1 0 0 -5 3 0 4 7000 2 0 0 3 2 0 4 1000/advancedMove Pierre true -1 0 0 -1 1 5000 0 1 1 0 4 5000/advancedMove Wizard true 1 10000 2 5000/advancedMove Vincent true 0 3 3 0 2 5000 0 -5 2 0 1 5000 -5 0 0 2 3 5000/advancedMove Pam true -5 0 0 1 2 5000 0 -1 5 0 2 7000/playerControl iceFestival",
-     "mainEvent": "globalFade/viewport -1000 -1000/playMusic none/warp farmer1 71 35/warp farmer2 72 35/warp farmer3 70 35/warp farmer4 69 35/faceDirection farmer1 0/faceDirection farmer2 0/faceDirection farmer3 0/faceDirection farmer4 0/loadActors Main-Event/faceDirection Pam 1/faceDirection Elliott 0/faceDirection Willy 0/viewport 71 35 true/pause 2000/speak Lewis \"Alright, everyone. Let's begin this year's ice fishing competition.\"/pause 200/faceDirection Lewis 3/pause 300/faceDirection Lewis 2/faceDirection Lewis 1/pause 300/faceDirection Lewis 2/pause 400/speak Lewis \"Contestants, your goal is to catch as many fish as you possibly can in two minutes using the provided fishing rods.#$b#You must catch your fish here, from these holes in the ice.\"/pause 600/speak Lewis \"Well, is everyone ready?\"/pause 500/waitForOtherPlayers startContest/jump Lewis/faceDirection Pam 2 true/faceDirection Elliott 1 true/faceDirection Willy 2 true/speak Lewis \"Begin!\"/advancedMove Lewis false 0 -4 2 1000/advancedMove Marnie true 4 6000 -2 0 4 5000 2 0/advancedMove Maru true 3 4000 0 2 3 7000 0 -2/advancedMove Jas true 2 0 0 -9 -4 0 2 20000 4 0 0 9 -2 0 3 15000/advancedMove Jodi true 1 6000 2 4000 1 8000 2 3500 1 1000/advancedMove Sophia true 1 10000 0 2 1 8000 0 -2/jump Willy/shake Pam 700/showFrame Pam 16/extendSourceRect Pam 0 32/showFrame Elliott 40/extendSourceRect Elliott 16 0/shake Elliott 400/pause 300/showFrame Willy 16/extendSourceRect Willy 0 32/playMusic fallFest/playerControl iceFishing",
+     "mainEvent": "globalFade/viewport -1000 -1000/playMusic none/warp farmer1 71 35/warp farmer2 72 35/warp farmer3 70 35/warp farmer4 69 35/faceDirection farmer1 0/faceDirection farmer2 0/faceDirection farmer3 0/faceDirection farmer4 0/loadActors Main-Event/faceDirection Pam 1/faceDirection Elliott 0/faceDirection Willy 0/viewport 71 35 true/pause 2000/speak Lewis \"Baiklah. Mari mulai lomba memancing tahunannya.\"/pause 200/faceDirection Lewis 3/pause 300/faceDirection Lewis 2/faceDirection Lewis 1/pause 300/faceDirection Lewis 2/pause 400/speak Lewis \"Peserta, tujuan kalian adalah menangkap ikan sebanyak mungkin dalam dua menit dengan alat pancing yang telah disediakan.#$b#Kalian harus memancing dari lubang di es ini.\"/pause 600/speak Lewis \"Semua sudah siap?\"/pause 500/waitForOtherPlayers startContest/jump Lewis/faceDirection Pam 2 true/faceDirection Elliott 1 true/faceDirection Willy 2 true/speak Lewis \"Mulai!\"/advancedMove Lewis false 0 -4 2 1000/advancedMove Marnie true 4 6000 -2 0 4 5000 2 0/advancedMove Maru true 3 4000 0 2 3 7000 0 -2/advancedMove Jas true 2 0 0 -9 -4 0 2 20000 4 0 0 9 -2 0 3 15000/advancedMove Jodi true 1 6000 2 4000 1 8000 2 3500 1 1000/advancedMove Sophia true 1 10000 0 2 1 8000 0 -2/jump Willy/shake Pam 700/showFrame Pam 16/extendSourceRect Pam 0 32/showFrame Elliott 40/extendSourceRect Elliott 16 0/shake Elliott 400/pause 300/showFrame Willy 16/extendSourceRect Willy 0 32/playMusic fallFest/playerControl iceFishing",
 	 }
 },
 
@@ -9277,7 +9278,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "Victor": "This is absolutely incredible. Thank you!/224 787 444 551/You're giving this to me? This is great! Thank you, @./254 346 348 349 392 394/Oh... For me? This is...nice./18 16 20 22 24 408 80 416 414 412 296 398 410 152 396 397 399/Uhh... I don't like this at all, @. Sorry./205 404 420 422 609 610 196 213 218 219 225 403/Thank you for the gift, @. I appreciate the gesture!/184 186 180 182 174 176 424 426/"
+        "Victor": "Ini sangat luar biasa. Makasih!/224 787 444 551/Kau memberinya padaku? Terima kasih, @./254 346 348 349 392 394/Oh... Buatku? Ini... makasih./18 16 20 22 24 408 80 416 414 412 296 398 410 152 396 397 399/Ehh... Aku tidak suka ini, @. Maaf./205 404 420 422 609 610 196 213 218 219 225 403/Terima kasih atas hadiahnya, @. Aku menghargainya!/184 186 180 182 174 176 424 426/"
       }
     },
 	{
@@ -9383,24 +9384,24 @@
       "Target": "Characters/Dialogue/Victor",
 	  "When": { "Spouse": "Olivia", "PlayerGender": "Male" },
       "Entries": {
-	  "Tue6": "How's your day, father? Do anything productive?$1#$e#I may work more on one of my projects later.$1#$e#It's good to keep yourself busy with something.$3",
-	  "Wed8": "Father, I was just thinking about you.$1#$e#You always seem to keep yourself busy. You're a good role model.$3",
-	  "Thu6": "I accomplished a lot today! I hope you did too.$1",
-	  "Fri8": "Hello, father. Share a glass of Blue Moon wine with me![{{spacechase0.JsonAssets/ObjectId:Blue Moon Wine}}]$3#$e#Gus always keeps a good stock of it at the saloon.$1",
-	  "summer_Mon8": "The weather is going to be superb this week.$1",
-	  "summer_Thu8": "Did you dream about being a farmer when you were young, father?$0#$e#I admire you for following your passion this way. More than you know.$3#$e#You're dedicated. I feel like I have a lot to learn from you.$3",
-	  "summer_Sat8": "There's part of a dwarvish novel I recently finished that described the ancient cities of the dwarves in the Cascadian Mountain range.$1#$e#Their cities were once huge hubs of commerce for the ancient dwarvish people.$7#$b#To this day, we still don't know that much about them...$2#$b#We find their gadgets here and there and know some of their history, but that's really it.$0#$e#Goodbye, father.$3",
-	  "summer_Sun8": "Perhaps you could take me adventuring sometime, father.$1#$e#Oh. Err. I'd just sit in the back and watch.$0#$b#Not really cut out for fighting...$2",
-	  "fall_15": "Greetings, father. Looking forward to the Stardew Valley Fair tomorrow?$3#$b#You're setting up a grange display right?$0#$e#Well, good luck! I'm positive you'll do great.$1",
-	  "fall_Wed6": "It's a chilly day today. Keep yourself bundled up, father.$1",
-	  "fall_Thu8": "Do you ever get scared when you're heading off to adventure, father?$0#$e#...I've probably said this before, but I really envy your bravery. I feel so useless sometimes.$2#$e#I should find my own way to make meaning in the world? Wise words, probably. Let's see if I listen to them.$3",
-	  "fall_Fri8": "Do you... think you could ever teach me one of your skills, father?$0#$e#Oh, none in particular, but I watch mother picking up new skills and I'm envious.$0#$e#It'd be nice to try something new soon.$0",
-	  "fall_Sun8": "How is mother doing?$1#$e#She's very happy with you.$1",
-	  "winter_Tue8": "Hello, father. We should grab a peppermint coffee together sometime.$1#$b#We can have a father to son chat.$3",
-	  "winter_Wed8": "I wonder if there are any book shops in Zuzu City I haven't visited yet...$0#$e#I'm always looking to expand our book collection, especially when it comes to the intersections of magical and scientific theory.$0#$e#Did you just yawn, father?$2",
-	  "winter_Fri8": "Hmm... do you think anyone would be interested in a bridge-making simulation game, father?$0#$e#...I feel like a lot of people might assume it would be boring, but I bet I could make it fun.$3",
-	  "winter_Sat8": "Must say, it's nice having the house all to myself$1.#$e#I recently hired a maid to help clean. It's far too much work for me.$0",
-	  "winter_Sun8": "Greetings. Certainly a chilly day today.$0#$e#Visit the house sometime. I'll make you a cup of coffee, father.$1#$b#I bet you have all sorts of adventuring stories.$3",
+	  "Tue6": "Bagaimana kabarmu, ayah? Sedang mengerjakan apa?$1#$e#Mungkin nanti aku akan mengerjakan salah satu proyekku.$1#$e#Bagus rasanya kalau selalu bisa menyibukkan diri.$3",
+	  "Wed8": "Ayah, aku baru saja memikirkanmu.$1#$e#Kau selalu bisa menyibukkan diri. Ayah itu sosok yang patut dicontoh.$3",
+    "Thu6": "Aku menyelesaikan banyak hal hari ini! Semoga kamu juga sama.$1",
+    "Fri8": "Halo, ayah. Nikmatilah segelas Blue Moon Wine denganku![{{spacechase0.JsonAssets/ObjectId:Blue Moon Wine}}]$3#$e#Gus selalu menyetoknya di bar.$1",
+	  "summer_Mon8": "Cuaca pekan ini akan jadi luar biasa.$1",
+    "summer_Thu8": "Apa ayah bercita-cita untuk jadi seorang petani ketika kecil?$0#$e#Aku kagum sekali pada ayah karena terus mengejar cita-cita ayah.$3#$e#Ayah dedikasinya tinggi. Aku harus belajar banyak darimu.$3",
+    "summer_Sat8": "Ada bagian dari novel dwarf yang baru kubaca menjelaskan tentang kota dwarf kuno di Pegunungan Cascadian.$1#$e#Kota itu dulunya jadi pusat perdagangan besar bagi suku dwarf kuno.$7#$b#Hingga hari ini, kita masih belum tahu banyak soal mereka...$2#$b#Kita hanya sering menemukan alat-alat mereka dan tahu sebagian dari sejarah mereka, tapi hanya itu saja.$0#$e#Sampai jumpa, ayah.$3",
+    "summer_Sun8": "Apa ayah mau mengajakku berpetualang suatu saat nanti?$1#$e#Oh. Err. Aku akan duduk dan menonton saja.$0#$b#Aku tidak bisa bertarung...$2",
+    "fall_15": "Salam, ayah. Apa ayah menantikan Stardew Valley Fair besok?$3#$b#Ayah juga ikut memajang di pameran kan??$0#$e#Wah, semoga beruntung! Aku yakin ayah akan menang.$1",
+    "fall_Wed6": "Hari ini cuacanya agak menggigil. Pakailah pakaian tebal, ayah.$1",
+    "fall_Thu8": "Apa ayah pernah merasa takut saat pergi berpetualang?$0#$e#...Mungkin aku pernah mengatakannya, tapi aku sangat iri dengan keberanianmu. Kadang aku merasa diriku ini tidak berguna.$2#$e#Aku harus menemukan jalanku sendiri untuk memahami dunia? Kata-kata yang bijak, sih. Tapi entah apa aku akan melakukannya atau tidak.$3",
+    "fall_Fri8": "Apa... ayah mau mengajariku salah satu keahlian ayah?$0#$e#Oh, tidak apa-apa, hanya saja aku lihat ibu dapat keahlian baru dan aku sangat iri.$0#$e#Pasti enak rasanya bisa mencoba hal baru.$0",
+    "fall_Sun8": "Bagaimana kabar ibu? Dia sangat bahagia denganmu.$1",
+    "winter_Tue8": "Halo, ayah. Sekali-kali kita harus minum Coffee Mint bersama.$1#$b#Kita bisa mengobrol hal yang biasa disampaikan oleh ayah ke anaknya.$3",
+    "winter_Wed8": "Apa ada toko buku di Zuzu City yang belum kukunjungi ya?$0#$e#Aku selalu ingin menambah koleksi bacaanku, terutama jika temanya tentang teori magis dan sains.$0#$e#Apa ayah baru saja menguap?$2",
+    "winter_Fri8": "Hmm... apa menurut ayah ada yang akan tertarik dengan game simulasi membangun jembatan?$0#$e#...Kurasa banyak orang akan menganggapnya membosankan, tapi aku bisa menjadikannya seru.$3",
+    "winter_Sat8": "Jujur saja, senang rasanya bisa memiliki seluruh rumah ini sendirian.$1.#$e#Baru-baru ini aku menyewa pembantu untuk bersih-bersih. Kerjaanku sudah banyak.$0",
+    "winter_Sun8": "Salam. Hari ini hawanya dingin.$0#$e#Mampirlah ke rumah kapan-kapan. Nanti akan kubuatkan secangkir kopi, ayah.$1#$b#Ayah pasti punya banyak cerita petualangan.$3",
 	  }
     },
 	
@@ -9450,8 +9451,8 @@
       "Action": "EditData",
       "Target": "Data/EngagementDialogue",
       "Entries": {
-        "Victor0": "I'm a little nervous about this? Aren't you?$4",
-        "Victor1": "To think I couldn't be anymore happier...$4"
+        "Victor0": "Aku agak gugup sekarang? Bagaimana denganmu?$4",
+        "Victor1": "Kukira aku takkan bisa sebahagia ini...$4"
       }
     },
 	
@@ -9492,7 +9493,7 @@
         "BeforeMovie": {
           "ResponsePoint": null,
           "Script": "",
-          "Text": "I love sci-fi films!$1"
+          "Text": "Aku suka film sci-fi!$1"
         },
         "DuringMovie": {
           "ResponsePoint": null,
@@ -9502,12 +9503,12 @@
         "AfterMovie": {
           "ResponsePoint": null,
           "Script": "",
-          "Text": "Let's see another movie sometime.$3"
+          "Text": "Kapan-kapan ayo nonton lagi.$3"
         }
       },
         "ID": "reaction_0"
       },
-      {
+      { 
         "Tag": "horror",
         "Response": "dislike",
         "Whitelist": [],
@@ -9515,17 +9516,17 @@
         "BeforeMovie": {
           "ResponsePoint": null,
           "Script": "",
-          "Text": "Horror movie, huh? I might end up holding your hand.$2"
+          "Text": "Film horor, ya? Bisa-bisa aku nanti pegangan kamu.$2"
         },
         "DuringMovie": {
           "ResponsePoint": null,
           "Script": "",
-          "Text": "Gah!$7"
+          "Text": "Ah!$7"
         },
         "AfterMovie": {
           "ResponsePoint": null,
           "Script": "",
-          "Text": "My heart is beating fast after that thriller.$7"
+          "Text": "Jantungku berdegup kencang setelah film tadi.$7"
         }
       },
         "ID": "reaction_1"
@@ -9538,17 +9539,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Ah. This should be quite an interesting film.$1"
+            "Text": "Ah. Ini akan jadi film menarik.$1"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "This is quite intriguing!$1"
+            "Text": "Cukup menarik!$1"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Really puts the world in perspective. Do you think we'll ever visit the stars someday?$1"
+            "Text": "Benar-benar sudut pandang yang unik. Apa menurutmu kelak manusia bisa pergi ke bintang?$1"
           }
         },
         "ID": "reaction_2"
@@ -9561,17 +9562,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "You know, I never did beat this game. I'll watch it, though!$1"
+            "Text": "Aku belum menamatkan gim ini. Tapi filmnya tetap kutonton!$1"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I wonder who will win!$3"
+            "Text": "Siapa yang akan menang!$3"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was great. I want to play the game now!$3"
+            "Text": "Filmnya bagus. Aku jadi ingin main gimnya!$3"
           }
         },
         "ID": "reaction_3"
@@ -9584,17 +9585,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm looking forward to this movie.$1"
+            "Text": "Aku menantikan film ini.$1"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/shake Victor 3000/pause 500/message \"Victor is laughing!\"",
-            "Text": "Haha! Quite the spectacle!$1"
+            "Script": "/shake Victor 3000/pause 500/message \"Victor tertawa!\"",
+            "Text": "Haha! Filmnya bagus!$1"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "This was a wonderful idea. Which part of the movie was your favorite?$3"
+            "Text": "Terima kasih sudah mengajakku. Bagian mana yang kau sukai dari filmnya?$3"
           }
         },
         "ID": "reaction_4"
@@ -9607,13 +9608,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hey. Thanks for inviting me.$1"
+            "Text": "Hei. Terima kasih sudah mengajakku.$1"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Must say, I did enjoy myself. I appreciate you taking me out, @.$3"
+            "Text": "Aku menikmatinya. Aku hargai ajakannya, @.$3"
           }
         },
         "ID": "reaction_5"
@@ -9626,17 +9627,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "At least the seats are comfy...$2"
+            "Text": "Setidaknya bangkunya nyaman...$2"
           },
-          "DuringMovie": {
+          "DuringMovie": { 
             "ResponsePoint": null,
             "Script": "",
-            "Text": "*yawn*... is it over yet?$2"
+            "Text": "*menguap*... belum selesai ya?$2"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Err. The acting wasn't the best. I expected a bit more.$2"
+            "Text": "Err. Aktingnya kurang bagus. Filmnya tidak sesuai harapan.$2"
           }
         },
         "ID": "reaction_6"
@@ -9651,14 +9652,14 @@
       "Action": "EditData",
       "Target": "data/festivals/spring13",
       "Entries": {
-        "Victor": "I'm wearing my best slacks and dress shirt today.$1"
+        "Victor": "Aku pakai pakaian terbaikku hari ini.$1"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/spring13",
       "Entries": {
-        "Victor": "Hey, honey! Good luck hunting eggs today.$1#$e#Show those children who's boss.$3"
+        "Victor": "Hei, sayang! Semoga beruntung hari ini.$1#$e#Tunjukkan pada anak-anak itu siapa jagonya.$3"
       },
       "When": {
         "Spouse": "Victor"
@@ -9670,14 +9671,14 @@
       "Action": "EditData",
       "Target": "data/festivals/spring24",
       "Entries": {
-        "Victor": "This strawberry jello is truly remarkable.$3"
+        "Victor": "Strawberry Jello ini sangat lezat.$3"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/spring24",
       "Entries": {
-        "Victor": "I always do enjoy our little trips out into the forest.$1#$b#Kinda wish we did this more often with everyone.$3"
+        "Victor": "Aku selalu menikmati jalan-jalan kecil ke hutan bersamamu.$1#$b#Semoga bisa lebih sering melakukannya bersama semua orang.$3"
       },
       "When": {
         "Spouse": "Victor"
@@ -9689,14 +9690,14 @@
       "Action": "EditData",
       "Target": "data/festivals/summer11",
       "Entries": {
-        "Victor": "My mother and I just threw in some of our most expensive wine. It should make the soup taste delicious.$1#$e#I don't think any of the children can have any now though. Whoops.$2"
+        "Victor": "Aku dan Ibu memasukkan Wine termahal kami. Pasti supnya akan teraza lezat.$1#$e#Tapi sekarang anak kecil tidak boleh mencicipinya. Ups.$2"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/summer11",
       "Entries": {
-        "Victor": "We should sit next to each other and eat our soup!$4#$e#We can drink a glass of my mother's vintage wine with it!$1"
+        "Victor": "Nanti kita duduk bersama saat makan sup, ya!$4#$e#Kita juga bisa minum Wine klasik punya Ibu!$1"
       },
       "When": {
         "Spouse": "Victor"
@@ -9708,14 +9709,14 @@
       "Action": "EditData",
       "Target": "data/festivals/summer28",
       "Entries": {
-        "Victor": "These moonlight jellies travel here all the way from across the world.$3#$b#They were at the Fern Islands just a few months ago.$1"
+        "Victor": "Ubur-ubur Moonlight dari penjuru dunia akan lewat sini.$3#$b#Beberapa bulan lalu mereka ada di Fern Islands.$1"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/summer28",
       "Entries": {
-        "Victor": "I'd like to hold your hand while looking out at the moonlight jellies.$4#$e#I love you, @.$4"
+        "Victor": "Aku suka menyaksikan ubur-ubur moonlight sambil memegang tanganmu.$4#$e#Aku sayang kamu, @.$4"
       },
       "When": {
         "Spouse": "Victor"
@@ -9727,14 +9728,14 @@
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Victor": "That clown is only juggling one ball... How odd.$0#$e#I might go look at the grange displays soon. This is getting boring.$2#$e#Have you set your display up?$1"
+        "Victor": "Badutnya cuma melempar satu bola... Aneh.$0#$e#Habis ini aku akan lihat pameran. Ini mulai membosankan.$2#$e#Apa kau sudah memajang punyamu?$1"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Victor": "Hey there, honey! I hope you do well in the grange display contest!$4"
+        "Victor": "Hei, sayang! Semoga kamu menang pamerannya!$4"
       },
       "When": {
         "Spouse": "Victor"
@@ -9746,14 +9747,14 @@
       "Action": "EditData",
       "Target": "data/festivals/fall27",
       "Entries": {
-        "Victor": "Uhh... there's a skeleton monster patrolling in there by those graves.$2"
+        "Victor": "Uhh... ada tengkorak keliling di kuburan itu.$2"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/fall27",
       "Entries": {
-        "Victor": "Be careful in there, honey! There's a monster!$7"
+        "Victor": "Hati-hati di dalam sana, sayang! Ada monsternya!$7"
       },
       "When": {
         "Spouse": "Victor"
@@ -9765,7 +9766,7 @@
       "Target": "data/festivals/fall27",
 	  "When": { "IsOddYear": false },
       "Entries": {
-        "Victor": "These monsters are quite fascinating.$1#$e#Perhaps I'll try to converse with the Castle Village adventurers tonight...$0#$b#They're bound to have some cool adventuring stories.$3",
+        "Victor": "Monster-monster ini sangat menarik.$1#$e#Mungkin nanti aku akan ngobrol dengan para petualang Castle Village...$0#$b#Mereka pasti punya banyak cerita petualangan seru.$3",
       }
     },
 	
@@ -9774,14 +9775,14 @@
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Victor": "I must say, I'm looking forward to seeing Willy show off his fishing skills.$1#$b#You can tell how talented he is. He's been fishing all of his life!$3"
+        "Victor": "Aku menantikan Willy menunjukkan kemampuan memancingnya.$1#$b#Dia pasti sangat berbakat. Karena sudah memancing sepanjang hidupnya!$3"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Victor": "Good luck in the fishing contest, sweetheart. You're going to do great!$4#$e#I'll be cheering for you!$1"
+        "Victor": "Semoga menang lomba memancingnya, sayang. Kamu pasti bisa!$4#$e#Aku akan bersorak untukmu!$1"
       },
       "When": {
         "Spouse": "Victor"
@@ -9793,14 +9794,14 @@
       "Action": "EditData",
       "Target": "data/festivals/winter25",
       "Entries": {
-        "Victor": "I wonder if I should give them the gift now?$0#$e#Timing is everything!$1"
+        "Victor": "Apa harus kuberi sekarang hadiahnya?$0#$e#Waktu yang pas itu penting!$1"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/winter25",
       "Entries": {
-        "Victor": "Hey, @. Umm... I have a gift for you at home.$4#$b#I'll show you tonight, okay?$4"
+        "Victor": "Hei, @. Emm... Aku juga punya hadiah buatmu di rumah.$4#$b#Aku beri nanti malam ya?$4"
       },
       "When": {
         "Spouse": "Victor"
@@ -9812,9 +9813,9 @@
       "Action": "EditData",
       "Target": "Data/Events/Custom_JenkinsHouse",
       "Entries": {
-        "2000000/f Victor 500/e 1000034/p Victor": "jaunty/-500 -500/farmer 20 34 0 Victor 24 25 2/pause 400/skippable/showFrame Victor 37/viewport 22 27 true/move farmer 0 -7 1/pause 800/move farmer 4 0 0/pause 1000/showFrame Victor 38/pause 650/speak Victor \"Oh, sorry. I didn't see you there, @!$1\"/pause 300/showFrame Victor 37/pause 600/showFrame Victor 38/pause 300/speak Victor \"I'm in the middle of reading an adventurer's book about the Fern Islands archipelago. You may not know this, but the Islands are full of perilous caverns.$1#$b#They wind down under the sea and are full of monsters that never emerge above ground.$3#$b#If this adventurer is to be believed, there are huge tentacle monsters and venomous floating jellyfish. It's hard to believe they made it back to write their story!$7\"/pause 200/emote farmer 16/pause 300/showFrame Victor 37/pause 750/showFrame Victor 38/pause 450/speak Victor \"The clan that protects the Fern Islands is called 'The First Slash'. They wear blue cloaks and use long spears, and are led by a fierce fighter named Ekon.$1#$b#Marlon knows him.$3#$b#They coauthored another book somewhere here in the library.$0\"/pause 450/question fork0 \"#Have you considered joining the Adventurer's Guild?#I want to visit the islands sometime!\"/fork 2000000_JoinGuild/pause 550/speak Victor \"My mother and I recently took a trip to Sautine City in the Islands. The beaches are truly a sight to behold.$3#$b#I hope we get to return soon. We take a vacation or two every year, but my mother usually chooses the destination.$1\"/pause 500/showFrame Victor 37/pause 600/speak Victor \"I tend to get lost in my books. This collection used to be small, but over time they've built up.$3#$b#I think I've read around three quarters of the books currently in our library, but it just seems to keep growing.$0#$b#I don't think I'll ever be able to say I've read them all.$1\"/pause 500/showFrame Victor 38/pause 750/speak Victor \"You have my permission to read any of the books here that catch your eye, @.$3#$b#If you want to borrow one to bring home, let me know first.$1\"/pause 500/jump farmer/pause 1200/showFrame Victor 37/pause 2000/showFrame Victor 38/pause 1000/speak Victor \"I'm going to get back to reading. Have a nice day, @. We should chat again soon!$1\"/pause 500/globalFade/viewport -1000 -1000/pause 700/friendship Victor 50/end dialogue Victor \"I got further into the book about the Fern Islands. Apparently those venomous jellyfish are called Zinnes.$7#$b#There's a wizard in the Fern Islands who brews a potion that neutralizes Zinnes venom. His potion saved the adventurer's life!$1\"",
+        "2000000/f Victor 500/e 1000034/p Victor": "jaunty/-500 -500/farmer 20 34 0 Victor 24 25 2/pause 400/skippable/showFrame Victor 37/viewport 22 27 true/move farmer 0 -7 1/pause 800/move farmer 4 0 0/pause 1000/showFrame Victor 38/pause 650/speak Victor \"Oh, maaf. Aku tidak melihatmu, @!$1\"/pause 300/showFrame Victor 37/pause 600/showFrame Victor 38/pause 300/speak Victor \"Aku sedang membaca buku petualang tentang kepulauan di Fern Islands. Mungkin kau belum tahu, ternyata di sana banyak gua berbahaya.$1#$b#Membelit di bawah permukaan laut dan banyak monster yang belum tersentuh daratan.$3#$b#Menurut petualang ini, ada juga monster besar bertentakel dan ubur-ubur beracun. Sulit dipercaya mereka bisa kembali hidup-hidup untuk menulis cerita ini!$7\"/pause 200/emote farmer 16/pause 300/showFrame Victor 37/pause 750/showFrame Victor 38/pause 450/speak Victor \"Klan yang melindungi Fern Islands bernama 'The First Slash'. Mereka berjubah biru dan bersenjata tombak panjang, dan dipimpin oleh petarung garang bernama Ekon.$1#$b#Marlon mengenalnya.$3#$b#Mereka berdua menulis buku lain yang ada di perpustakaan ini.$0\"/pause 450/question fork0 \"#Apa kamu ingin bergabung dengan Adventurer's Guild?#Aku ingin mengunjungi pulau itu suatu saat!\"/fork 2000000_JoinGuild/pause 550/speak Victor \"Aku dan ibuku baru berkunjung ke Sautine City di Fern Islands. Pantainya sangatlah indah.$3#$b#Aku ingin segera kesana lagi. Kami berlibur satu atau dua kali setiap tahun, tapi ibuku yang biasanya memilih tujuan.$1\"/pause 500/showFrame Victor 37/pause 600/speak Victor \"Aku mudah terjerumus saat membaca buku. Koleksiku dulunya sedikit, tapi lama-lama menggunung.$3#$b#Aku sudah membaca tiga perempat buku di perpustakaan kami, dan jumlahnya terus bertambah.$0#$b#Kurasa aku takkan pernah bisa membaca semuanya.$1\"/pause 500/showFrame Victor 38/pause 750/speak Victor \"Kau boleh membaca buku apapun yang membuatmu tertarik, @.$3#$b#Kalau misal ada yang ingin kau bawa pulang, beritahu aku.$1\"/pause 500/jump farmer/pause 1200/showFrame Victor 37/pause 2000/showFrame Victor 38/pause 1000/speak Victor \"Aku mau lanjut membaca. Semoga harimu menyenangkan, @. Kapan-kapan kita ngobrol lagi ya!$1\"/pause 500/globalFade/viewport -1000 -1000/pause 700/friendship Victor 50/end dialogue Victor \"Saat aku melanjutkan membaca buku tentang Fern Islands, aku tahu nama dari ubur-ubur beracun itu. Namanya adalah Zinnes.$7#$b#Ada penyihir di Fern Islands yang meramu obat untuk menetralisir racun Zinnes. Ramuannya menyelamatkan nyawa petualang!$1\"",
 		
-		"2000000_JoinGuild": "pause 750/showFrame Victor 38/speak Victor \"!!!$7#$b#Me? Joining the Adventurer's Guild? Hahahaha!$1#$b#I'm great at reading and studying monsters, but I'd be hopeless in a fight. I'll leave that to brave people like you, @.$3\"/pause 1200/speak Victor \"I'm thankful we have people like you to protect us. I know it's dangerous, tough work.$3\"/pause 500/emote farmer 32/pause 500/showFrame Victor 37/pause 1750/showFrame Victor 38/pause 1000/speak Victor \"All I do is read books all day.$1#$b#This collection of books used to be small, but over time they've built up.$3#$b#I think I've read around three quarters of the books currently in our library, but it just seems to keep growing.$0#$b#I don't think I'll ever be able to say I've read them all.$1\"/pause 1000/showFrame Victor 38/pause 750/speak Victor \"You have my permission to read any of my adventurer books that catch your eye, @.$3#$b#If you want to borrow one to bring home, just let me know first.$1\"/pause 500/jump farmer/pause 1200/showFrame Victor 37/pause 2000/showFrame Victor 38/pause 1000/speak Victor \"I'm going to get back to reading. Have a nice day, @. We should chat again soon!$1\"/pause 500/globalFade/viewport -1000 -1000/pause 700/friendship Victor 50/end dialogue Victor \"I got further into the book about the Fern Islands. Apparently those venomous jellyfish are called Zinnes.$7#$b#There's a wizard in the Fern Islands who brews a potion that neutralizes Zinnes venom. His potion saved the adventurer's life!$1\"",
+		"2000000_JoinGuild": "pause 750/showFrame Victor 38/speak Victor \"!!!$7#$b#Aku? Gabung ke Adventurer's Guild? Hahahaha!$1#$b#Aku memang hebat mempelajari monster, tapi aku tidak bisa bertarung. Akan kuserahkan itu pada yang berani sepertimu, @.$3\"/pause 1200/speak Victor \"Aku bersyukur ada orang-orang sepertimu melindungi kami. Meski itu berbahaya dan sulit.$3\"/pause 500/emote farmer 32/pause 500/showFrame Victor 37/pause 1750/showFrame Victor 38/pause 1000/speak Victor \"Aku cuma membaca buku setiap hari.$1#$b#Koleksiku dulunya sedikit, tapi lama-lama menggunung.$3#$b#Aku sudah membaca tiga perempat buku di perpustakaan kami, dan jumlahnya terus bertambah.$0#$b#Kurasa aku takkan pernah bisa membaca semuanya.$1\"/pause 1000/showFrame Victor 38/pause 750/speak Victor \"Kau boleh membaca buku apapun yang membuatmu tertarik, @.$3#$b#Kalau misal ada yang ingin kau bawa pulang, beritahu aku.$1\"/pause 500/jump farmer/pause 1200/showFrame Victor 37/pause 2000/showFrame Victor 38/pause 1000/speak Victor \"Aku mau lanjut membaca. Semoga harimu menyenangkan, @. Kapan-kapan kita ngobrol lagi ya!$1\"/pause 500/globalFade/viewport -1000 -1000/pause 700/friendship Victor 50/end dialogue Victor \"Saat aku melanjutkan membaca buku tentang Fern Islands, aku tahu nama dari ubur-ubur beracun itu. Namanya adalah Zinnes.$7#$b#Ada penyihir di Fern Islands yang meramu obat untuk menetralisir racun Zinnes. Ramuannya menyelamatkan nyawa petualang!$1\"",
       }
     },
 
@@ -9823,7 +9824,7 @@
       "Action": "EditData",
       "Target": "Data/Events/Custom_ShearwaterBridge",
       "Entries": {
-      "2000050/z winter/w sunny/t 800 1700/f Victor 750/k 2000004": "jaunty/-500 -500/farmer 15 20 1 Victor 37 20 2 Linus 66 10 0/pause 1000/animate Victor false true 120 16 17 18 17 17 18 17 17 18 18 18 17 18 17 18 17 18 18 17 17 18 17 18 17 18 17 18 17 17 17 18 18 17 18 17 18 17 18/viewport 22 20 true/viewport move 1 0 10000 true/move farmer 19 0 1 true/skippable/pause 8500/stopAnimation Victor/pause 1000/move Victor 0 0 3/pause 400/emote Victor 16/speak Victor \"Hello, @! Visiting Shearwater Bridge I see.$1#$b#I'm doing some calculations on its structural integrity.$3\"/pause 200/emote farmer 16/pause 350/speak Victor \"This bridge was built forty years ago, and at the time it was a triumph of engineering.$1#$b#Bridges fascinate me. They're so simple, but can have so much impact on people's lives.$1#$b#I've built models of a few famous ones. Someday, I want to build something on this scale.$3\"/pause 600/move Victor 0 0 1/pause 650/move Victor 0 0 3/pause 850/speak Victor \"There's a bridge engineer in Grampleton. His name is Ralph.#$b#When he needs help, I assist him with his work to get hands-on experience.$3\"/pause 800/speak Victor \"The physics and mathematics that go into bridge construction need to be absolutely flawless.$6#$b#Even a tiny mistake in a single calculation could lead to a major catastrophe.$2\"/pause 1500/move Victor 0 0 2/pause 1050/showFrame Victor 19/pause 1100/showFrame Victor 16/pause 1400/showFrame Victor 19/pause 1000/showFrame Victor 0/pause 600/move Victor 0 0 3/pause 500/speak Victor \"I'm returning to my residence. Need to run these calculations on my computer. It's been a pleasure speaking with you, @.$1\"/pause 1000/globalFade/viewport -1000 -1000/pause 1000/friendship Victor 50/end dialogue Victor \"I ran those calculations I told you about. I think I've stumbled onto a real improvement plan for Shearwater Bridge!$1#$b#These structural upgrades could save 213,500g of maintenance costs over the next ten years. I should talk to Ralph right away!$1#$e#Doing work that takes a lot of brainpower makes me hungry. I wonder if there's leftover spaghetti.$3\""
+      "2000050/z winter/w sunny/t 800 1700/f Victor 750/k 2000004": "jaunty/-500 -500/farmer 15 20 1 Victor 37 20 2 Linus 66 10 0/pause 1000/animate Victor false true 120 16 17 18 17 17 18 17 17 18 18 18 17 18 17 18 17 18 18 17 17 18 17 18 17 18 17 18 17 17 17 18 18 17 18 17 18 17 18/viewport 22 20 true/viewport move 1 0 10000 true/move farmer 19 0 1 true/skippable/pause 8500/stopAnimation Victor/pause 1000/move Victor 0 0 3/pause 400/emote Victor 16/speak Victor \"Halo, @! Sedang berkunjung ke Shearwater Bridge ya.$1#$b#Aku sedang menghitung kekokohan struktur jembatan ini.$3\"/pause 200/emote farmer 16/pause 350/speak Victor \"Jembatan ini dibangun 40 tahun lalu, saat era kejayaan teknik konstruksi.$1#$b#Jembatan selalu membuatku kagum. Bangunannya selalu simpel, tapi dampaknya besar bagi kehidupan.$1#$b#Aku membuat model dari beberapa jembatan terkenal. Kelak, aku ingin membuat yang skalanya sebesar ini.$3\"/pause 600/move Victor 0 0 1/pause 650/move Victor 0 0 3/pause 850/speak Victor \"Ada insinyur jembatan di Grampleton. Namanya Ralph.#$b#Saat dia butuh bantuan, aku selalu membantunya agar dapat pengalaman.$3\"/pause 800/speak Victor \"Perhitungan fisika dan matematika dalam konstruksi jembatan harus sempurna.$6#$b#Bahkan kesalahan sekecil apapun bisa berujung pada kecelakaan besar.$2\"/pause 1500/move Victor 0 0 2/pause 1050/showFrame Victor 19/pause 1100/showFrame Victor 16/pause 1400/showFrame Victor 19/pause 1000/showFrame Victor 0/pause 600/move Victor 0 0 3/pause 500/speak Victor \"Aku mau pulang. Harus menjalankan perhitungan ini di komputer. Senang bisa mengobrol denganmu, @.$1\"/pause 1000/globalFade/viewport -1000 -1000/pause 1000/friendship Victor 50/end dialogue Victor \"Setelah aku proses perhitungannya di komputer. Tidak sengaja aku dapat rencana bagus untuk perbaikan Shearwater Bridge!$1#$b#Peningkatan struktur ini bisa menghemat biaya perawatan sejumlah 213,500g selama 10 tahun ke depan. Aku harus segera beritahu Ralph!$1#$e#Kegiatan menguras otak membuatku jadi lapar. Apa ada sisa spaghetti di rumah ya.$3\""
       }
     },
 	
@@ -9831,14 +9832,14 @@
       "Action": "EditData",
       "Target": "Data/Events/Town",
       "Entries": {
-        "2000001/f Victor 1000/t 1030 1700/d Mon Wed Thu Sat Fri Sun/z winter/w sunny": "fall_day_ambient/-500 -500/farmer 40 95 1 Victor 45 89 3/pause 400/skippable/animate Victor false true 2250 40 40 40 41 41/viewport 46 89 true/move farmer 4 0 0/emote farmer 8/pause 500/move farmer 3 0 0/move farmer 0 -6 3/pause 2250/speak Victor \"Hi, @...$2\"/pause 700/question fork0 \"#Someone in your family die?#Whose grave is that?\"/fork 2000001_Graveyard/switchEvent 2000001_Graveyard",
+        "2000001/f Victor 1000/t 1030 1700/d Mon Wed Thu Sat Fri Sun/z winter/w sunny": "fall_day_ambient/-500 -500/farmer 40 95 1 Victor 45 89 3/pause 400/skippable/animate Victor false true 2250 40 40 40 41 41/viewport 46 89 true/move farmer 4 0 0/emote farmer 8/pause 500/move farmer 3 0 0/move farmer 0 -6 3/pause 2250/speak Victor \"Hai, @...$2\"/pause 700/question fork0 \"#Ada kerabatmu yang meninggal?#Makam siapa itu?\"/fork 2000001_Graveyard/switchEvent 2000001_Graveyard",
 		
-		"2000001_Graveyard": "pause 750/speak Victor \"...$2\"/pause 600/stopAnimation Victor/pause 1000/move Victor 0 0 1/pause 1000/showFrame Victor 43/pause 1500/playMusic echos/pause 850/speak Victor \"This is my cat's grave. His name was Dewey.$2#$b#I commissioned Robin to carve this tombstone for him, in his memory.$6#$b#Dewey went missing shortly after my mother and I moved into the valley from Zuzu City.$2\"/pause 150/emote farmer 60/pause 300/speak Victor \"He had just turned two years old. We... don't know what happened to him.$2#$b#When he went missing, I was devastated. The whole town came out to help try to find him, but nobody had any luck.$2\"/pause 1100/speak Victor \"After several weeks... we accepted that he probably wasn't coming back.$2\"/pause 1250/shake Victor 1500/pause 1000/speak Victor \"I should have been there for him. He must have been so scared, alone in a strange place...$2\"/pause 1000/speak Victor \"I hope that if he's out there, he finds his way home, no matter how much time it takes.$2\"/pause 800/showFrame Victor 4/pause 750/speak Victor \"I'll be here when he does.$6\"/pause 1000/globalFade/viewport -1000 -1000/pause 700/mail VictorDewey/friendship Victor 40/end dialogue Victor \"I don't normally talk to anyone in the graveyard.$0\"",
+		"2000001_Graveyard": "pause 750/speak Victor \"...$2\"/pause 600/stopAnimation Victor/pause 1000/move Victor 0 0 1/pause 1000/showFrame Victor 43/pause 1500/playMusic echos/pause 850/speak Victor \"Ini kuburan kucingku. Namanya Dewey.$2#$b#Aku menyewa Robin untuk memahat batu nisan ini demi mengenang kucingku.$6#$b#Dewey menghilang setelah aku dan ibu pindah ke lembah ini dari Zuzu City.$2\"/pause 150/emote farmer 60/pause 300/speak Victor \"Usianya baru menginjak dua tahun. Kami... tidak tahu apa yang terjadi padanya.$2#$b#Saat dia menghilang, aku hancur. Seluruh warga ikut serta untuk mencarinya, tapi tidak ada yang beruntung.$2\"/pause 1100/speak Victor \"Setelah sekian pekan... kami sudah ikhlas menganggap dia takkan kembali pulang.$2\"/pause 1250/shake Victor 1500/pause 1000/speak Victor \"Aku harusnya menemani dia. Dia pasti takut dan kesepian...$2\"/pause 1000/speak Victor \"Jika dia masih hidup, semoga dia bisa menemukan jalan pulang, entah berapa lama itu.$2\"/pause 800/showFrame Victor 4/pause 750/speak Victor \"Aku akan di sini saat dia kembali.$6\"/pause 1000/globalFade/viewport -1000 -1000/pause 700/mail VictorDewey/friendship Victor 40/end dialogue Victor \"Aku biasanya tidak bicara pada orang lain saat di pemakaman.$0\"",
       }
     },
 
 	{ 
-	  //VICTOR 6 HEART EVENT
+	  //VICTOR 6 HEART EVENT (wayahe iki)
       "Action": "EditData",
       "Target": "Data/Events/Town",
 	  "When": { "HasSeenEvent |contains=5553210": false },
