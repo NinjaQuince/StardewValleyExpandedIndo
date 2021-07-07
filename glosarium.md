@@ -6,7 +6,7 @@ hex: heksagon
 void: hampa
 Razzy: Si Razz
 guide (Yoba): memandu
-dear (Olivia not married): manis
+dear (Olivia, susan): nak/manis
 ledger: kasbuk
 vanguard: garda depan
 shed: bangsal
@@ -22,3 +22,14 @@ organizing: menata
 restore: pulih
 backwater: asing, terpencil
 violent: ganas
+dreadful: sengsara
+pressuring mendesak
+slump: terpuruk
+manage: kelola
+glad: lega
+thoughtful: kepedulian/tak perlu repot repot/perhatiannya
+town:kota  
+city:kota besar
+argument: cekcok
+getting too invested: terlanjur
+aging: memeram
