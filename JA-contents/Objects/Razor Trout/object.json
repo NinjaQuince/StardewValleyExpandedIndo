@@ -1,11 +1,11 @@
 {
 	"Name": "Razor Trout",
-	"Description": "Ikan pendatang ini dilepas oleh seseorang... Punya corak di tubuhnya yang menyerupai huruf 'J'.",
+	"Description": "Spesias pendatang yang dilepas seseorang... Punya corak di tubuhnya yang menyerupai huruf 'J'.",
 	"Category": "MonsterLoot",
 	"Edibility": -35,
 	"EdibleIsDrink": false,
 	"EdibleBuffs": null,
-	"Price": 325,
+	"Price": 400,
 	"IsColored": false,
 	"CanSell": false,
 	"CategoryTextOverride": "Fish",

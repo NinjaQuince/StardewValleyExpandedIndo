@@ -1,11 +1,11 @@
 {
 	"Name": "Starfish",
-	"Description": "Disebut juga dengan bintang laut karena bentuk tubuhnya mirip bintang.",
+	"Description": "Disebut juga dengan bintang laut karena bentuknya mirip bintang.",
 	"Category": "Fish",
 	"Edibility": -20,
 	"EdibleIsDrink": false,
 	"EdibleBuffs": null,
-	"Price": 210,
+	"Price": 150,
 	"IsColored": false,
 	"GiftTastes":
 	{

@@ -1,11 +1,11 @@
 {
 	"Name": "Puppyfish",
-	"Description": "Ikan ini cuma ingin dielus-elus dan makan.",
+	"Description": "Ikan ini cuma ingin dielus-elus dan dikasih makan.",
 	"Category": "Fish",
 	"Edibility": 40,
 	"EdibleIsDrink": false,
 	"EdibleBuffs": null,
-	"Price": 500,
+	"Price": 280,
 	"IsColored": false,
 	"GiftTastes":
 	{

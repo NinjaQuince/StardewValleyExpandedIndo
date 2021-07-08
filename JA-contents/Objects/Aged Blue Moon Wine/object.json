@@ -1,6 +1,6 @@
 {
 	"Name": "Aged Blue Moon Wine",
-	"Description": "Wine tua buah tangan Sophia dari Blue Moon Vineyard. Sudah termasuk parsel indah yang diitari dedaunan, dengan pita cantik. Sangat cocok untuk hadiah!",
+	"Description": "Wine tua buatan Sophia dari Blue Moon Vineyard. Dibungkus parsel indah yang diitari dedaunan, dan pita cantik. Cocok sekali untuk hadiah!",
 	"Category": "ArtisanGoods",
 	"Edibility": 100,
 	"EdibleIsDrink": true,
@@ -27,6 +27,6 @@
 		"Like": ["Sebastian", "Maru", "Sam", "Susan", "Lewis", "Alex", "Shane", "Abigail", "Emily", "Haley", "Caroline", "Clint", "Demetrius", "Evelyn", "George", "Robin", "Sandy", "Willy", "Linus", "Wizard"],
 		"Neutral": ["Sophia"],
 	    "Dislike": ["Jas", "Vincent", "Morgan", "Claire"],
-		"Hate": ["Dwarf", "Krobus", "Penny", "Andy", "Martin"]
+		"Hate": ["Dwarf", "Leo", "Krobus", "Penny", "Andy", "Martin"]
 	},
 }

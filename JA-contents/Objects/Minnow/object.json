@@ -1,11 +1,11 @@
 {
 	"Name": "Minnow",
-	"Description": "Ikan biasa.",
+	"Description": "Ikan sungai biasa.",
 	"Category": "Fish",
 	"Edibility": 1,
 	"EdibleIsDrink": false,
 	"EdibleBuffs": null,
-	"Price": 15,
+	"Price": 20,
 	"IsColored": false,
 	"GiftTastes":
 	{

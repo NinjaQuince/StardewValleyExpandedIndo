@@ -1,6 +1,6 @@
 {
 	"Name": "Blue Moon Wine",
-	"Description": "Wine buah tangan Sophia dari Blue Moon Vineyard.",
+	"Description": "Wine buatan Sophia dari Blue Moon Vineyard.",
 	"Category": "ArtisanGoods",
 	"Edibility": 10,
 	"EdibleIsDrink": true,
@@ -19,10 +19,9 @@
         "Attack": 0,
         "Duration": 180,
     },
-	"Price": 1000,
+	"Price": 700,
 	"IsColored": false,
-	"CanPurchase": true,
-    "PurchaseFrom": "Gus",
+	"CanPurchase": false,
     "PurchasePrice": 3500,
 	"GiftTastes":
 	{
@@ -30,6 +29,6 @@
 		"Like": ["MarlonFay", "Susan", "MorrisTod", "Elliott", "Lewis", "Wizard", "Jodi", "Pierre", "Robin"],
 		"Neutral": ["Alex", "Sam", "Shane", "Abigail", "Emily", "Haley", "Caroline", "Clint", "Demetrius", "Evelyn", "George", "Kent", "Linus", "Marnie", "Sandy", "Willy", "Sophia"],
 	    "Dislike": ["Sebastian", "Maru", "Jas", "Vincent", "Morgan", "Claire"],
-		"Hate": ["Andy", "Dwarf", "Krobus", "Martin", "Penny"]
+		"Hate": ["Andy", "Leo", "Dwarf", "Krobus", "Martin", "Penny"]
 	},
 }

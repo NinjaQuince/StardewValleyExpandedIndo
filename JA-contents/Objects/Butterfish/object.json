@@ -1,11 +1,11 @@
 {
 	"Name": "Butterfish",
-	"Description": "Umum dipakai dalam hidangan-hidangan di Ferngill Republic.",
+	"Description": "Umum dipakai di hidangan Ferngill Republic.",
 	"Category": "Fish",
 	"Edibility": 20,
 	"EdibleIsDrink": false,
 	"EdibleBuffs": null,
-	"Price": 300,
+	"Price": 225,
 	"IsColored": false,
 	"GiftTastes":
 	{

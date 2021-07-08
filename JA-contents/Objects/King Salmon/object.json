@@ -1,11 +1,11 @@
 {
 	"Name": "King Salmon",
-	"Description": "Salmon besar, mudah dikenali dari sisiknya yang lebar.",
+		"Description": "Salmon besar yang mudah dikenali dari sisik lebarnya.",
 	"Category": "Fish",
 	"Edibility": 52,
 	"EdibleIsDrink": false,
 	"EdibleBuffs": null,
-	"Price": 600,
+	"Price": 450,
 	"IsColored": false,
 	"GiftTastes":
 	{
