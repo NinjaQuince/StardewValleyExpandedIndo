@@ -33,3 +33,8 @@ city:kota besar
 argument: cekcok
 getting too invested: terlanjur
 aging: memeram
+lasts: awet
+summoned: dimunculkan
+mood: suasana hati
+*grumble*: gerutuan
+spoiling: membeberkan/memanjakan
