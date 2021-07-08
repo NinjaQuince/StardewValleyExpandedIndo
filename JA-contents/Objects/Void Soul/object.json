@@ -1,0 +1,17 @@
+{
+	"Name": "Void Soul",
+	"Description": "Intisari kehidupan yang telah rusak. Bahan utama dalam membuat ramuan.",
+	"Category": "MonsterLoot",
+	"Edibility": -300,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"CanSell": false,
+	"Price": 150,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		"Love": ["Wizard", "Krobus", "Dwarf", "Morgan" ],
+		"Like": ["Abigail", "MarlonFay", "Sandy" ],
+		"Dislike": ["Olivia", "Leo", "Andy", "Martin", "Apples", "Sophia", "GuntherSilvian", "Victor", "Claire", "Susan", "MorrisTod", "Alex", "Elliott", "Harvey", "Sam", "Sebastian", "Shane", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Clint", "Demetrius", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Pam", "Pierre", "Robin", "Vincent", "Willy"]
+	},
+}

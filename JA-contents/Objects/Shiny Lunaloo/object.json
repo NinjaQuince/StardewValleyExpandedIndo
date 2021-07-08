@@ -1,0 +1,15 @@
+{
+	"Name": "Shiny Lunaloo",
+	"Description": "Ubur-ubur bercahaya, alias ubur-ubur moonlight. Dengan bentuk dan warna yang beda.",
+	"Category": "Fish",
+	"Edibility": -50,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 850,
+	"IsColored": false,
+		"GiftTastes":
+	{
+	    "Love": [ "Wizard" ],
+		"Like": ["Willy"],
+	},
+}

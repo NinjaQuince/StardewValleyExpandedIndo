@@ -1,0 +1,8 @@
+{
+  "Name": "Golden Skull Lamp-post",
+  "Price": 7500,
+  "ProvidesLight": false,
+  "Description": "Terbuat dari emas murni. Menyediakan cahaya sedang.",
+  "ProvidesLight": true,
+  "CanPurchase": false,
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "Fancy Iron Lamp-post",
+  "Price": 5000,
+  "ProvidesLight": false,
+  "Description": "Menyediakan cahaya sedang.",
+  "ProvidesLight": true,
+  "CanPurchase": false,
+}

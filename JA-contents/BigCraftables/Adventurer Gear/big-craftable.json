@@ -1,0 +1,8 @@
+{
+  "Name": "Adventurer Gear",
+  "Price": 2500,
+  "ProvidesLight": false,
+  "Description": "Dua pasang sepatu dan satu dagger kecil.",
+  "ProvidesLight": false,
+  "CanPurchase": false,
+}

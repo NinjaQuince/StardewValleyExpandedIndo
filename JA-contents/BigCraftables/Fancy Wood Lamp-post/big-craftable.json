@@ -1,0 +1,8 @@
+{
+  "Name": "Fancy Wood Lamp-post",
+  "Price": 4000,
+  "ProvidesLight": false,
+  "Description": "Menyediakan cahaya sedang.",
+  "ProvidesLight": true,
+  "CanPurchase": false,
+}

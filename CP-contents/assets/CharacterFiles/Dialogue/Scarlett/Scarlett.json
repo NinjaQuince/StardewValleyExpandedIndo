@@ -1,0 +1,36 @@
+﻿{
+
+"Mon": "Hei!$1",
+"Tue": "Hei!$1",
+"Wed": "Hei!$1",
+"Thu": "Hei!$1",
+"Fri": "Hei!$1",
+"Sat": "Hei!$1",
+"Sun": "Hei!$1",
+
+"fall_1": "Hei! Hari ini aku membantu Sophia.$1",
+"fall_2": "Sophia butuh bantuan saat panen anggur di musim gugur.$0#$e#Ini sangat keren! Kami juga berpesta sebelum tidur!$1",
+"fall_3": "Aku suka pemandangan Gem Sea dari sini!$1",
+"fall_8": "Kalau sedang disini tugasku banyak!$1#$e#Hei. Kalau senggang, maukah kau membantu?$0",
+"fall_9": "Panjang umur! Aku dan Sophia baru saja ngobrol tentangmu#$e#Rahasia! Aku tutup mulut!$1",
+"fall_10": "Ini hari yang indah! Cocok untuk kerja di kebun anggur!$0#$e#Baiklah, saatnya kembali kerja.$1",
+"fall_15": "Aku ingin ke kota dan lihat ada apa saja di Pelican Town. tapi aku sudah sibuk disini.$0",
+"fall_16": "Hei! Hari ini aku membantu Sophia.$1",
+"fall_17": "Aku dan Sophia sarapan banyak wafel pagi ini!$1#$e#Kalau begini, biasanya dia akan makan malam dengan Grampleton Orange Chicken.$0",
+"fall_22": "Hei! Hari ini aku membantu Sophia.$1",
+"fall_23": "Kalau kesini naik kereta tidak lama.$0#$e#Kamu pernah ke Grampleton?$1",
+"fall_24": "Ini hari terakhir panen musim gugur!$1",
+
+//schedule dialogue
+"Custom_BlueMoonVineyard2_27_33": "Siap bekerja, Sophia!?$1",
+"Custom_SophiaHouse_3_25": "Hari ini aku membantu Sophia!$1",
+"Custom_SophiaHouse_10_25": "Kamu mai ke Saloon nanti malam. Mau ikut?$0",
+"Custom_SophiaHouse_15_24": "Hari ini capek sekali ya, Sophia?$1",
+"Custom_SophiaHouse_5_22": "Ruang Cosplay-nya Sophia keren ya?$0",
+"Custom_SophiaHouse_17_21": "Hardwood ini didatangkan dari Grampleton, tempat asalku!$1",
+"Custom_SophiaHouse_20_7": "Wah! Dia tidak bilang punya volume yang ini!$1",
+"Custom_SophiaHouse_23_6": "Apa sih, @! Aku lagi tidur.$2",
+"Custom_SophiaHouse_20_37": "Ya! Ayo pergi ke Saloon!$1",
+"Saloon_24_18": "Aku suka suasana tempat ini.$0",
+
+}

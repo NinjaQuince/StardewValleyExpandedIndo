@@ -1,0 +1,8 @@
+{
+  "Name": "Iridium Skull Lamp-post",
+  "Price": 17500,
+  "ProvidesLight": false,
+  "Description": "Terbuat dari Iridium murni. Menyediakan cahaya sedang.",
+  "ProvidesLight": true,
+  "CanPurchase": false,
+}

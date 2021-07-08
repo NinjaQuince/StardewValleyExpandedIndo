@@ -1,0 +1,9 @@
+{
+	"Name": "Sea Sponge",
+	"Description": "Hewan bersel banyak yang sangat beragam. Berperan penting dalam siklus nutrisi di terumbu karang.",
+	"Category": "Fish",
+	"Edibility": -25,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 90,
+}
