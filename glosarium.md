@@ -46,3 +46,5 @@ craftmanship: ulet/terampil
 *whisper*: berbisik
 *sniff*: isak\tersedu
 checking on me: menjengukku
+ward: penangkal
+charm: jimat

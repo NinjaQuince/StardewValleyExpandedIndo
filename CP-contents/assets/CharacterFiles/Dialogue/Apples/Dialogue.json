@@ -71,7 +71,7 @@
 "winter_Sat10": "*miip*!!!$1#$e#*miip*!!$0#$e#Apples kenyang! Banyak starfruit di gubuk!",
 
 //EVENT DIALOGUE
-"apples_event1": "...$2#$b#Other friends don’t say that.$4#$b#They say Apples wrong.$2",
-"apples_event2": "...$2#$b#Apples make big mistake. Apples sorry.$3#$b#Apples only wanted to make new home for other friends...$3#$b#Don't be mad at Apples...$3",
-"apples_event3": "...$2#$b#Apples did make more friends...$4"
+"apples_event1": "...$2#$b#Teman-lain tidak bilang itu.$4#$b#Mereka bilang Apples salah.$2",
+"apples_event2": "...$2#$b#Apples buat kesalahan besar. Apples maaf.$3#$b#Apples cuma ingin buat rumah baru untuk teman-teman...$3#$b#Jangan marah sama Apples...$3",
+"apples_event3": "...$2#$b#Teman Apples bertambah...$4"
 }

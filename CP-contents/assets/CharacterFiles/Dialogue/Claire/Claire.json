@@ -1,6 +1,7 @@
 ﻿{
   //SPECIAL DIALOGUE
   "Introduction": "Hai. Aku belum pernah melihatmu...$0#$e#Maaf. Aku... Aku belum begitu mengenalmu.$2#$e#%Claire agak menjaga jarak denganmu.",
+  "accept_614": "Oh, teh hijau? Terima kasih.$1",
   "Town_92_44": "%'Khusus Karyawan'",
   "danceRejection": "Oh, kau mau menari denganku? Eng... nanti saja ya?$1",
   "BusStop_12_8": "Permisi. Aku mau pulang naik bis...$0",
@@ -72,7 +73,7 @@
   "fall_Tue": "*Hoahh~*... Hai.$0#$e#Eng... Ada yang bisa dibantu?",
   "fall_Tue8": "Halo @. Aku bawa apel segar dari rumah. Sudah matang semua![613]$1",
   "fall_Tue10": "Aku memetik buah di 'Smith Orchard', tetanggaku.$1#$b#Eng, ini apel dari mereka.[613]$4#$e#Langsung kupetik dari pohonnya...$7",
-"fall_Thu8": "Hari yang indah ya?$1#$e#Mampirlah dan ngobrol lagi.$5",
+  "fall_Thu8": "Hari yang indah ya?$1#$e#Mampirlah dan ngobrol lagi.$5",
   "fall_Wed": "Hai.$0#$e#Eng. Ya?$0#$e#...$2",
   "fall_Wed2": "Halo. Bagaimana kabarmu?$1",
   //"fall_Wed4": "Apa kau berteman dengan warga di Pelican Town?#$e#Aku tidak ada kesempatan untuk ngobrol dengan siapapun... kecuali Shane dan Sam, tapi mereka adalah rekan kerja.$0",
@@ -127,8 +128,8 @@
   "claire_event19": "Di jam segini? Hehe.$13#$b#Jangan berlebihan sayang$15",
   "claire_event20": "Oh. Ini jadwalku menutup toko.$12#$b#Biasanya tidak lama, tapi ada yang harus kubersihkan dulu...$14",
   "claire_event21": "Kamu pasti lelah bekerja seharian...$13#$b#*ngoahh* AKu juga sama...$15",
-  "claire_event22": "Oh. I see...$12",
-  "claire_event23": "Um. It actually does a little.$13",
+  "claire_event22": "Oh. Begitu...$12",
+  "claire_event23": "Em. Iya, sedikit.$13",
   "claire_event24": "Yah, kurasa begitu...$14",
   "claire_event25": "Oh... Eng.$14",
   "claire_event26": "Hehe. Ya. Di kampung suasananya tenang.$13#$b#Tapi di sana juga sepi...$12#$b#Eng... mungkin aku akan bergabung dengan kelas senam.$12",  
