@@ -38,3 +38,11 @@ summoned: dimunculkan
 mood: suasana hati
 *grumble*: gerutuan
 spoiling: membeberkan/memanjakan
+accomplished: ulung
+winery: kilang anggur
+culturing: mengolah
+craftmanship: ulet/terampil
+*smooch*: kecup
+*whisper*: berbisik
+*sniff*: isak\tersedu
+checking on me: menjengukku
