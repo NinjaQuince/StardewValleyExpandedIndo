@@ -1,191 +1,101 @@
 {
   //SPECIAL DIALOGUE
-  "patio_Wizard"
-  : "Hari yang nyaman untuk keluar jalan-jalan. Mau ikut?$0",
-  "spouseRoom_Wizard"
-  : "Mmm... Aku tidak ingin memenuhi rumah, tapi aku berharap ada buku lagi untuk referensi.$0",
-  "funReturn_Wizard"
-  : "Tempat yang indah untuk tujuan pulang.$1",
-  "funLeave_Wizard"
-  : "Aku pergi, ada tugas sihir. Aku akan kembali sebelum makan malam, janji.$0",
-  "OneKid_0"
-  : "Ada sesuatu yang ajaib tentang anak, iya kan?$0#$b#Imajinasi tanpa batas adalah alat yang kuat.$0",
-  "OneKid_1"
-  : "Ah... Pelajaran sihir dari manapun tidak akan membantuku mengatasi popok kotor ini.$0",
-  "OneKid_2"
-  : "Semoga anak kita mewarisi hal terbaik dari kita berdua. Dan semoga hal buruknya sedikit.$0",
-  "OneKid_3"
-  : "Apa sudah ada petunjuk soal aktivitas sihir anak kita? Petunjuknya tidak akan muncul sedini ini.$0",
-  "OneKid_4"
-  : "Saat anak kita cukup umur, ayo berlibur ke Ginger Island.$0#$e#Aku ingin mereka melihat luasnya dunia, dibalik lembah kecil ini.$1",
-  "TwoKids_0"
-  : "Dari semua tempat indah yang pernah kukunjungi saat kerja, tak ada yang bisa menandingi rumah ini dan keluarga kecil kita.$1#$e#%Magnus senyum padaku.",
-  "TwoKids_1"
-  : "Anak-anak tidak seperti kucing, kan? Dua anak saja repotnya berganda. ...sejauh ini.$0",
-  "TwoKids_2"
-  : "Aku lihat anak kita ada yang menunjukkan tanda awal telekinesis hari ini!$5#$e#Boneka beruangnya turun dari almari... mungkin mereka mengendalikannya!$0#$b#...Ya, kurasa bonekanya cuma jatuh.$2",
-  "TwoKids_3"
-  : "Bagaimana kalau minta bantuan Abigail untuk mengasuh>?$0#$e#...Cuma menyarankan saja.$1",
-  "TwoKids_4"
-  : "Kuharap salah satu anak kita ada yang mau mengikuti jejakku.$0#$e#Kedengarannya percuma, kan? Tapi aku ingin kita saling berbagi ilmu sihir.$0",
+  "patio_Wizard": "Hari yang nyaman untuk keluar jalan-jalan. Mau ikut?$0",
+  "spouseRoom_Wizard": "Mmm... Aku tidak ingin memenuhi rumah, tapi aku berharap ada buku lagi untuk referensi.$0",
+  "funReturn_Wizard": "Tempat yang indah untuk tujuan pulang.$1",
+  "funLeave_Wizard": "Aku pergi, ada tugas sihir. Aku akan kembali sebelum makan malam, janji.$0",
+  "OneKid_0": "Ada sesuatu yang ajaib tentang anak, iya kan?$0#$b#Imajinasi tanpa batas adalah alat yang kuat.$0",
+  "OneKid_1": "Ah... Pelajaran sihir dari manapun tidak akan membantuku mengatasi popok kotor ini.$0",
+  "OneKid_2": "Semoga anak kita mewarisi hal terbaik dari kita berdua. Dan semoga hal buruknya sedikit.$0",
+  "OneKid_3": "Apa sudah ada petunjuk soal aktivitas sihir anak kita? Petunjuknya tidak akan muncul sedini ini.$0",
+  "OneKid_4": "Saat anak kita cukup umur, ayo berlibur ke Ginger Island.$0#$e#Aku ingin mereka melihat luasnya dunia, dibalik lembah kecil ini.$1",
+  "TwoKids_0": "Dari semua tempat indah yang pernah kukunjungi saat kerja, tak ada yang bisa menandingi rumah ini dan keluarga kecil kita.$1#$e#%Magnus senyum padaku.",
+  "TwoKids_1": "Anak-anak tidak seperti kucing, kan? Dua anak saja repotnya berganda. ...sejauh ini.$0",
+  "TwoKids_2": "Aku lihat anak kita ada yang menunjukkan tanda awal telekinesis hari ini!$5#$e#Boneka beruangnya turun dari almari... mungkin mereka mengendalikannya!$0#$b#...Ya, kurasa bonekanya cuma jatuh.$2",
+  "TwoKids_3": "Bagaimana kalau minta bantuan Abigail untuk mengasuh>?$0#$e#...Cuma menyarankan saja.$1",
+  "TwoKids_4": "Kuharap salah satu anak kita ada yang mau mengikuti jejakku.$0#$e#Kedengarannya percuma, kan? Tapi aku ingin kita saling berbagi ilmu sihir.$0",
   
   //SEASONAL DIALOGUE
-  "spring_Wizard"
-  : "Mau jalan-jalan ke hutan denganku nanti? Akan kutunjukkan semua tanaman berguna yang bisa kau temukan di musim semi.$1",
-  "spring_1"
-  : "Aku tahu kapan musim semi datang dengan mendengar lantunan tunas baru.$0#$e#Mmm? Ya, pohon bisa bernyanyi. Kau juga bisa tahu, asal didengarkan dengan baik.$0",
-  "spring_13"
-  : "Hari festival telur ya? Setiap tahun, aku penasaran dari ritual apa tradisi berburu telur lahir...$0#$e#Aku yakin pasti ritual kuno.$0",
-  "spring_24"
-  : "Mau menari denganku hari ini? Tentu, kau juga bisa memintanya kapanpun kau mau.$1",
-  "summer_Wizard"
-  : "Tak ada yang bisa menyamai hembusan musim panas yang menenangkan jiwa. Jujur, aku juga suka badai petir.$0#$e#Suara gunturnya bagus.$1",
-  "summer_1"
-  : "Musim panas tiba! Dengan rimbunnya tanaman, kau akan mudah menyerap mana dari sekelilingmu.$0",
-  "summer_11"
-  : "Hari ini Luau ya? Aku yakin apapun yang dimasukkan rasanya akan tetap enak seperti biasa.$1",
-  "summer_28"
-  : "Para Lunaloo mengunjungi kita hari ini. Kita tahu sedikit soal mereka, tapi...$0#$b#Menurutku mereka punya kekuatan mistis lebih dari semua makhluk laut yang pernah kita temui.$1",
-  "fall_Wizard"
-  : "Waktu panen telah tiba. Semoga panen kita melimpah tahun ini.$0",
-  "fall_1"
-  : "Jamur sedang melimpah ruah di musim gugur. Mereka sangat berguna untuk membuat ramuan!$1#$e#Kalau kau meramban di musim ini, aku akan membantu dengan senang hati.$0",
-  "fall_16"
-  : "Semoga pameranmu nanti bisa mencerminkan bakatmu yang hebat.$1#$e#%Magnus senyum padaku.",
-  "fall_27"
-  : "Aku ada urusan penting dengan labirin di kota hari ini! Banyak mana dibutuhkan, dan akan membuatku letih.$0#$e#Semoga kamu dan warga kota menikmatinya. ...Dan maaf kalau jalan pulang nanti aku bersandar padamu.$1",
-  "fall_28"
-  : "Aku merasakan badai musim dingin akan datang...$0",
-  "winter_Wizard"
-  : "Di musim dingin, aku sering menghabiskan waktu dengan memperkuat penangkal kota dan membaca.$0#$e#Aku baru membaca seperempat dari buku-buku yang ada di menara...$0",
-  "winter_1"
-  : "Badainya kencang ya? Tapi dunia jadi lebih indah diselimuti oleh salju, meskipun cuacanya keras.$0",
-  "winter_8"
-  : "Kamu ikut lomba memancing di festival nanti ya? Semoga beruntung!$1#$e#Ada tempat di hutan yang potensi sihirnya harus kuperiksa. Silahkan saja kalau mau menyusul setelah mengalahkan Willy.$0",
-  "winter_12"
-  : "Night Market akan buka beberapa hari lagi. Dulu aku beli bahan langka yang berguna disana.$0",
-  "winter_25"
-  : "Selamat Winter Star, cintaku. Aku menantikan waktu bersama lagi di tahun depan.$4",
+  "spring_Wizard": "Mau jalan-jalan ke hutan denganku nanti? Akan kutunjukkan semua tanaman berguna yang bisa kau temukan di musim semi.$1",
+  "spring_1": "Aku tahu kapan musim semi datang dengan mendengar lantunan tunas baru.$0#$e#Mmm? Ya, pohon bisa bernyanyi. Kau juga bisa tahu, asal didengarkan dengan baik.$0",
+  "spring_13": "Hari festival telur ya? Setiap tahun, aku penasaran dari ritual apa tradisi berburu telur lahir...$0#$e#Aku yakin pasti ritual kuno.$0",
+  "spring_24": "Mau menari denganku hari ini? Tentu, kau juga bisa memintanya kapanpun kau mau.$1",
+  "summer_Wizard": "Tak ada yang bisa menyamai hembusan musim panas yang menenangkan jiwa. Jujur, aku juga suka badai petir.$0#$e#Suara gunturnya bagus.$1",
+  "summer_1": "Musim panas tiba! Dengan rimbunnya tanaman, kau akan mudah menyerap mana dari sekelilingmu.$0",
+  "summer_11": "Hari ini Luau ya? Aku yakin apapun yang dimasukkan rasanya akan tetap enak seperti biasa.$1",
+  "summer_28": "Para Lunaloo mengunjungi kita hari ini. Kita tahu sedikit soal mereka, tapi...$0#$b#Menurutku mereka punya kekuatan mistis lebih dari semua makhluk laut yang pernah kita temui.$1",
+  "fall_Wizard": "Waktu panen telah tiba. Semoga panen kita melimpah tahun ini.$0",
+  "fall_1": "Jamur sedang melimpah ruah di musim gugur. Mereka sangat berguna untuk membuat ramuan!$1#$e#Kalau kau meramban di musim ini, aku akan membantu dengan senang hati.$0",
+  "fall_16": "Semoga pameranmu nanti bisa mencerminkan bakatmu yang hebat.$1#$e#%Magnus senyum padaku.",
+  "fall_27": "Aku ada urusan penting dengan labirin di kota hari ini! Banyak mana dibutuhkan, dan akan membuatku letih.$0#$e#Semoga kamu dan warga kota menikmatinya. ...Dan maaf kalau jalan pulang nanti aku bersandar padamu.$1",
+  "fall_28": "Aku merasakan badai musim dingin akan datang...$0",
+  "winter_Wizard": "Di musim dingin, aku sering menghabiskan waktu dengan memperkuat penangkal kota dan membaca.$0#$e#Aku baru membaca seperempat dari buku-buku yang ada di menara...$0",
+  "winter_1": "Badainya kencang ya? Tapi dunia jadi lebih indah diselimuti oleh salju, meskipun cuacanya keras.$0",
+  "winter_8": "Kamu ikut lomba memancing di festival nanti ya? Semoga beruntung!$1#$e#Ada tempat di hutan yang potensi sihirnya harus kuperiksa. Silahkan saja kalau mau menyusul setelah mengalahkan Willy.$0",
+  "winter_12": "Night Market akan buka beberapa hari lagi. Dulu aku beli bahan langka yang berguna disana.$0",
+  "winter_25": "Selamat Winter Star, cintaku. Aku menantikan waktu bersamamu lagi di tahun depan.$4",
   
   //DAY DIALOGUE
-  "Indoor_Day_Wizard"
-  : "Kita punya rumah kecil yang nyaman! Lebih baik dari menara yang dingin.$1",
-  "Indoor_Day_0"
-  : "Aku mau bersih-bersih hari ini. ...Kau tak keberatan kalau aku pakai sihir kan?$0",
-  "Indoor_Day_1"
-  : "Ada ritual kecil yang mau kuadakan disini nanti.$0#$e#Jangan cemas, rumahnya takkan berantakan.$0#$b#Mungkin...$5",
-  "Indoor_Day_2"
-  : "Kulkasnya selalu kau isi penuh dengan produk dari kebun.$0#$b#Aku jadi sulit menawarkan diri untuk belanja.$1",
-  "Indoor_Day_3"
-  : "Hmm... Aku mau jalan-jalan ke hutan. Aku mulai gelisah disini terus.$0",
-  "Indoor_Day_4"
-  : "Apa kita masih punya ruang untuk rak buku?$1",
-  "Outdoor_Wizard"
-  : "Aku lebih suka di luar dari pada mengurung diri di dalam. Terlalu membatasi sudut pandangku.$0",
-  "Outdoor_0"
-  : "*hm-hmm* Halo, @! Hari yang indah ya?$1",
-  "Outdoor_1"
-  : "Apa kau pernah ke Castle Village? Aku suka udara disini. Lebih bersih, segar, dan tidak bau sihir.$0",
-  "Outdoor_2"
-  : "Menanam sesuatu selalu menambah mana di sekelilinya. Di kebun ini sangat padat bahkan hampir melimpah ruah.$0#$e#Terasa amat penuh akan kehidupan.$1",
-  "Outdoor_3"
-  : "Pasokan ramuanku menipis. Aku mau ke hutan untuk mengumpulkan bahan.$0",
-  "Outdoor_4"
-  : "Aku melihat burung langka lewat kebun tadi! Apa dia terbang ke Fern Islands ya.$0",
-  "Rainy_Day_0"
-  : "Hujan ini bagus bagi tanaman, meskipun buruk bagi topiku.$0",
-  "Rainy_Day_1"
-  : "Aku tahu ini tidak wajar, tapi hujan membuatku gembira.$1",
-  "Rainy_Day_2"
-  : "Seusai makan malam, mari menghangatkan diri di depan perapian.$0#$e#Takkan sulit bagiku untuk memanggil api.$1",
-  "Rainy_Day_3"
-  : "Hal yang paling tidak kusukai dari jubah adalah jadi berat saat kehujanan...$0",
+  "Indoor_Day_Wizard": "Kita punya rumah kecil yang nyaman! Lebih baik dari menara yang dingin.$1",
+  "Indoor_Day_0": "Aku mau bersih-bersih hari ini. ...Kau tak keberatan kalau aku pakai sihir kan?$0",
+  "Indoor_Day_1": "Ada ritual kecil yang mau kuadakan disini nanti.$0#$e#Jangan cemas, rumahnya takkan berantakan.$0#$b#Mungkin...$5",
+  "Indoor_Day_2": "Kulkasnya selalu kau isi penuh dengan produk dari kebun.$0#$b#Aku jadi sulit menawarkan diri untuk belanja.$1",
+  "Indoor_Day_3": "Hmm... Aku mau jalan-jalan ke hutan. Aku mulai gelisah disini terus.$0",
+  "Indoor_Day_4": "Apa kita masih punya ruang untuk rak buku?$1",
+  "Outdoor_Wizard": "Aku lebih suka di luar dari pada mengurung diri di dalam. Terlalu membatasi sudut pandangku.$0",
+  "Outdoor_0": "*hm-hmm* Halo, @! Hari yang indah ya?$1",
+  "Outdoor_1": "Apa kau pernah ke Castle Village? Aku suka udara disini. Lebih bersih, segar, dan tidak bau sihir.$0",
+  "Outdoor_2": "Menanam sesuatu selalu menambah mana di sekelilinya. Di kebun ini sangat padat bahkan hampir melimpah ruah.$0#$e#Terasa amat penuh akan kehidupan.$1",
+  "Outdoor_3": "Pasokan ramuanku menipis. Aku mau ke hutan untuk mengumpulkan bahan.$0",
+  "Outdoor_4": "Aku melihat burung langka lewat kebun tadi! Apa dia terbang ke Fern Islands ya.$0",
+  "Rainy_Day_0": "Hujan ini bagus bagi tanaman, meskipun buruk bagi topiku.$0",
+  "Rainy_Day_1": "Aku tahu ini tidak wajar, tapi hujan membuatku gembira.$1",
+  "Rainy_Day_2": "Seusai makan malam, mari menghangatkan diri di depan perapian.$0#$e#Takkan sulit bagiku untuk memanggil api.$1",
+  "Rainy_Day_3": "Hal yang paling tidak kusukai dari jubah adalah jadi berat saat kehujanan...$0",
   
   //NIGHT DIALOGUE
-  "indoor_Night_Wizard"
-  : "Selamat datang, @. Semoga kamu tidak berlebihan kerjanya.$0",
-  "Indoor_Night_0"
-  : "Katanya malam ini akan dingin.$0#$b#Alasan bagus untuk berpelukan.$1",
-  "Indoor_Night_1"
-  : "Aku yakin harimu produktif. Pastikan malam ini kamu istirahat.$0#$e#%Magnus senyum padaku.",
-  "Indoor_Night_2"
-  : "Hari yang panjang buatku. Aku lega sudah berakhir...$0#$e#Bagaimana harimu?$1",
-  "Indoor_Night_3"
-  : "Aku ada tugas berkelana dari Serikat. Memikirkannya saja membuatku lelah...$0",
-  "Indoor_Night_4"
-  : "Ingatkan aku untuk menunjukkan sihir yang baru kupelajari. Ini mantera pelindung, tapi efeknya cukup menarik.$0",
-  "Rainy_Night_Wizard"
-  : "Kita akan tidur nyenyak malam ini.$1",
-  "Rainy_Night_0"
-  : "Di malam hujan seperti ini, hutan sedang memulihkan diri. Besok pagi, pohon-pohon akan tampak bagus.$0",
-  "Rainy_Night_1"
-  : "Suara rintikan hujan di atap mirip hipnotis, kalau menurutmu?$0",
-  "Rainy_Night_2"
-  : "Aku mengeluarkan banyak mana hari ini. Aku harus irtirahat.$0",
-  "Rainy_Night_3"
-  : "Tanamanmu akan senang dengan cuaca ini.$1",
-  "Rainy_Night_4"
-  : "Pagi besok aku harus mengecek kebunku di depan menara.$0#$e#Ancient Fruit butuh air lebih banyak dari tanaman lain. Mungkin karena itu pula mereka hampir punah...$0",
+  "indoor_Night_Wizard": "Selamat datang, @. Semoga kamu tidak berlebihan kerjanya.$0",
+  "Indoor_Night_0": "Katanya malam ini akan dingin.$0#$b#Alasan bagus untuk berpelukan.$1",
+  "Indoor_Night_1": "Aku yakin harimu produktif. Pastikan malam ini kamu istirahat.$0#$e#%Magnus senyum padaku.",
+  "Indoor_Night_2": "Hari yang panjang buatku. Aku lega sudah berakhir...$0#$e#Bagaimana harimu?$1",
+  "Indoor_Night_3": "Aku ada tugas berkelana dari Serikat. Memikirkannya saja membuatku lelah...$0",
+  "Indoor_Night_4": "Ingatkan aku untuk menunjukkan sihir yang baru kupelajari. Ini mantera pelindung, tapi efeknya cukup menarik.$0",
+  "Rainy_Night_Wizard": "Kita akan tidur nyenyak malam ini.$1",
+  "Rainy_Night_0": "Di malam hujan seperti ini, hutan sedang memulihkan diri. Besok pagi, pohon-pohon akan tampak bagus.$0",
+  "Rainy_Night_1": "Suara rintikan hujan di atap mirip hipnotis, kalau menurutmu?$0",
+  "Rainy_Night_2": "Aku mengeluarkan banyak mana hari ini. Aku harus irtirahat.$0",
+  "Rainy_Night_3": "Tanamanmu akan senang dengan cuaca ini.$1",
+  "Rainy_Night_4": "Pagi besok aku harus mengecek kebunku di depan menara.$0#$e#Ancient Fruit butuh air lebih banyak dari tanaman lain. Mungkin karena itu pula mereka hampir punah...$0",
   
   //AFFECTION DIALOGUE
-  "Good_0"
-  : "Ah, halo, kekasih! Aku sedang memikirkanmu.$1",
-  "Good_1"
-  : "Aku mencoba membuat kue hari ini. Kurasa hasilnya sudah bagus. [234 222 220]$0",
-  "Good_2"
-  : "Karena dulu sering sakit hati, kukira aku takkan pernah lagi bangun di hari indah seperti ini...$0#$e#Terima kasih sudah memberi kesempatan pada penyihir tua ini.$4",
-  "Good_3"
-  : "Semoga harimu luar biasa, kekasih.$1",
-  "Good_4"
-  : "Menaraku penuh dengan zat dan buku langka, dan juga jimat dari penjuru dunia yang hampir mustahil ditemukan.$0#$b#Tapi kamu lebih berharga dari itu semua.$4#$e#Aku baru sadar itu gombal sekali. Kalau kamu tak keberatan aku juga sama.$0",
-  "Good_5"
-  : "Kurasa aku butuh mantera baru untuk membuatmu terkesan... Aku tak ingin kau menganggapku mulai usang!$1",
-  "Good_6"
-  : "Kapan-kapan mari bertamasya. Aku bisa minta bantuan Serikat untuk mencarikan tempat di suatu kota kecil dekat gunung.$0",
-  "Good_7"
-  : "Alasanku mencintaimu ada banyak, tapi salah satunya karena kamu berbakat. Kamu terampil dalam banyak hal.$0#$e#Aku sangat mengagumimu karena itu.$4",
-  "Good_8"
-  : "Kamu sudah bekerja keras! Pastikan kondisimu tetap prima. Dan aku membuatkanmu sesuatu. [244 242 907 905 240]$0",
-  "Good_9"
-  : "Aku belum pernah sebahagia ini dalam hidup kalau bukan karenamu.$1",
-  "Neutral_0"
-  : "Jangan kerja terlalu keras. Aku tidak mau menerbangkanmu ke rumah.$0#$e#...Kalau kamu pingsan di luar... teman baikku akan menolongmu.$0",
-  "Neutral_1"
-  : "Semoga harimu menyenangkan, @?$0",
-  "Neutral_2"
-  : "Sihir banyak syaratnya, tapi imbalannya juga banyak.$0",
-  "Neutral_3"
-  : "Kebunnya lancar sepanjang tahun ini.$1",
-  "Neutral_4"
-  : "Ah! Aku sedang melamun. Maaf.$5",
-  "Neutral_5"
-  : "Entah kenapa kau mau bekerja di Zuzu City. Aku bisa pusing karena disana bising dan bau.$0#$e#AKu lebiih suka tempat yang tenang, seperti Stardew Valley.$1",
-  "Neutral_6"
-  : "Aku kurang tertarik untuk memancing. Tapi aku senang kamu menyukainya.$0",
-  "Neutral_7"
-  : "Aku mau ke Castle Village untuk mendiskusikan urusan kementrian dengan Camilla. Dia wanita yang menarik.$0#$e#Dia mengakuimu, asal kau tahu.$0",
-  "Neutral_8"
-  : "Ayo jalan-jalan. Ganti pemandangan takkan merugikan kita.$1",
-  "Neutral_9"
-  : "Hidup bertani sangat damai ya?$0",
-  "Bad_0"
-  : "*desahan* Aku membuat banyak kesalahan besar di masa lalu, @. Dan nanti, pasti itu akan datang mencariku.$2#$e#Semoga, kamu mau ada di sisiku saat waktunya datang.$0",
-  "Bad_1"
-  : "Aku mau meluangkan waktu di menara... Kamu tidak salah apa-apa. Aku cuma lagi ingin sendiri.$0",
-  "Bad_2"
-  : "Wanita sialan itu... Camilla memang berbakat, tapi kadang dia suka bikin naik pitam.$3",
-  "Bad_3"
-  : "...Apa kamu bahagia bersamaku?$2#$e#Maaf, itu pertanyaan yang tak masuk akal. Lupakan saja.$2",
-  "Bad_4"
-  : "Mantera baru yang kupelajari jadi senjata makan tuan. Aku... tidak enak badan.$5#$e#Kalau kau bangun dan lihat ada katak di sampingmu, ada kantong kecil di meja.$5#$e#Taburkan sedikit isinya pada itu.$5#$e#...$5#$e#%Magnus tampak kurang sehata...",
-  "Bad_5"
-  : "*tersedu* Semoga aku tidak alergi... itu akan menyulitkan pekerjaanku.$0",
-  "Bad_6"
-  : "Aku merasa tidak nyaman hari ini. Tidak perlu, kurasa kamu takkan bisa membantu kali ini.$0",
-  "Bad_7"
-  : "Kerjaku tidak bisa seefektif di menara saat disini. Terlalu banyak gangguan.$0#$e#Ah... maafkan aku. Aku tidak bermaksud seperti itu.$2",
-  "Bad_8"
-  : "Mantan istriku lewat dan membakar pohon sekitar sampai hangus.$3#$e#Perempuan bodoh itu bisa saja memicu kebakaran hutan.$3",
-  "Bad_9"
-  : "Aku sedang tidak ingin bicara hari ini. Tidak lama pasti pulih.$0",
+  "Good_0": "Ah, halo, kekasih! Aku sedang memikirkanmu.$1",
+  "Good_1": "Aku mencoba membuat kue hari ini. Kurasa hasilnya sudah bagus. [234 222 220]$0",
+  "Good_2": "Karena dulu sering sakit hati, kukira aku takkan pernah lagi bangun di hari indah seperti ini...$0#$e#Terima kasih sudah memberi kesempatan pada penyihir tua ini.$4",
+  "Good_3": "Semoga harimu luar biasa, kekasih.$1",
+  "Good_4": "Menaraku penuh dengan zat dan buku langka, dan juga jimat dari penjuru dunia yang hampir mustahil ditemukan.$0#$b#Tapi kamu lebih berharga dari itu semua.$4#$e#Aku baru sadar itu gombal sekali. Kalau kamu tak keberatan aku juga sama.$0",
+  "Good_5": "Kurasa aku butuh mantera baru untuk membuatmu terkesan... Aku tak ingin kau menganggapku mulai usang!$1",
+  "Good_6": "Kapan-kapan mari bertamasya. Aku bisa minta bantuan Serikat untuk mencarikan tempat di suatu kota kecil dekat gunung.$0",
+  "Good_7": "Alasanku mencintaimu ada banyak, tapi salah satunya karena kamu berbakat. Kamu terampil dalam banyak hal.$0#$e#Aku sangat mengagumimu karena itu.$4",
+  "Good_8": "Kamu sudah bekerja keras! Pastikan kondisimu tetap prima. Dan aku membuatkanmu sesuatu. [244 242 907 905 240]$0",
+  "Good_9": "Aku belum pernah sebahagia ini dalam hidup kalau bukan karenamu.$1",
+  "Neutral_0": "Jangan kerja terlalu keras. Aku tidak mau menerbangkanmu ke rumah.$0#$e#...Kalau kamu pingsan di luar... teman baikku akan menolongmu.$0",
+  "Neutral_1": "Semoga harimu menyenangkan, @?$0",
+  "Neutral_2": "Sihir banyak syaratnya, tapi imbalannya juga banyak.$0",
+  "Neutral_3": "Kebunnya lancar sepanjang tahun ini.$1",
+  "Neutral_4": "Ah! Aku sedang melamun. Maaf.$5",
+  "Neutral_5": "Entah kenapa kau mau bekerja di Zuzu City. Aku bisa pusing karena disana bising dan bau.$0#$e#AKu lebiih suka tempat yang tenang, seperti Stardew Valley.$1",
+  "Neutral_6": "Aku kurang tertarik untuk memancing. Tapi aku senang kamu menyukainya.$0",
+  "Neutral_7": "Aku mau ke Castle Village untuk mendiskusikan urusan kementrian dengan Camilla. Dia wanita yang menarik.$0#$e#Dia mengakuimu, asal kau tahu.$0",
+  "Neutral_8": "Ayo jalan-jalan. Ganti pemandangan takkan merugikan kita.$1",
+  "Neutral_9": "Hidup bertani sangat damai ya?$0",
+  "Bad_0": "*desahan* Aku membuat banyak kesalahan besar di masa lalu, @. Dan nanti, pasti itu akan datang mencariku.$2#$e#Semoga, kamu mau ada di sisiku saat waktunya datang.$0",
+  "Bad_1": "Aku mau meluangkan waktu di menara... Kamu tidak salah apa-apa. Aku cuma lagi ingin sendiri.$0",
+  "Bad_2": "Wanita sialan itu... Camilla memang berbakat, tapi kadang dia suka bikin naik pitam.$3",
+  "Bad_3": "...Apa kamu bahagia bersamaku?$2#$e#Maaf, itu pertanyaan yang tak masuk akal. Lupakan saja.$2",
+  "Bad_4": "Mantera baru yang kupelajari jadi senjata makan tuan. Aku... tidak enak badan.$5#$e#Kalau kau bangun dan lihat ada katak di sampingmu, ada kantong kecil di meja.$5#$e#Taburkan sedikit isinya pada itu.$5#$e#...$5#$e#%Magnus tampak kurang sehata...",
+  "Bad_5": "*tersedu* Semoga aku tidak alergi... itu akan menyulitkan pekerjaanku.$0",
+  "Bad_6": "Aku merasa tidak nyaman hari ini. Tidak perlu, kurasa kamu takkan bisa membantu kali ini.$0",
+  "Bad_7": "Kerjaku tidak bisa seefektif di menara saat disini. Terlalu banyak gangguan.$0#$e#Ah... maafkan aku. Aku tidak bermaksud seperti itu.$2",
+  "Bad_8": "Mantan istriku lewat dan membakar pohon sekitar sampai hangus.$3#$e#Perempuan bodoh itu bisa saja memicu kebakaran hutan.$3",
+  "Bad_9": "Aku sedang tidak ingin bicara hari ini. Tidak lama pasti pulih.$0",
 }
