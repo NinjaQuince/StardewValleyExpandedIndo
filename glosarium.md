@@ -48,3 +48,7 @@ craftmanship: ulet/terampil
 checking on me: menjengukku
 ward: penangkal
 charm: jimat
+barrier: penangkal
+token (wizard): pengingat
+photoshoot: pemotretan
+i suppose: kalau begitu
