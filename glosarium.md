@@ -52,3 +52,5 @@ barrier: penangkal
 token (wizard): pengingat
 photoshoot: pemotretan
 i suppose: kalau begitu
+pack: berkemas
+work: kerja/berfungsi
