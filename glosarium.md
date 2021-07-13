@@ -54,3 +54,4 @@ photoshoot: pemotretan
 i suppose: kalau begitu
 pack: berkemas
 work: kerja/berfungsi
+lean on: membopong
