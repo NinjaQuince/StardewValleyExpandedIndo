@@ -2,6 +2,10 @@
 {
   //SPECIAL DIALOGUE
   "Introduction": "Um... Greetings! My name is Morgan. I'm a pupil of Magnus Rasmodius. What's your name?$0#$e#It's been a pleasure!$1",
+  "Resort_Entering": "Whoa! The volcano looks so big this close!$5",
+  "Resort_Leaving": "Nyahaha! That was fun! I want to visit the island again soon!$3",
+  "Resort_Shore": "The birds act kinda strange...$0#$e#I duck my head as they fly by.$8",
+  "Resort": "Can you feel the mana here, @? It's really strong.$1#$e#I think it's coming from the volcano!$5",
 
   //SPRING DIALOGUE	
   "spring_12": "Magnus and I are traveling deep into the forest tomorrow.$1#$b#I won't be attending the town festival.$0#$e#He found a place with a really high concentration of raw magic. I'm excited!$3",
@@ -84,8 +88,8 @@
   "winter_Sun8": "I wanna go play in the snow with Jas and Vincent!$3#$e#We play 1v2 because I'm too good at snowball fights.$1",
   
   //EVENT DIALOGUE
-  "morgan_event1": "Mmm...$9#$b#I'm in a strange place far away from my home and family...$9",
-  "morgan_event2": "Mmm...$9#$b#I guess that's what it is, isn't it?$9#$b#loneliness...$9",
-  "morgan_event3": "...$9#$b#...$0#$b#Thanks.$1",
-  "morgan_event4": "I know there's hardships I must surpass.$0#$b#It just isn't easy...$9",
+  "morgan_event1": "Mmm...$9#$b#Aku berada di tempat aneh yang jauh dari keluargaku...$9",
+  "morgan_event2": "Mmm...$9#$b#Kurasa memang begitu.$9#$b#Kesepian...$9",
+  "morgan_event3": "...$9#$b#...$0#$b#Terima kasih.$1",
+  "morgan_event4": "Aku tahu kalau ini cobaan yang harus kulewati.$0#$b#Tapi ini tidak mudah...$9",
 }

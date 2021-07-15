@@ -1,5 +1,12 @@
 {
-"Introduction": "Ah, ada petani @. Selamat datang di lembah. Namaku Morris, manajer JojaMart.$0#$b#Kalau kamu butuh benih murah dan berkualitas, tidak ada tempat selain JojaMart!$1#$e#Kalau aku jadi kau, aku takkan repot-repot ke tokonya Pierre. Benih-benih Joja jauh lebih baik daripada miliknya.$3",
+//SPECIAL DIALOGUE
+"Introduction": "Ah, it's farmer @. Welcome to the valley. My name is Morris, manager of JojaMart.$0#$b#If you need cheap, quality seeds, there's no better place than JojaMart!$1#$e#I wouldn't bother with Pierre's store. Joja seeds are much better than his.$3",
+"Resort_Entering": "Ah, yes. We've arrived!$1",
+"Resort_Leaving": "I must say that there are several improvements that could be made to the resort.$0",
+"Resort_Shore": "Real-estate development has great potential on this island...$4#$e#Err... that volcano may prove to be troublesome though...$2",
+"Resort_Chair": "I've worked many long weeks. I deserve a day to relax!$1",
+"Resort_Bar": "Bartender! I'd like a top-shelf mixed drink please!$1",
+"Resort": "There's good business opportunity on this small remote beach!$5",
 
 //SPECIFIC TILE DIALOGUE
 "Town_43_59": "50 percent off coupons! Come get them while they last!$1",

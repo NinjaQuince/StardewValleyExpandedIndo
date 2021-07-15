@@ -2,15 +2,21 @@
 {
 //SPECIAL DIALOGUE
 "Introduction": "I'm thankful Joja cleared the rockslide. Lewis and I went through so much trouble getting them to remove the rocks.$2#$b#Joja refuses to apologize...$3#$e#I'll see you again soon, dear. I'm happy to have finally met you!$1#$b#It's lovely having another farmer in the valley.$4",
+"Resort_Entering": "I don't usually travel with others in our community. This is fun already!$1",
+"Resort_Leaving": "This was a very eventful day!$4",
+"Resort_Shore": "I had to conquer my fear of the ocean to get here. I'd say it was well worth it.$0",
+"Resort_Chair": "With weather like this, I bet you could grow tropical crops here with ease.$0",
+"Resort_Bar": "I'm craving something fruity.$0",
+"Resort": "I'm tempted to take an island flower back home with me.$1#$e#No, no, no... I can't separate it from its friends.$2",
+
 
 //SPECIFIC TILE DIALOGUE
-"SusanHouse_4_15": "I'm thankful Joja cleared the rockslide. Lewis and I went through so much trouble getting them to remove the rocks.$2#$b#Joja refuses to apologize...$3#$e#I'll see you again soon, dear. I'm happy to have finally met you!$1#$b#It's lovely having another farmer in the valley.$4",
-"SusanHouse_24_6": "Excuse me. I'm sleeping.$2",
+"Custom_SusanHouse_4_15": "I'm thankful Joja cleared the rockslide. Lewis and I went through so much trouble getting them to remove the rocks.$2#$b#Joja refuses to apologize...$3#$e#I'll see you again soon, dear. I'm happy to have finally met you!$1#$b#It's lovely having another farmer in the valley.$4",
+"Custom_SusanHouse_24_6": "Excuse me. I'm sleeping.$2",
 "SeedShop_14_20": "Wonderful to see you, @! Buying seeds from Pierre today?$0",
-"Summit_14_17": "Breathtaking view, isn't it?$0",
 "ArchaeologyHouse_16_5": "The library has a few crafting manuals I often reference. They're very helpful.$1",
-"SusanHouse_3_16": "Okay, Sophia! Watch closely!$0",
-"SusanHouse_9_17": "Come back soon, sweetie!$0",
+"Custom_SusanHouse_3_16": "Okay, Sophia! Watch closely!$0",
+"Custom_SusanHouse_9_17": "Come back soon, sweetie!$0",
 
 //SPRING AND GENERAL DIALOGUE
 "spring_1": "Ah! The beginning of spring, my favorite season. It's lovely seeing the flowers.$1#$e#Good luck farming this year!$0",
@@ -80,7 +86,7 @@
 "fall_Mon10": "Passing all of those adventurers up on the summit makes me worry about you, sweetie.$0#$b#Make sure you take care of yourself when you're adventuring. You're a treasure to have around.$0", 
 "fall_Tue": "Don't forget that fall season is mushroom season, honey.$0#$e#You can turn quite a profit, if you're quick about it.$4",
 "fall_Tue4": "I found mushrooms at the summit today. Still need to decide if I'll sell or cook them.$0#$e#The summit produces forage because of the rich soil. I'd check up there regularly if I were you.$1",
-"fall_Wed": "I'm donating several of my pumpkins to the upcoming Stardew Valley Fair.$0#$b#There's a pumpkin patch where tourists can pick one to take home.$0",
+"fall_Wed": "It's lovely there's a pumpkin patch during the town fair for the tourists.$0",
 "fall_Wed6": "Don't take these moments for granted. Make every day count, sweetie.$0#$e#When you get to my age, you'll appreciate the memories you made when you were young.$1",
 "fall_Wed10": "I like you because you understand that life should be an adventure, @.$4#$b#Some people might think that running a farm is boring, but you and I know that it takes so much time, patience, and creativity to do well.$4#$e#May our lives continue to be as rich as they have been so far, sweetie.$4", 
 "fall_Thu": "*sigh*... Andy was a bit much at the saloon last night. He just doesn't have a filter.$2#$e#We're all special in our own little ways.$0#$e#Have an enjoyable day, dear.$1",
