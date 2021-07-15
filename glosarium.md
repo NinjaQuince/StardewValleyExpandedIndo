@@ -58,3 +58,5 @@ lean on: membopong
 unbelievable: keterlaluan
 too forward: memaksa
 stomp: ditumbuk
+bed: ranjang
+trip: wisata
