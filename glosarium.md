@@ -60,3 +60,4 @@ too forward: memaksa
 stomp: ditumbuk
 bed: ranjang
 trip: wisata
+few days: tempo hari

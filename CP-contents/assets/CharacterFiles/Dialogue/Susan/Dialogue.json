@@ -1,126 +1,234 @@
 ﻿
 {
 //SPECIAL DIALOGUE
-"Introduction": "Untung Joja sudah mengangkut longsorannnya. Aku dan Lewis kerepotan menyuruh mereka mengangkutnya.$2#$b#Tapi Joja masih tidak mau meminta maaf...$3#$e#Sampai jumpa lagi, manis. Senang akhirnya bisa bertemu denganmu!$1#$b#Aku senang ada petani lagi di lembah ini.$4",
-"Resort_Entering": "Aku jarang berwisata dengan orang-orang di kota. Ini sudah terasa seru!$1",
-"Resort_Leaving": "Hari ini sangat menakjubkan!$4",
-"Resort_Shore": "Aku harus melawan ketakutanku dengan laut untuk pergi kesini. Kurasa hasilnya tidak sia-sia.$0",
-"Resort_Chair": "Dengan cuaca seperti ini, kamu bisa menanam tanaman tropis dengan mudah.$0",
-"Resort_Bar": "Aku ingin minum minuman yang ada buahnya.$0",
-"Resort": "Aku tergoda untuk membawa bunga di pulau ini pulang.$1#$e#Tidak, tidak... Aku tidak boleh memisahkan dia dari teman-temannya.$2",
+"Introduction"
+: "Untung Joja sudah mengangkut longsorannnya. Aku dan Lewis kerepotan menyuruh mereka mengangkutnya.$2#$b#Tapi Joja masih tidak mau meminta maaf...$3#$e#Sampai jumpa lagi, manis. Senang akhirnya bisa bertemu denganmu!$1#$b#Aku senang ada petani lagi di lembah ini.$4",
+"Resort_Entering"
+: "Aku jarang berwisata dengan orang-orang di kota. Ini sudah terasa seru!$1",
+"Resort_Leaving"
+: "Hari ini sangat menakjubkan!$4",
+"Resort_Shore"
+: "Aku harus melawan ketakutanku dengan laut untuk pergi kesini. Kurasa hasilnya tidak sia-sia.$0",
+"Resort_Chair"
+: "Dengan cuaca seperti ini, kamu bisa menanam tanaman tropis dengan mudah.$0",
+"Resort_Bar"
+: "Aku ingin minum minuman yang ada buahnya.$0",
+"Resort"
+: "Aku tergoda untuk membawa bunga di pulau ini pulang.$1#$e#Tidak, tidak... Aku tidak boleh memisahkan dia dari teman-temannya.$2",
 
 
 //SPECIFIC TILE DIALOGUE
-"Custom_SusanHouse_4_15": "Untung Joja sudah mengangkut longsorannnya. Aku dan Lewis kerepotan menyuruh mereka mengangkutnya.$2#$b#Tapi Joja masih tidak mau meminta maaf...$3#$e#Sampai jumpa lagi, manis. Senang akhirnya bisa bertemu denganmu!$1#$b#Aku senang ada petani lagi di lembah ini.$4",
-"Custom_SusanHouse_24_6": "Aku sedang tidur.$2",
-"SeedShop_14_20": "Senang melihatmu, @! Mau beli benih dari Pierre?$0",
-"ArchaeologyHouse_16_5": "Di perpustakaan ada beberapa buku kerajinan yang kadang aku pakai untuk referensi. Mereka sangat berguna.$1",
-"Custom_SusanHouse_3_16": "Oke, Sophia! Hati-hati!$0",
-"Custom_SusanHouse_9_17": "Lain kali mampir lagi ya, manis!$0",
+"Custom_SusanHouse_4_15"
+: "Untung Joja sudah mengangkut longsorannnya. Aku dan Lewis kerepotan menyuruh mereka mengangkutnya.$2#$b#Tapi Joja masih tidak mau meminta maaf...$3#$e#Sampai jumpa lagi, manis. Senang akhirnya bisa bertemu denganmu!$1#$b#Aku senang ada petani lagi di lembah ini.$4",
+"Custom_SusanHouse_24_6"
+: "Aku sedang tidur.$2",
+"SeedShop_14_20"
+: "Senang melihatmu, @! Mau beli benih dari Pierre?$0",
+"ArchaeologyHouse_16_5"
+: "Di perpustakaan ada beberapa buku kerajinan yang kadang aku pakai untuk referensi. Mereka sangat berguna.$1",
+"Custom_SusanHouse_3_16"
+: "Oke, Sophia! Hati-hati!$0",
+"Custom_SusanHouse_9_17"
+: "Lain kali mampir lagi ya, manis!$0",
 
 //SPRING AND GENERAL DIALOGUE
-"spring_1": "Ah! Awal musim semi, musim kesukaanku. Aku suka melihat bunga-bunga bermekaran.$1#$e#Semoga tahun ini kamu beruntung!$0",
-"spring_12": "Aku membantu Marnie dan Emily melukis telur untuk Egg Festival besok.$0#$e#Jas dan Vincent juga membantu! Mereka anak-anak yang manis!$1",
-"spring_23": "Besok kita akan pergi ke selatan Cindersap Forest untuk festival Flower Dance. Kamu ikut tidak?$0#$e#Gus yang akan memasak makanannya!$1",
-"spring_28": "Aku sudah merencanakan tanaman apa saja yang akan kutanam di musim panas ini.$0#$e#Aku yakin kamu juga sama.$4",
+"spring_1"
+: "Ah! Awal musim semi, musim kesukaanku. Aku suka melihat bunga-bunga bermekaran.$1#$e#Semoga tahun ini kamu beruntung!$0",
+"spring_12"
+: "Aku membantu Marnie dan Emily melukis telur untuk Egg Festival besok.$0#$e#Jas dan Vincent juga membantu! Mereka anak-anak yang manis!$1",
+"spring_23"
+: "Besok kita akan pergi ke selatan Cindersap Forest untuk festival Flower Dance. Kamu ikut tidak?$0#$e#Gus yang akan memasak makanannya!$1",
+"spring_28"
+: "Aku sudah merencanakan tanaman apa saja yang akan kutanam di musim panas ini.$0#$e#Aku yakin kamu juga sama.$4",
 
-"Mon": "Halo, @. Bagaimana harimu?$0#$e#Senang mendengarnya!$1",
-"Mon4": "Selalu ada banyak pekerjaan di awal pekan.$1",
-"Mon8": "Senag melihatmu, @. Bagaimana kabar %farm Farm?$0#$e#Senang mendengarnya, manis. Andai saja aku punya tenaga sepertimu.$1",
-"Tue": "Halo, @. Bagaimana harimu?$0#$e#Luar biasa!$1",
-"Tue4": "Aku jalan kaki ke puncak untuk olahraga. Matahari terbitnya kelihatan ajaib.$0#$e#Semoga harimu indah, manis.$0",
-"Tue8": "@! Senang melihatmu, Apa kabar?$1#$e#Aku senang mendengarnya. Besok aku mau menghitung keuangan.$4",
-"Wed": "Hai, @. Apa harimu produktif?$0#$e#Aku akan membuat kerajinan lagi. Aku mau menantang diri sendiri kali ini!$1",
-"Wed4": "Banyak yang harus dikerjakan hari ini, tapi waktunya mepet.$2#$b#Bagaimana caramu membagi waktu, @? Kamu selalu saja sibuk.$0#$e#Sulit untuk mengimbangimu!$1",
-"Wed8": "Halo. Semoga harimu indah, @.$1#$e#Kita bicaranya nanti saja ya.$4",
-"Thu": "Hai. Apa kabar?$0#$e#Tetaplah bekerja keras.$1",
-"Thu4": "Aku harus beli Hardwood lagi dari Grampleton. Punyaku tinggal sedikit.$1#$e#Kualitas kayu dari Grampleton adalah yang paling bagus di Ferngill Republic.$4",
-"Thu8": "Besok hari jumat. Kira-kira apa yang akan dimasak Gus untuk menu spesial?$0#$e#Gus selalu membuatku takjub. Makanannya selalu tambah enak.$1",
-"Fri": "*hahh*... Aku pegal. Punggungku nyeri.$2#$e#Maaf. Ini bujan waktu yang tepat untuk ngobrol.$2",
-"Fri4": "Minggu ini pekerjaanku akan beres. Akhirnya bisa menikmati akhir pekan.$1#$e#Selamt menikmati harimu, manis.$4",
-"Fri8": "Selamat hari jumat, @! Ada rencana untuk akhir pekan?$0#$e#Aku berencana mengunjungi saudaraku di Chestervale. Tapi rencanaya bisa saja berubah.$1#$e#Semoga harimu indah!$4",
-"Sat": "Kamu pekerja keras, @.$0#$e#Kamu harus istirahat juga. Perhatikan kesehatanmu!$1",
-"Sat4": "Aku harus segera merencanakan wisata ke kepulauan Fern Island.$0#$e#Ring Fruit di pulau itu sangat enak. Mungkin aku akan membawanya untukmu.$1#$e#Tapi itu sulit. Buahnya cepat busuk...$2",
-"Sat8": "Hari ini aku mau bersantai dan membuat kerajinan.$0#$e#Apa kamu juga libur di hari sabtu, @?$1",
-"Sun": "Apa kamu sudah siap untuk minggu depan? Ada banyak yang harus kusiapkan!$1#$e#Semoga beruntung, @.$4",
-"Sun4": "Ada sedikit orang yang datang ke altar Yoba di hari minggu.$0#$b#Aku... sudah berhenti percaya pada Yoba.$2#$e#...$2#$e#%Susan tidak bicara lagi. Dia melambai padamu.",
-"Sun10": "Semakin kamu tua, waktu semakin terasa cepat berlalu.$0#$b#Nikmatilah setiap momen dalam hidup.$1#$e#Jangan sia-siakan waktumu, manis.$0",
+"Mon"
+: "Halo, @. Bagaimana harimu?$0#$e#Senang mendengarnya!$1",
+"Mon4"
+: "Selalu ada banyak pekerjaan di awal pekan.$1",
+"Mon8"
+: "Senag melihatmu, @. Bagaimana kabar %farm Farm?$0#$e#Senang mendengarnya, manis. Andai saja aku punya tenaga sepertimu.$1",
+"Tue"
+: "Halo, @. Bagaimana harimu?$0#$e#Luar biasa!$1",
+"Tue4"
+: "Aku jalan kaki ke puncak untuk olahraga. Matahari terbitnya kelihatan ajaib.$0#$e#Semoga harimu indah, manis.$0",
+"Tue8"
+: "@! Senang melihatmu, Apa kabar?$1#$e#Aku senang mendengarnya. Besok aku mau menghitung keuangan.$4",
+"Wed"
+: "Hai, @. Apa harimu produktif?$0#$e#Aku akan membuat kerajinan lagi. Aku mau menantang diri sendiri kali ini!$1",
+"Wed4"
+: "Banyak yang harus dikerjakan hari ini, tapi waktunya mepet.$2#$b#Bagaimana caramu membagi waktu, @? Kamu selalu saja sibuk.$0#$e#Sulit untuk mengimbangimu!$1",
+"Wed8"
+: "Halo. Semoga harimu indah, @.$1#$e#Kita bicaranya nanti saja ya.$4",
+"Thu"
+: "Hai. Apa kabar?$0#$e#Tetaplah bekerja keras.$1",
+"Thu4"
+: "Aku harus beli Hardwood lagi dari Grampleton. Punyaku tinggal sedikit.$1#$e#Kualitas kayu dari Grampleton adalah yang paling bagus di Ferngill Republic.$4",
+"Thu8"
+: "Besok hari jumat. Kira-kira apa yang akan dimasak Gus untuk menu spesial?$0#$e#Gus selalu membuatku takjub. Makanannya selalu tambah enak.$1",
+"Fri"
+: "*hahh*... Aku pegal. Punggungku nyeri.$2#$e#Maaf. Ini bujan waktu yang tepat untuk ngobrol.$2",
+"Fri4"
+: "Minggu ini pekerjaanku akan beres. Akhirnya bisa menikmati akhir pekan.$1#$e#Selamt menikmati harimu, manis.$4",
+"Fri8"
+: "Selamat hari jumat, @! Ada rencana untuk akhir pekan?$0#$e#Aku berencana mengunjungi saudaraku di Chestervale. Tapi rencanaya bisa saja berubah.$1#$e#Semoga harimu indah!$4",
+"Sat"
+: "Kamu pekerja keras, @.$0#$e#Kamu harus istirahat juga. Perhatikan kesehatanmu!$1",
+"Sat4"
+: "Aku harus segera merencanakan wisata ke kepulauan Fern Island.$0#$e#Ring Fruit di pulau itu sangat enak. Mungkin aku akan membawanya untukmu.$1#$e#Tapi itu sulit. Buahnya cepat busuk...$2",
+"Sat8"
+: "Hari ini aku mau bersantai dan membuat kerajinan.$0#$e#Apa kamu juga libur di hari sabtu, @?$1",
+"Sun"
+: "Apa kamu sudah siap untuk minggu depan? Ada banyak yang harus kusiapkan!$1#$e#Semoga beruntung, @.$4",
+"Sun4"
+: "Ada sedikit orang yang datang ke altar Yoba di hari minggu.$0#$b#Aku... sudah berhenti percaya pada Yoba.$2#$e#...$2#$e#%Susan tidak bicara lagi. Dia melambai padamu.",
+"Sun10"
+: "Semakin kamu tua, waktu semakin terasa cepat berlalu.$0#$b#Nikmatilah setiap momen dalam hidup.$1#$e#Jangan sia-siakan waktumu, manis.$0",
 
 //SUMMER DIALOGUE
-"summer_1": "Semoga beruntung di musim panas, @. Jangan sampai tanamanmu kering karena kepasanan!$0",
-"summer_10": "Besok pas Luau aku akan membawa melon kualitas terbaik, @! Benih melon dari Chestervale adalah yang terbaik di negara ini.$1#$e#Aku yakin apapun yang kamu bawa akan meramaikan festival!$4",
-"summer_22": "Grampleton punya ladang gandum terluas di Ferngill Republic. Gandum bisa diproses jadi bir, tepung, dan gula.$0#$e#Meskipun murah, kau tetap bisa dapat laba karena permintaan pasar sangat tinggi.$0",
-"summer_28": "Aku sangat takut dengan laut. Aku cuma pergi ke pantai di akhir musim panas untuk melihat ubur-ubur.$2#$e#Dermaganya bisa terseret ombak kapan saja. Aku akan tetap di pantai, disini aman.$0",
-"summer_Mon": "Clint hampir selesai meningkatkan cangkulku.$0#$b#Tugas pagiku di kebun akan semakin efisien.$1",
-"summer_Mon2": "Ada keluarga burung yang bersarang di atap rumahku.$0#$e#Mungkin proyek kerajinanku berikutnya adalah tempat makan burung.$1",
-"summer_Mon6": "Apa kamu pernah membuat kerajinan, manis?$0#$e#Aku punya trik praktis untuk kebunmu.$0#$e#Kamu bisa mengotomatiskan sesuatu, atau memproses produk dan produk hewani menjadi produk yang lebih menguntungkan.$4",
-"summer_Mon10": "Pengrajin di Grampleton sangatlah berbakat. Aku ke sana untuk belajar trik dari mereka.$0#$e#Kau boleh ikut kapan-kapan kalau mau belajar. Itu akan jadi perjalanan yang menyenangkan.$4" ,
-"summer_Tue": "Teriknya musim panas membuatku sulit bekerja. Jangan sampai kehausan.$0",
-"summer_Tue4": "Aku meningkatkan Watering Can-ku. Lumayan menguras tabungan, tapi aku bisa menyiram tanaman lebih cepat sekarang!$1#$e#Keterampilan Clint luar biasa.$0",
-"summer_Tue8": "Aku suka saat hujan.$4#$e#Hujan memberi petani seperti kita waktu untuk istirahat dan fokus pada hal selain menyiram tanaman.$0",
-"summer_Wed": "Aku akan pergi ke Grampleton. Hardwood-ku timggal sedikit.$0#$e#Aku memakai Hardwood untuk kerajinanku. Hardwood ada banyak di hutan selatan Grampleton.$1",
-"summer_Wed8": "Aku menemukan Spice Berry di luar pagar pagi ini!$1#$b#Besok akan kutumbuk jadi yogurt. Lezat!$4#$e#Semoga harimu menyenangkan.$0",
-"summer_Thu": "Kalau kamu tinggal di dekat rel kereta cukup lama, kamu tidak akan terbangun lagi saat ada kereta lewat tengah malam.$0#$e#Kecuali... longsoran batu...$2",
-"summer_Thu6": "Melonku harganya lebih tinggi dari perkiraanku.$0#$b#Uangnya akan kutabung untuk bepergian atau beli bahan kerajinan!$1#$e#Ada yang bisa dibantu, @?$4",
-"summer_Thu10": "Senang melihatmu, @. Hari ini panenku banyak.$0#$e#Ini melon yang baru kupetik dari Emerald Farm! Aku menjualnya di Kota Zuzu, tapi sebagian aku bagikan pada teman-temanku.$0[254]",
-"summer_Fri": "Salah satu tanaman hiasku tidak tumbuh dengan baik...$2#$b#Dia terinfeksi jamur, aku telat mengetahuinya... aku harus lebih teliti lagi.$2#$e#%Susan terlihat sedih.",
-"summer_Fri6": "Ini agak konyol, tapi aku memperlakukan tanaman hiasku seperti keluarga.$0#$e#Kamu mungkin sudah tahu kalau aku mandiri, @. Tapi aku suka tanamanku. Saat bepergian, aku merindukannya.$2 ",
-"summer_Sat": "Mayor Lewis tampak stres kemarin.$2#$e#Orang itu bekerja lebih keras dari kita semua... semoga dia segera bisa beristirahat.$0",
-"summer_Sat6": "Aku mengolah semua Hops yang kupanen jadi bir, lalu mengekspornya. Gus kadang beli beberapa untuk Saloon.$0#$e#Kalau mau, kapan-kapan akan kuberi beberapa tips agar birnya enak.$4#$e#Asal jangan beritahu siapa-siapa.$1",
-"summer_Sun": "Musim panas di Stardew Valley bagus. Suhunya cukup sejuk.$0#$e#Di sekitar Calico Desert, cuacanya sangat panas. Kita beruntung kena hembusan angin laut.$0",
-"summer_Sun8": "Lightning Rod bisa jadi investasi bagus kalau ingin dapat uang diluar  hasil panen, @.$0#$b#Ada beberapa mesin yang ingin kubuat dan membutuhkan baterai.$0#$e#Robin dulu menjual itu, tapi dia berhenti karena monopoli Joja.$2",
+"summer_1"
+: "Semoga beruntung di musim panas, @. Jangan sampai tanamanmu kering karena kepasanan!$0",
+"summer_10"
+: "Besok pas Luau aku akan membawa melon kualitas terbaik, @! Benih melon dari Chestervale adalah yang terbaik di negara ini.$1#$e#Aku yakin apapun yang kamu bawa akan meramaikan festival!$4",
+"summer_22"
+: "Grampleton punya ladang gandum terluas di Ferngill Republic. Gandum bisa diproses jadi bir, tepung, dan gula.$0#$e#Meskipun murah, kau tetap bisa dapat laba karena permintaan pasar sangat tinggi.$0",
+"summer_28"
+: "Aku sangat takut dengan laut. Aku cuma pergi ke pantai di akhir musim panas untuk melihat ubur-ubur.$2#$e#Dermaganya bisa terseret ombak kapan saja. Aku akan tetap di pantai, disini aman.$0",
+"summer_Mon"
+: "Clint hampir selesai meningkatkan cangkulku.$0#$b#Tugas pagiku di kebun akan semakin efisien.$1",
+"summer_Mon2"
+: "Ada keluarga burung yang bersarang di atap rumahku.$0#$e#Mungkin proyek kerajinanku berikutnya adalah tempat makan burung.$1",
+"summer_Mon6"
+: "Apa kamu pernah membuat kerajinan, manis?$0#$e#Aku punya trik praktis untuk kebunmu.$0#$e#Kamu bisa mengotomatiskan sesuatu, atau memproses produk dan produk hewani menjadi produk yang lebih menguntungkan.$4",
+"summer_Mon10"
+: "Pengrajin di Grampleton sangatlah berbakat. Aku ke sana untuk belajar trik dari mereka.$0#$e#Kau boleh ikut kapan-kapan kalau mau belajar. Itu akan jadi perjalanan yang menyenangkan.$4" ,
+"summer_Tue"
+: "Teriknya musim panas membuatku sulit bekerja. Jangan sampai kehausan.$0",
+"summer_Tue4"
+: "Aku meningkatkan Watering Can-ku. Lumayan menguras tabungan, tapi aku bisa menyiram tanaman lebih cepat sekarang!$1#$e#Keterampilan Clint luar biasa.$0",
+"summer_Tue8"
+: "Aku suka saat hujan.$4#$e#Hujan memberi petani seperti kita waktu untuk istirahat dan fokus pada hal selain menyiram tanaman.$0",
+"summer_Wed"
+: "Aku akan pergi ke Grampleton. Hardwood-ku timggal sedikit.$0#$e#Aku memakai Hardwood untuk kerajinanku. Hardwood ada banyak di hutan selatan Grampleton.$1",
+"summer_Wed8"
+: "Aku menemukan Spice Berry di luar pagar pagi ini!$1#$b#Besok akan kutumbuk jadi yogurt. Lezat!$4#$e#Semoga harimu menyenangkan.$0",
+"summer_Thu"
+: "Kalau kamu tinggal di dekat rel kereta cukup lama, kamu tidak akan terbangun lagi saat ada kereta lewat tengah malam.$0#$e#Kecuali... longsoran batu...$2",
+"summer_Thu6"
+: "Melonku harganya lebih tinggi dari perkiraanku.$0#$b#Uangnya akan kutabung untuk bepergian atau beli bahan kerajinan!$1#$e#Ada yang bisa dibantu, @?$4",
+"summer_Thu10"
+: "Senang melihatmu, @. Hari ini panenku banyak.$0#$e#Ini melon yang baru kupetik dari Emerald Farm! Aku menjualnya di Kota Zuzu, tapi sebagian aku bagikan pada teman-temanku.$0[254]",
+"summer_Fri"
+: "Salah satu tanaman hiasku tidak tumbuh dengan baik...$2#$b#Dia terinfeksi jamur, aku telat mengetahuinya... aku harus lebih teliti lagi.$2#$e#%Susan terlihat sedih.",
+"summer_Fri6"
+: "Ini agak konyol, tapi aku memperlakukan tanaman hiasku seperti keluarga.$0#$e#Kamu mungkin sudah tahu kalau aku mandiri, @. Tapi aku suka tanamanku. Saat bepergian, aku merindukannya.$2 ",
+"summer_Sat"
+: "Mayor Lewis tampak stres kemarin.$2#$e#Orang itu bekerja lebih keras dari kita semua... semoga dia segera bisa beristirahat.$0",
+"summer_Sat6"
+: "Aku mengolah semua Hops yang kupanen jadi bir, lalu mengekspornya. Gus kadang beli beberapa untuk Saloon.$0#$e#Kalau mau, kapan-kapan akan kuberi beberapa tips agar birnya enak.$4#$e#Asal jangan beritahu siapa-siapa.$1",
+"summer_Sun"
+: "Musim panas di Stardew Valley bagus. Suhunya cukup sejuk.$0#$e#Di sekitar Calico Desert, cuacanya sangat panas. Kita beruntung kena hembusan angin laut.$0",
+"summer_Sun8"
+: "Lightning Rod bisa jadi investasi bagus kalau ingin dapat uang diluar  hasil panen, @.$0#$b#Ada beberapa mesin yang ingin kubuat dan membutuhkan baterai.$0#$e#Robin dulu menjual itu, tapi dia berhenti karena monopoli Joja.$2",
 
 // FALL DIALOGUE
-"fall_1": "Sudah merasa dingin, @? Musim gugur telah tiba!$1#$b#Semoga kamu sukses di musim ini, manis.$0#$e#Aku sarankan tanamlah Cranberry dan Pumpkin. Mereka sangat menguntungkan di musim gugur.$0#$e#Semoga berhasil!$4",
-"fall_3": "Gagak keluar berbondong-bondong selama musim ini. Semoga kamu sudah menyiapkan Scarecrow, nak.$0#$e#Hati-hati!$1",
-"fall_7": "Apa kau melakukan sesuatu yang berkesan minggu ini?$0#$e#Aku mencoba melakukan setidaknya satu hal menarik setiap minggu.$4",
-"fall_15": "Apa kamu sudah memutuskan apa yang akan kamu pajang besok, @?$0#$e#Pierre adalah saingan yang berat.$1",
-"fall_20": "Aku suka betapa berwarnanya musim gugur.$1#$e#Sebagai petani, kita sering melihat warna hijau. Senang melihat warna dunia kali ini lebih hidup.$4",
-"fall_26": "Besok Spirit Eve, manis.$1#$b#Katanya Mayor Lewis, Marlon dan temannya dari Castle Village akan menangkap monster untuk kita.$0#$e#Kita bisa melihat mereka lewat kandang baja. Seram!$4",
-"fall_27": "Ada cahaya kelap-kelip muncul dari Pelican Town. Aku yakin Penyihir sedang membuat labirin.$1#$e#Entah bagaimana cara kerja 'sihir' itu.$2#$e#Sampai jumpa nanti malam, @.$4",
-"fall_28": "Halo, @. Musim gugur akan berakhir. Jadwal panen sudah mepet.$0#$e#Kamu berencana menghabiskan musim dingin ini dengan memancing atau menambang?$1",
+"fall_1"
+: "Sudah merasa dingin, @? Musim gugur telah tiba!$1#$b#Semoga kamu sukses di musim ini, manis.$0#$e#Aku sarankan tanamlah Cranberry dan Pumpkin. Mereka sangat menguntungkan di musim gugur.$0#$e#Semoga berhasil!$4",
+"fall_3"
+: "Gagak keluar berbondong-bondong selama musim ini. Semoga kamu sudah menyiapkan Scarecrow, nak.$0#$e#Hati-hati!$1",
+"fall_7"
+: "Apa kau melakukan sesuatu yang berkesan minggu ini?$0#$e#Aku mencoba melakukan setidaknya satu hal menarik setiap minggu.$4",
+"fall_15"
+: "Apa kamu sudah memutuskan apa yang akan kamu pajang besok, @?$0#$e#Pierre adalah saingan yang berat.$1",
+"fall_20"
+: "Aku suka betapa berwarnanya musim gugur.$1#$e#Sebagai petani, kita sering melihat warna hijau. Senang melihat warna dunia kali ini lebih hidup.$4",
+"fall_26"
+: "Besok Spirit Eve, manis.$1#$b#Katanya Mayor Lewis, Marlon dan temannya dari Castle Village akan menangkap monster untuk kita.$0#$e#Kita bisa melihat mereka lewat kandang baja. Seram!$4",
+"fall_27"
+: "Ada cahaya kelap-kelip muncul dari Pelican Town. Aku yakin Penyihir sedang membuat labirin.$1#$e#Entah bagaimana cara kerja 'sihir' itu.$2#$e#Sampai jumpa nanti malam, @.$4",
+"fall_28"
+: "Halo, @. Musim gugur akan berakhir. Jadwal panen sudah mepet.$0#$e#Kamu berencana menghabiskan musim dingin ini dengan memancing atau menambang?$1",
 
-"fall_Mon": "Mendaki ke puncak adalah olahraga yang bagus. Aku ke sana setiap minggu.$1#$e#Melihat seluruh lembah terbentang di bawah membuatmu menghargai keindahan tempat ini.$4",
-"fall_Mon4": "Apa kamu sudah pernah ke puncak?$0#$e#aku tahu pemandangannya indah, tapi... melewati pemakaman itu membuatku agak sedih.$2",
-"fall_Mon10": "Melewati semua makam petualang di puncak membuatku cemas padamu.$0#$b#Pastikan kamu waspada saat bertualang. Banyak akan sedih kehilanganmu.$0",
-"fall_Tue": "Jangan lupa, musim gugur adalah musimnya jamur.$0#$e#Kamu bisa dapat banyak keuntungan, kalau kamu cepat.$4",
-"fall_Tue4": "Aku menemukan jamur di puncak tadi. Aku bingung jamurnya mau dimasak atau dijual.$0#$e#Di puncak banyak hasil alam karena tanahnya subur. Aku akan sering memeriksanya kalau jadi kamu.$1",
-"fall_Wed": "Menyenangkan sekali ada kebun labu untuk wisatawan selama pekan raya kota.$0",
-"fall_Wed6": "Jangan anggap remeh momen ini. Jadikan setiap hari berarti.$0#$e#Saat kamu sudah seusiaku, kau akan menghargai kenangan yang kau buat ketika muda.$1",
-"fall_Wed10": "Aku menyukaimu karena kamu tahu hidup adalah petualangan, @.$4#$b#Beberapa orang menganggap kalau menjalankan kebun itu membosankan, tapi kita tahu butuh begitu banyak waktu, kesabaran, dan kreativitas untuk melakukannya dengan baik.$4#$e#Semoga hidup kita terus berwarna seperti ini.$4",
-"fall_Thu": "*hahh*... Semalam Andy agak berlebihan di Saloon. Mulutnya tidak ada saringannya.$2#$e#Kita semua punya keistimewaan masing-masing.$0#$e#Semoga harimu menyenangkan, nak.$1",
-"fall_Thu8": "Aku lihat Andy membawa kardus Joja beberapa hari yang lalu. Sepertinya harinya menyenangkan.$0#$b#Aku tidak suka Joja, tapi bukan berarti aku benci pada orang yang suka.$0# $e#Kenapa aku tidak suka Joja? Karena dunia adalah tempat berharga dengan sumber daya terbatas. Dan kurasa mereka menyia-nyiakannya.$2",
-"Fall_Fri": "Jamur muncul di Cindersap Forest di musim ini. Mungkin aku akan meramban mereka setelah ini.$0#$e#Tapi, biasanya Andy dan Leah sudah mengambil semuanya...$3",
-"fall_Fri4": "Ada hazelnut di sekitar danau gunung hari ini. Aku mau memanggangnya!$0#$e#Roasted Hazelnut kaya nutrisi dan lezat. Lain kali akan kubagi denganmu.$1",
-"fall_Fri10": "Tadi aku menemukan hazelnut lagi dan memanggangnya! Ini kuberi beberapa!$1[607]#$e#Nikmatilah, nak.$4",
-"fall_Sat": "Mengelola anggur berteralis beda dari tanaman biasa. Aku perlu memikirkan cara merambatkan batangnya.$2#$e#Aku akan coba tanya ke Sophia. Dia ahlinya anggur.$1",
-"fall_Sat8": "Pagar di rel kereta api perlu segera diperbaiki. Aku butuh persediaan kayu.$0#$e#Seberapa sering kamu memperbaiki pagarmu, @?$0#$e#Oh! Begitu! Kamu pintar juga.$1",
-"fall_Sun": "Dedaunan terus saja masuk ke rumahku! Untung aku punya sapu.$1",
-"fall_Sun4": "Stardew Valley memiliki tanah tersubur di Ferngill Republic. Hasil panen yang ditanam di sini lebih besar dan enak.$0#$e#Kalau pakai pupuk, tanamanmu akan lebih sehat lagi!$1",
-"fall_Sun10": "Aku sedang mencarimu, @.$0#$b#Aku memupuk ladangku dan ada beberapa yang tersisa. Aku mau memberikannya padamu.$4#$b#Tidak perlu berterima kasih! Semoga harimu indah, nak!$1^Tidak perlu berterima kasih! Semoga harimu indah, manis!$1[369]",
+"fall_Mon"
+: "Mendaki ke puncak adalah olahraga yang bagus. Aku ke sana setiap minggu.$1#$e#Melihat seluruh lembah terbentang di bawah membuatmu menghargai keindahan tempat ini.$4",
+"fall_Mon4"
+: "Apa kamu sudah pernah ke puncak?$0#$e#aku tahu pemandangannya indah, tapi... melewati pemakaman itu membuatku agak sedih.$2",
+"fall_Mon10"
+: "Melewati semua makam petualang di puncak membuatku cemas padamu.$0#$b#Pastikan kamu waspada saat bertualang. Banyak akan sedih kehilanganmu.$0",
+"fall_Tue"
+: "Jangan lupa, musim gugur adalah musimnya jamur.$0#$e#Kamu bisa dapat banyak keuntungan, kalau kamu cepat.$4",
+"fall_Tue4"
+: "Aku menemukan jamur di puncak tadi. Aku bingung jamurnya mau dimasak atau dijual.$0#$e#Di puncak banyak hasil alam karena tanahnya subur. Aku akan sering memeriksanya kalau jadi kamu.$1",
+"fall_Wed"
+: "Menyenangkan sekali ada kebun labu untuk wisatawan selama pekan raya kota.$0",
+"fall_Wed6"
+: "Jangan anggap remeh momen ini. Jadikan setiap hari berarti.$0#$e#Saat kamu sudah seusiaku, kau akan menghargai kenangan yang kau buat ketika muda.$1",
+"fall_Wed10"
+: "Aku menyukaimu karena kamu tahu hidup adalah petualangan, @.$4#$b#Beberapa orang menganggap kalau menjalankan kebun itu membosankan, tapi kita tahu butuh begitu banyak waktu, kesabaran, dan kreativitas untuk melakukannya dengan baik.$4#$e#Semoga hidup kita terus berwarna seperti ini.$4",
+"fall_Thu"
+: "*hahh*... Semalam Andy agak berlebihan di Saloon. Mulutnya tidak ada saringannya.$2#$e#Kita semua punya keistimewaan masing-masing.$0#$e#Semoga harimu menyenangkan, nak.$1",
+"fall_Thu8"
+: "Aku lihat Andy membawa kardus Joja beberapa hari yang lalu. Sepertinya harinya menyenangkan.$0#$b#Aku tidak suka Joja, tapi bukan berarti aku benci pada orang yang suka.$0# $e#Kenapa aku tidak suka Joja? Karena dunia adalah tempat berharga dengan sumber daya terbatas. Dan kurasa mereka menyia-nyiakannya.$2",
+"Fall_Fri"
+: "Jamur muncul di Cindersap Forest di musim ini. Mungkin aku akan meramban mereka setelah ini.$0#$e#Tapi, biasanya Andy dan Leah sudah mengambil semuanya...$3",
+"fall_Fri4"
+: "Ada hazelnut di sekitar danau gunung hari ini. Aku mau memanggangnya!$0#$e#Roasted Hazelnut kaya nutrisi dan lezat. Lain kali akan kubagi denganmu.$1",
+"fall_Fri10"
+: "Tadi aku menemukan hazelnut lagi dan memanggangnya! Ini kuberi beberapa!$1[607]#$e#Nikmatilah, nak.$4",
+"fall_Sat"
+: "Mengelola anggur berteralis beda dari tanaman biasa. Aku perlu memikirkan cara merambatkan batangnya.$2#$e#Aku akan coba tanya ke Sophia. Dia ahlinya anggur.$1",
+"fall_Sat8"
+: "Pagar di rel kereta api perlu segera diperbaiki. Aku butuh persediaan kayu.$0#$e#Seberapa sering kamu memperbaiki pagarmu, @?$0#$e#Oh! Begitu! Kamu pintar juga.$1",
+"fall_Sun"
+: "Dedaunan terus saja masuk ke rumahku! Untung aku punya sapu.$1",
+"fall_Sun4"
+: "Stardew Valley memiliki tanah tersubur di Ferngill Republic. Hasil panen yang ditanam di sini lebih besar dan enak.$0#$e#Kalau pakai pupuk, tanamanmu akan lebih sehat lagi!$1",
+"fall_Sun10"
+: "Aku sedang mencarimu, @.$0#$b#Aku memupuk ladangku dan ada beberapa yang tersisa. Aku mau memberikannya padamu.$4#$b#Tidak perlu berterima kasih! Semoga harimu indah, nak!$1^Tidak perlu berterima kasih! Semoga harimu indah, manis!$1[369]",
 
-//WINTER DIALOGUE (wayahe iki)
-"winter_1": "Up in the mountains, Robin and I get lots of snow.$0#$e#I may build a snowman soon. Wouldn't that be cute?$1",
-"winter_7": "Are you participating in the fishing contest tomorrow?$1#$b#I used to fish when I was younger, but never got back into it.$0#$e#Best of luck tomorrow!$4",
-"winter_12": "My brother is visiting soon. His daughter is adorable!$1#$b#She loves playing video games. I have a Super Neendo she plays when she visits.$0#$e#I don't play it myself. I'm too old for those electronic contraptions.$4",
-"winter_17": "A merchant sold me a houseplant.$0#$b#You can always find something amazing at the night market!$1",
-"winter_24": "The Winter Star Feast is tomorrow! It's such a joyous day.$0#$e#I picked up the perfect gift! I hope he loves it.$1",
-"winter_28": "Ready to sow seeds soon?$0#$e#I finished planning weeks ago. Just need to wait for the snow and ice to thaw - won't be long now.$1",
+//WINTER DIALOGUE
+"winter_1"
+: "Karena tinggal dekat gunung, aku dan Robin dapat banyak salju.$0#$e#Aku ingin segera membuat manusia salju. Pasti lucu.$1",
+"winter_7"
+: "Apa kamu ikut kontes memancing besok?$1#$b#Aku biasa memancing saat masih muda, tapi belum mencoba lagi.$0#$e#Semoga beruntung besok!$4",
+"winter_12"
+: "Saudaraku mau berkunjung. Anak perempuannya menggemaskan!$1#$b#Dia suka main vidio game. Aku punya Super Neendo untuk dia mainkan.$0#$e#Aku tidak memainkannya sendiri. Aku terlalu tua untuk gawai elektronik itu.$4",
+"winter_17"
+: "Ada pedagang yang jual tanaman hias padaku.$0#$b#Kamu selalu bisa menemukan benda bagus di Night Market!$1",
+"winter_24"
+: "Festival Winter Star besok! Itu hari yang luar biasa.$0#$e#Aku menyiapkan hadiah yang sempurna! Semoga dia suka.$1",
+"winter_28"
+: "Siap untuk menanam benih?$0#$e#Aku sudah membuat perencanaannya.Tinggal menunggu es dan saljunya meleleh.$1",
 
-"winter_Mon": "I feel bad for all those poor animals out there, freezing in this cold weather.$2#$e#I have a soft spot for little critters.$0",
-"winter_Mon4": "Sautine City has beautiful shores and tourists from around the world.$0#$b#Every time I go there I meet someone whose life is completely different from mine. It's like a window into a different world.$4#$e#You should try traveling, @. Tickets can be expensive, but the experience is well worth it.$1",
-"winter_Mon8": "I've almost saved up enough money to take a trip across the country.$0#$e#Travelling is a big hobby of mine, so living by the railroad is convenient.$4#$e#Think you'd ever want to take a trip with me, sweetie? I'm a great traveling companion!$1",  
-"winter_Tue": "How's your winter, @? Are you enjoying your time off?$1#$e#I've been crafting and traveling. It's a wonderful time of year.$0",
-"winter_Tue6": "I'm glad I have wood stockpiled. My house doesn't have a fancy heater system. I rely on the fireplace.$0#$e#Stay warm this winter, @! You're always welcome to stop by and sit with me by the fire for a little while.$4",
-"winter_Wed":  "I love stepping outside at night when it snows. Since snow absorbs sound, it's very quiet.$1#$e#Stay warm, @.$0",
-"winter_Wed4": "I enjoy reading books during winter. Don't have to worry about the crops.$0#$e#I know you don't take weekends off, but you should enjoy some time for yourself too! You deserve it.$1",
-"winter_Wed8": "We both work too hard, don't we?$0#$e#Let's make a pact to both take it easy this weekend. No long hours in the mines, no hikes up the summit... just cozy days in front of the fireplace with a nice book or some memories.$4#$e#It'll be tough to sit still for a while, but I think we can both manage it.$1",
-"winter_Thu": "I often see Alex visiting the bath house.$0#$b#The workout room is kept in good condition.$4#$e#Maybe because no one but Alex uses it.$0",
-"winter_Thu6": "I hike up to the summit pretty often, even in the winter.$0#$e#There's lots of crafting materials and forage, and the view is just breathtaking.$1#$e#Join me sometime, @?$4",
-"winter_Fri": "Do you go to the saloon on the weekends often?$0#$e#In the winter, it's tempting. A little bit of cider or ale knocks the chill right out of my bones.$4",
-"winter_Fri8": "I'm not sure if I'm just getting older, but this winter seems colder than usual.$2#$e#I'm itching to take off and travel somewhere warm.$4#$e#Maybe someday we'll both just get on the train and ride it until we're somewhere we've never been, @. What do you think?$4",
-"winter_Sat": "Call me old-fashioned, but I prefer writing letters instead of emailing.$0#$e#All of this new technology is advancing too fast for me to keep up with.$2",
-"winter_Sat8": "Do you keep in touch with your family, @?$0#$e#Life here in the valley is a little like living in a bubble. It's easy to forget the outside world, surrounded by the mountains.$4#$e#It's important to make sure you stay connected with the world, whatever way works best for you.$4",
-"winter_Sun": "Almost time to start preparing for the next year.$1#$e#Hmm... what should I grow this spring?$0",
-"winter_Sun6": "I was clearing my crop fields this morning, preparing for spring, and I dug up several snow yams.$0#$b#I think I'll eat this with dinner tonight after I wash them!$1#$e#Try and dig a few up while you can, @. They taste great roasted with a little butter and brown sugar.$4"
+"winter_Mon"
+: "Aku merasa kasihan pada hewan-hewan malang di luar sana, kedinginan dalam cuaca ini.$2#$e#Aku mudah kasihan pada makhluk kecil.$0",
+"winter_Mon4"
+: "Sautine City memiliki pantai yang indah dan dikunjungi turis dari seluruh dunia.$0#$b#Setiap kali ke sana aku bertemu orang yang hidupnya berbeda dariku. Rasanya seperti jendela menuju dunia yang berbeda.$4#$e#Kamu harus sering berwisata, @. Tiketnya bisa mahal, tapi pengalamannya sangat berharga.$1",
+"winter_Mon8"
+: "Tabunganku hampir cukup untuk berwisata ke seluruh negeri.$0#$e#Berwisata adalah hobiku, jadi tinggal di dekat rel kereta api itu nyaman.$4#$e#Apa kamu mau ikut denganku, nak? Aku bisa jadi teman berwisata yang hebat!^Apa kamu mau ikut denganku, manis? Aku bisa jadi teman berwisata yang hebat!$1",
+"winter_Tue"
+: "Bagaimana musim dinginmu, @? Apa kamu menikmati liburanmu?$1#$e#Kalau aku sudah membuat kerajinan dan bepergian ke banyak tempat. Ini musim yang menyenangkan.$0",
+"winter_Tue6"
+: "Aku lega menyimpan banyak kayu. Rumahku tidak punya penghangat yang mewah. Aku mengandalkan perapian.$0#$e#Jaga kehangatanmu di musim dingin ini, @! Kamu boleh mampir kapan saja dan duduk denganku di dekat perapian.$4",
+"winter_Wed"
+: "Aku suka keluar malam saat salju turun. Karena salju menyerap suara, suasananya jadi sangat tenang.$1#$e#Jaga kehangatanmu, @.$0",
+"winter_Wed4"
+: "Aku suka membaca buku selama musim dingin. Dan tidak perlu khawatir tentang hasil panen.$0#$e#Aku tahu kamu tidak libur di akhir pekan, tapi kamu juga harus menikmati waktu bersantai! Kamu pantas mendapatkannya.$1" ,
+"winter_Wed8"
+: "Kita berdua sudah bekerja keras, kan?$0#$e#Mari berjanji untuk bersantai akhir pekan ini. Tidak boleh ke tambang, tidak boleh mendaki ke puncak... hanya bersantai di depan perapian dengan membaca buku bagus atau mengenang sesuatu.$4#$e#Mungkin akan sulit untuk terus duduk, tapi kurasa kita berdua bisa melaluinya.$1",
+"winter_Thu"
+: "Aku sering melihat Alex ke pemandian.$0#$b#Ruang latihannya dalam kondisi baik.$4#$e#Mungkin karena cuma Alex yang memakainya.$0",
+"winter_Thu6"
+: "Aku cukup sering mendaki ke puncak, bahkan di musim dingin.$0#$e#Ada banyak bahan kerajinan dan hasil alam, pemandangannya juga menakjubkan.$1#$e#Ikutlah denganku kapan-kapan, @?$4",
+"winter_Fri"
+: "Apa kamu sering ke Saloon di akhir pekan?$0#$e#Aku seing kesana di musim dingin. Minum Cider atau Ale membuat tubuhku hangat.$4",
+"winter_Fri8"
+: "Entah karena aku semakin tua, atau memang musim dingin semakin lama semakin dingin.$2#$e#Aku ingin segera berwisata ke tempat yang hangat.$4#$e#Mungkin kelak kita naik kereta dan turun ke tempat mana saja yang belum pernah kita datangi, @. Bagaimana menurutmu?$4",
+"winter_Sat"
+: "Sebut aku jadul, tapi aku lebih suka menulis surat daripada mengirim surel.$0#$e#Semua teknologi ini berkembang terlalu cepat untuk kuikuti.$2",
+"winter_Sat8"
+: "Apa kamu tetap berhubungan dengan keluargamu, @?$0#$e#Hidup di lembah ini agak mirip seperti hidup dalam gelembung. Mudah sekali untuk melupakan dunia luar, dikelilingi oleh pegunungan.$4#$e#Penting untuk tetap terhubung dengan dunia luar, dengan cara yang paling sesuai untukmu.$4",
+"winter_Sun"
+: "Sudah waktunya untuk bersiap-siap buat tahun depan.$1#$e#Hmm... apa yang harus kutanam di musim semi nanti?$0",
+"winter_Sun6"
+: "Aku sedang membersihkan ladang pagi ini, bersiap untuk musim semi, dan aku dapat beberapa Snow Yam.$0#$b#Aku akan makan itu setelah kucuci untuk makan malam!$1#$e#Gali dan temukanlah beberapa selagi masih musim dingin, @. Rasanya enak kalau dipanggang dengan mentega dan gula merah.$4"
 }
