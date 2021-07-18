@@ -1,208 +1,392 @@
 ﻿{
 //SPECIAL DIALOGUE
-"Introduction": "Eek! A stranger!$2#$e#W-wait. Aren't you @, the new farmer?$0#$b#S-sorry. I get a little nervous around people I haven't met before...$1#$b#My name is Sophia. I'm the owner of Blue Moon Vineyard.$9#$e#Um... well, I'll see you around, I guess.$1",
-"accept_577": "Ooo. A fairy stone! This is my most favorite thing in the whole world. Thank you!$1",
-"danceRejection": "S-sorry. I don't really dance.$2",
-"divorced": "I...I think I'm happier by myself. I've never really been compatible with anyone.$2#$b#Th-thank you for helping me realize that.$6#$e#*sniff*...$12#$e#P-please leave...$7#$e#%Sophia is crying.",
-"breakUp": "Y-you want to break up with me?$2#$b#Did I do something wrong?$6#$b#*sniff*... Okay. I see you've already made up your mind.$12#$e#P-please go away, @.$7#$e#%Sophia is crying.",
-"dumped_Girls": "*sniff*... C-can you tell me what I did wrong? P-please...$6#$e#I'm s-sorry I wasn't good enough...$12",
-"secondChance_Girls": "Y-you want to try again?$2#$b#I-I don't know. You really hurt me...$6#$b#I'll agree as long as you communicate with me. Okay?$2#$b#Let's be better to each other.$2",
-"stardrop_gift": "Hey, silly. I um... bought a stardrop for you as a symbol of our love.$4#$b#I-I don't think I've ever been as happy as I am with you.$4#$e#Our future together looks so bright.$1#$b#I love you.$4#$e#*smooch*$9",
-"give_flowersA": "!!!$4#$b#I-I don't know wh-what to say!$4#$b#Umm. I've had a crush on you for a while now. I'm so happy we're official!$4#$e#We should do something romantic like... like watching anime in bed with cuddles!$9#$e#I'm a bit nervous, aren't you?$4",
-"give_flowersB": "!!!$4#$b#I-I don't know wh-what to say!$4#$b#Umm. I've had a crush on you for a while now. I'm so happy we're official!$4#$e#We should do something romantic like... like watching anime in bed with cuddles!$9#$e#I'm a bit nervous, aren't you?$4",
-"give_pendant": "You want to get married? I-I accept!$4#$b#I love you! I don't think I could live without you, silly!$9",
-"rejectNPCA": "Um... is this a joke?$2",
-"rejectNPCB": "Um. No thanks.$2#$e#I said no!$3#$e#%Sophia is ignoring you.",
-"reject_two_heartA": "Oh... I don't feel that way about you. S-sorry...$2#$e#Um. I said no, @.$3#$e#%Sophia is now ignoring you.",
-"reject_two_heartB": "This makes me uncomfortable...$6",
-"reject_four_heartA": "Oh. You want to date me? Look, I, um... I like you too. But I don't *like* like you...$2#$e#I'm sorry if that isn't what you wanted to hear.$2",
-"reject_four_heartB": "Whoa! You're really trying to go fast with this?$2#$b#Maybe... slow down a little. Okay?$2#$e#I said no, @.$3",
-"engageA": "Oh. What's that. Looks pretty.$1",
-"engageB": "A mermaid pendant? Looks beautiful.$0#$e#Wh-what? Marry me? You're so funny!$8",
-"marriedA": "Wh-what? Aren't you already married?$3#$e#@. Stop.$2#$e#I said stop!$6#$e#... I-I'm going to tell your spouse if you keep trying.$3#$e#%Sophia is ignoring you.",
-"marriedB": "Um. No Thanks.$3#$e#I'll tell your spouse if you try it again.$3",
-"refusal_knownA": "Oh... um. I'm n-not ready for that much commitment yet.$2#$b#I'm sorry.$6",
-"refusal_knownB": "Hmm. Maybe one day.$1",
-"refusal_botherA": "Um. No Thanks.$2",
-"refusal_botherB": "N-no...$2",
-"refusal_no_heartsA": "Oh. Looks so pretty!$1",
-"refusal_no_heartsB": "Oh. Looks so pretty!$1",
-"Resort_Entering": "Yay! We're here!$9",
-"Resort_Leaving": "Aww. We have to go home now...$2",
-"Resort_Shore": "Swimming makes me hungry.$0#$e#Maybe it's time for a snack?$1",
-"Resort_Chair": "This trip is really helping me calm down. I've had a lot on my mind lately.$1#$e#Hey, if you're up for it, maybe we can check out the coral reefs?$1",
-"Resort_Bar": "This mango smoothie Gus made for me is really tasty!$1",
-"Resort": "Hey, @! Did you see the little krabby on the shore?$1#$e#I tried catching it but the little guy ran away.$2",
+"Introduction"
+: "Eek! Orang asing!$2#$e#T-tunggu. Bukankah kamu @, petani baru?$0#$b#M-maaf. Aku suka gugup kalau ada orang yang belum kukenal.. .$1#$b#Namaku Sophia. Aku pemilik Blue Moon Vineyard.$9#$e#Em... yah, sampai jumpa lagi.$1",
+"accept_577"
+: "Ooo. Fairy Stone! Ini benda favoritku di dunia. Terima kasih!$1",
+"danceRejection"
+: "M-Maaf. Aku tidak begitu suka menari.$2",
+"divorced"
+: "Ku-Kurasa aku lebih bahagia sendiri. Aku belum pernah cocok sama siapa-siapa.$2#$b#T-Terima kasih sudah membuatku sadar.$6#$e#*hiks*...$12#$e#P-pergilah...$7#$e#%Sophia menangis.",
+"breakUp"
+: "K-Kamu mau putus?$2#$b#Apa aku berbuat salah]?$6#$b#*hiks*... Oke. Sepertinya kau sudah membulatkan keputusanmu.$12#$e#P-pergilah, @.$7#$e#%Sophia menangis.",
+"dumped_Girls"
+: "*hiks*... B-Beritahu apa salahku, k-kumohon...$6#$e#Maaf kalau aku belum cukup baik bagimu...$12",
+"secondChance_Girls"
+: "K-Kamu mau balikan?$2#$b#E-Entahlah. Kau sudah menyakitiku...$6#$b#Aku akan setuju asal kau mau lebih berkomunikasi. Oke?$2#$b#Mari perbaiki kesalah kita.$2",
+"stardrop_gift"
+: "Hei, konyol. Aku em... beli Stardrop untukmu sebagai lambang cintaku.$4#$b#A-Aku tidak pernah merasa sebahagia ini kalau bukan karenamu.$4#$e#Masa depan kita tampak cerah.$1#$b#Aku sayang kamu.$4#$e#*kecup*$9",
+"give_flowersA"
+: "!!!$4#$b#A-Aku tak tahu harus bilang apa!$4#$b#Emm. Belakangan ini aku juga naksir kamu. Senang akhirnya bisa jadian!$4#$e#Ayo lakukan hal romantis seperti... seperti nonton anime di kamar sambil pelukan!$9#$e#Aku agak gugup, kalau kamu?$4",
+"give_flowersB"
+: "!!!$4#$b#A-Aku tak tahu harus bilang apa!$4#$b#Emm. Belakangan ini aku juga naksir kamu. Senang akhirnya bisa jadian!$4#$e#Ayo lakukan hal romantis seperti... seperti nonton anime di kamar sambil pelukan!$9#$e#Aku agak gugup, kalau kamu?$4",
+"give_pendant"
+: "Kamu ingin menikah? A-Aku terima!$4#$b#Aku sayang kamu! Aku takkan bisa hidup tanpamu, konyol!$9",
+"rejectNPCA"
+: "Em... ini bercanda kan?$2",
+"rejectNPCB"
+: "Em. Tidak, makasih.$2#$e#Kubilang tidak!$3#$e#%Sophia mengabaikanmu.",
+"reject_two_heartA"
+: "Oh... aku tidak merasa begitu padamu. M-Maaf...$2#$e#Em. Kubilang tidak, @.$3#$e#%Sophia mengabaikanmu.",
+"reject_two_heartB"
+: "Ini membuatku tidak nyaman...$6",
+"reject_four_heartA"
+: "Oh. Kau mau kencan denganku? Dengar, Aku, Em... Aku memang suka kamu. Tapi bukan *suka* yang seperti itu...$2#$e#Maaf kalau kamu tak ingin mendengarnya.$2",
+"reject_four_heartB"
+: "Whoa! Kamu terburu-buru sekali.$2#$b#Pelan-pelan saja dulu... Oke?$2#$e#Kubilang tidak, @.$3",
+"engageA"
+: "Oh. Itu apa? Kelihatan cantik.$1",
+"engageB"
+: "Mermaid Pendant? Cantik sekali.$0#$e#A-Apa? Menikah? Kamu lucu sekali!$8",
+"marriedA"
+: "A-Apa? Bukannya kamu sudah menikah?$3#$e#@. Hentikan.$2#$e#Kubilang hentikan!$6#$e#... A-Akan kuberitahu pasanganmu kalau tetap memaksa.$3#$e#%Sophia mengabaikanmu.",
+"marriedB"
+: "Em. Tidak, makasih.$3#$e#Kalau kau melakukannya lagi akan kuberitahu pasanganmu.$3",
+"refusal_knownA"
+: "Oh... em. Aku b-belum siap berkomitmen.$2#$b#Maafkan aku.$6",
+"refusal_knownB"
+: "Hmm. Mungkin suatu hari nanti.$1",
+"refusal_botherA"
+: "Em. Tidak, makasih.$2",
+"refusal_botherB"
+: "T-Tidak...$2",
+"refusal_no_heartsA"
+: "Oh. Cantik sekali!$1",
+"refusal_no_heartsB"
+: "Oh. Cantik sekali!$1",
+"Resort_Entering"
+: "Yey! Kita sampai!$9",
+"Resort_Leaving"
+: "Aww. Kita sudah mau pulang...$2",
+"Resort_Shore"
+: "Berenang membuatku lapar.$0#$e#Mungkin ini waktunya untuk jajan?$1",
+"Resort_Chair"
+: "Wisata ini membantuku tenang. Belakangan ini aku lagi banyak pikiran.$1#$e#Hei, kalau mau, ayo kita cek terumbu karangnya?$1",
+"Resort_Bar"
+: "Mango Smoothie yang dibuat Gus sangat enak!$1",
+"Resort"
+: "Hei, @! Apa kau lihat kepiting kecil di pantai?$1#$e#Aku coba mengangkap dia tapi dia kabur.$2",
 
 //SPECIFIC TILE DIALOGUE
-"Custom_SophiaHouse_24_6": "G-get out of my bed!$5",
-"Custom_SophiaHouse_12_24": "%She's unresponsive.",
-"Custom_SophiaHouse_20_9": "%She's unresponsive.",
-"Custom_SophiaHouse_26_25": "%She's unresponsive.",
-"BlueMoonVineyard2_21_47": "*sniff*...$12",
-"Hospital_5_17": "Oh, hello. I'm picking up my medication from doctor Harvey.$0",
-"Town_42_86": "...$12",
-"Saloon_20_19": "I try to be social every so often. No better place than the saloon!$1",
-"Custom_JenkinsHouse_23_27": "I'm watching anime with Victor today.$1",
-"Custom_JenkinsHouse_29_11": "'My Villain Academia' is so cool!$9",
-"Custom_JenkinsHouse_19_39": "Bye, Victor!$1",
-"Custom_SusanHouse_9_19": "Hey, Susan! Ready to teach me crafting techniques?$1",
-"Custom_SusanHouse_5_17": "OooOoo! So that's how you make it!$9",
-"Custom_SusanHouse_11_17": "That was fun! Thanks for having me over.$1",
-"HaleyHouse_2_21": "Hi, Haley.$1",
-"HaleyHouse_5_5": "OoOoo! Those are so so pretty!$9",
-"HaleyHouse_8_7": "Let me try applying it!$1",
-"HaleyHouse_4_20": "See you soon, Haley.$1",
-"HaleyHouse_14_21": "Hi, Emily!$9",
-"HaleyHouse_13_24": "Emily and I are sewing together today.$1",
-"HaleyHouse_16_8": "Is this pattern looking okay, Emily?$1",
+"Custom_SophiaHouse_24_6"
+: "K-Keluar dari kamarku!$5",
+"Custom_SophiaHouse_12_24"
+: "%Dia tidak merespon.",
+"Custom_SophiaHouse_20_9"
+: "%Dia tidak merespon.",
+"Custom_SophiaHouse_26_25"
+: "%Dia tidak merespon.",
+"BlueMoonVineyard2_21_47"
+: "*hiks*...$12",
+"Hospital_5_17"
+: "Oh, halo. Aku beli obat dari Dokter Harvey.$0",
+"Town_42_86"
+: "...$12",
+"Saloon_20_19"
+: "Sesekali aku mencobe untuk bersosialisasi. Tak ada tempat yang pas selain Saloon!$1",
+"Custom_JenkinsHouse_23_27"
+: "Aku nonton anime bersama Victor hari ini.$1",
+"Custom_JenkinsHouse_29_11"
+: "'My Villain Academia' keren sekali!$9",
+"Custom_JenkinsHouse_19_39"
+: "Da-dah, Victor!$1",
+"Custom_SusanHouse_9_19"
+: "Hei, Susan! Siap mengajariku teknik kerajinan?$1",
+"Custom_SusanHouse_5_17"
+: "OooOoo! Jadi begitu cara buatnya!$9",
+"Custom_SusanHouse_11_17"
+: "Tadi itu seru! Terima kasih sudah mengajariku.$1",
+"HaleyHouse_2_21"
+: "Hai, Haley.$1",
+"HaleyHouse_5_5"
+: "OoOoo! Semuanya cantik!$9",
+"HaleyHouse_8_7"
+: "Biar kucobakan padamu!$1",
+"HaleyHouse_4_20"
+: "Sampai jumpa lagi, Haley.$1",
+"HaleyHouse_14_21"
+: "Hai, Emily!$9",
+"HaleyHouse_13_24"
+: "Aku dan Emily sedang menjahit bersama hari ini.$1",
+"HaleyHouse_16_8"
+: "Apa polanya seperti ini, Emily?$1",
 
 //MAKEUP QUESTION
-"summer_Sat": "I put on eyeliner this morning.$1#$q 4001/4002 makeup_followup#Do you think my makeup looks okay?#$r 3001 25 makeup_yes#You look great.#$r 4002 -50 makeup_no#You don't need makeup to be beautiful.",
-"makeup_yes": "Hehe. Thanks, @.$4",
-"makeup_no": "O-oh. Um. But...$2#$b#...$6#$e#%Sophia doesn't want to talk anymore.",
-"makeup_followup": "$p 4001#I like looking pretty.$9#$b#Um... It Makes me feel better in a way.$1#$e#I wonder if Haley would want to do makeup together?$9",
+"summer_Sat"
+: "Tadi pagi aku pakai eyeliner.$1#$q 4001/4002 makeup_followup#Apa riasanku sudah bagus?#$r 3001 25 makeup_yes#Kamu cantik.#$r 4002 -50 makeup_no#Kamu tak butuh riasan untuk kelihatan cantik.",
+"makeup_yes"
+: "Hehe. Makasih, @.$4",
+"makeup_no"
+: "O-oh. Em. Tapi...$2#$b#...$6#$e#%Sophia tidak ingin bicara lagi.",
+"makeup_followup"
+: "$p 4001#Aku suka tampil cantik.$9#$b#Em... Entah kenapa aku jadi lebih pede.$1#$e#Apa Haley mau merias bersama ya?$9",
 
 //SPRING AND GENERAL DIALOGUE
-"spring_1": "The start of spring is relaxing for me.$0#$b#Not much to do besides fermenting the wine.$1#$e#Oh. Good luck this season, @.$9",
-"spring_12": "I wonder what Gus is making for the Egg Festival tomorrow.$1",
-"spring_18": "I don't go to the saloon much, but I'll be there tomorrow if you wanna say hi.$0#$e#I hope Gus has orange chicken!$1",
-"spring_23": "*sigh* I don't enjoy dancing...$2#$e#I'm only going to the flower festival for the free cake.$1",
-"spring_28": "Hi, @. Spring is ending soon.$0#$e#So much to do. I'll have a lot of work on my plate.$2",
+"spring_1"
+: "Awal musim semi membuatku ingin bersantai.$0#$b#Tak ada pekerjaan selain memeram Wine.$1#$e#Oh. Semoga musim ini kamu beruntung, @.$9",
+"spring_12"
+: "Aku penasaran Gus mau buat apa di Egg Festival besok.$1",
+"spring_18"
+: "Aku jarang ke Saloon, tapi besok aku disana kalau kau mau menyapa.$0#$e#Semoga Gus punya Orange Chicken!$1",
+"spring_23"
+: "*hahh* Aku tidak suka menari...$2#$e#Aku pergi ke Flower Festival karena ada kue gratis.$1",
+"spring_28"
+: "Hai, @. Musim semi akan berakhir.$0#$e#Banyak yang harus dikerjakan. Aku akan sibuk sekali.$2",
 
-"Mon": "Um... hello.$2#$e#Do you need something?$0",
-"Mon2": "...$6#$e#%Sophia is ignoring you. She looks sad.",
-"Mon4": "I-if you need sprinklers, you can purchase some from me.$0#$b#I don't charge too much.$1#$e#O-oh. You can order sprinklers through the ledger in my cosplay room.$0",
-"Mon8": "Hey, you. Nice to see you!$1",
-"Mon10": "I want to hike up to the summit sometime! We could maybe pack a picnic too!$9#$e#Oh! And we could hold hands.$4",
-"Tue": "Wh-what do you want?$2#$e#Oh. Saying hello? Um...$2#$b#Hi.$0",
-"Tue2": "Have you talked to Emily and Haley recently? I should visit them soon.$0#$e#Those two are really good friends.$1",
-"Tue6": "Emily was sweet and gave me some of her premium fabric.$1#$e#I need to do something nice for her too!$9",
-"Tue10": "Um. How is your day, silly?$1#$e#Mine just got better because you're here!$9#$e#%You give Sophia a kiss. She smiles at you.",
-"Wed": "I'm hungry...$2#$e#Maybe I'll get a snack soon?$1",
-"Wed4": "My friend, Scarlett, is visiting soon. I love seeing her, she's the best.$9", 
-"Wed10": "@, you look really cute today.$4#$e#%You hug Sophia. She smiles at you.",
-"Thu": "I don't feel so good today...$2#$e#...$6#$e#S-sorry. It isn't a good time.$12#$e#%Sophia is crying...",
-"Thu2": "Um, hello. You want to talk?$0#$e#Um... Do you watch 'School Girl Wizards'?$1#$e#Oh, you don't? That's okay.$2",
-"Thu6": "Your outfit looks nice on you. What material is that?$1#$e#Oh! I see!$9",
-"Thu10": "I was thinking maybe we could go on a trip sometime! It'd be fun to explore the world together.$1#$e#*smooch*$9", 
-"Fri": "I wanted to look pretty today so I put on some eyeliner.$0#$b#D-do you think it looks okay?$2#$e#Aww. Thanks.$4",
-"Fri2": "Eek! You scared me!$5#$b#Um, Hello.$2#$b#You want to talk about something?$0#$e#S-sorry. I-I'm a little busy.$2",
-"Fri4": "Maybe I should buy some farm animals from Marnie? I need cute animals in my life.$1#$e#Hmm... actually, I don't know if I could handle that much work by myself.$2", 
-"Fri8": "Do you have any baby bunnies on your farm? They are so adorable!$9",
-"Fri10": "Do you ever get lonely on %farm Farm?$0#$e#Oh. Um. No reason why I asked that.$4#$e#%You pat Sophia on her head. She smiles at you.",
-"Sat": "Hi.$2#$e#...$2#$e#%Sophia turns away from you.",
-"Sat2": "I wish Gus sold orange chicken. The closest place that sells it is in Grampleton.$0#$e#I love orange chicken!$9#$b#Scarlett brings me some when she visits.$1",
-"Sat6": "Hey, you! Want to grab food at the saloon sometime?$9#$e#I can put a good word in with Gus.$1#$e#%Sophia smiles at you.",
-"Sat10": "Hey, you! I just want to talk to you every day!$9#$e#Did that sound too clingy?$2#$e#%You hug Sophia. She blushes.",
-"Sun": "O-oh. H-hello there.$2#$b#Um... can I help you?$0",
-"Sun4": "Haley and I did our makeup together today. I-I think it went well.$1^Haley and I did our makeup together today. You should join us sometime!$1#$e#I-I think it went well.$9",
-"Sun8": "Hey, you! Having a productive day?$1#$e#Talk to you later, @.$9^Hey, you! We should do our makeup together sometime!$1#$e#Talk to you later, @.$9",
-"Sun10": "We should swap farmer trade secrets! There's some speciality ingredients I use to make Blue Moon Vineyard's trademark wine.$1",
+"Mon"
+: "Em... halo.$2#$e#Kamu butuh sesuatu?$0",
+"Mon2"
+: "...$6#$e#%Sophia mengabaikanmu. Dia kelihatan sedih.",
+"Mon4"
+: "K-Kalau butuh Sprinkler, kau bisa membelinya dariku.$0#$b#Aku ambil laba sedikit.$1#$e#O-oh. K-Kamu bisa beli Sprinkler lewat kasbuk di ruang cosplayku.$0",
+"Mon8"
+: "Hei, kamu. Senang melihatmu!$1",
+"Mon10"
+: "Kapan-kapan aku mau mendaki ke puncak! Kita juga bisa berpiknik sekalian!$9#$e#Oh! Dan kita bisa gandengan tangan",
+"Tue"
+: "K-Kamu mau apa?$2#$e#Oh. Cuma menyapa? Em...$2#$b#Hai.$0",
+"Tue2"
+: "Apa kamu ngobrol dengan Emily dan Haley belakangan ini? Aku mau mengunjungi mereka.$0#$e#Mereka bersua adalah teman yang baik.$1",
+"Tue6"
+: "Emily baik dan kadang memberiku kain premium.$1#$e#Aku juga harus membalas kebaikannya!$9",
+"Tue10"
+: "Em. Bagaimana harimu, konyol?$1#$e#Hariku lebih mendingan karena ada kamu disini!$9#$e#%Kamu mencium Sophia. Dia senyum padamu.",
+"Wed"
+: "Aku lapar...$2#$e#Nanti beli camilan saja.$1",
+"Wed4"
+: "Temanku, Scarlett, akan berkunjung. Aku suka bertemu dia, dia yang terbaik.$9", 
+"Wed10"
+: "@, kamu tampak manis sekali hari ini.$4#$e#%Kamu memeluk Sophia. Dia senyum padamu.",
+"Thu"
+: "Aku merasa tidak enak badan hari ini...$2#$e#...$6#$e#M-Maaf. Ini bukan waktu yang tepat.$12#$e#%Sophia menangis...",
+"Thu2"
+: "Em, halo. Kamu mau ngobrol?$0#$e#Em... Apa kamu nonton 'School Girl Wizards'?$1#$e#Oh, tidak? Ya sudah, tidak apa-apa.$2",
+"Thu6"
+: "Bajumu kelihatan cocok. Bahannya dari apa?$1#$e#Oh! Begitu!$9",
+"Thu10"
+: "Aku kepikiran ingin berwisata bersama kapan-kapan! Pasti seru keliling dunia bersama.$1#$e#*kecup*$9", 
+"Fri"
+: "Aku ingin terlihat cantik hari ini, jadi aku pakai eyeliner.$0#$b#A-Apa menurutmu sudah bagus?$2#$e#Aww. Makasih.$4",
+"Fri2"
+: "Eek! Bikin kaget saja!$5#$b#Em, Halo.$2#$b#Kamu ingin ngobrol denganku?$0#$e#M-Maaf. A-Aku agak sibuk.$2",
+"Fri4"
+: "Mungkin aku harus beli ternak dari Marnie? Aku butuh binatang imut di hidupku.$1#$e#Hmm... kalau dipikir-pikir, kurasa aku takkan bisa merawatnya sendirian.$2", 
+"Fri8"
+: "Apa di kebunmu ada bayi kelinci? Mereka imut sekali!$9",
+"Fri10"
+: "Apa kamu pernah merasa kesepian di %farm Farm?$0#$e#Oh. Em. Tidak kenapa-napa.$4#$e#%Kamu mengelus kepala Sophia. Dia senyum padamu.",
+"Sat"
+: "Hai.$2#$e#...$2#$e#%Sophia memalingkan wajah.",
+"Sat2"
+: "Andai saja Gus menjual Orange Chicken. Temoat terdekat yang jual itu ada di Grampleton.$0#$e#Aku cinta sam Orange Chicken!$9#$b#Scarlett selalu membawakanku saat dia berkunjung.$1",
+"Sat6"
+: "Hei, kamu! Mau makan bareng di Saloon kapan-kapan?$9#$e#Aku bisa minta diskon ke Gus.$1#$e#%Sophia senyum padamu.",
+"Sat10"
+: "Hei, kamu! Aku cuma ingin ngobrol denganmu setiap hari!$9#$e#Apa kamu keberatan?$2#$e#%Kamu memeluk Sophia. Dia tersipu.",
+"Sun"
+: "O-oh. H-Halo.$2#$b#Em... ada yang bisa dibantu?$0",
+"Sun4"
+: "Aku dan Haley merias bersama hari ini. K-Kurasa hasilnya bagus.$1^Aku dan Haley merias bersama hari ini. Lain kali kamu juga harus ikut!$1#$e#K-Kurasa hasilnya bagus.$9",
+"Sun8"
+: "Hei, kamu! Apa harimu produktif?$1#$e#Kita ngobrol lagi nanti, @.$9^Hei, kamu! Kapan-kapan ayo merias bersama!$1#$e#Kita ngobrol lagi nanti, @.$9",
+"Sun10"
+: "Kita harus bertukar rahasia bisnis kita! Ada bahan khusus yang kupakai untuk membuat Wine khas Blue Moon Vineyard.$1",
 
 
 //SUMMER DIALOGUE
-"summer_1": "Do you know what you're growing this season?$1#$e#It's... already... getting... so... hot.$2",
-"summer_10": "I already know what I'm bringing to the Luau tomorrow.$1#$e#Blue Moon Vineyard Iridium wine!$9",
-"summer_18": "Will I see you at the saloon tomorrow?$1#$e#I'm thinking about going.$9",
-"summer_22": "One of my favorite anime characters has pink hair.$1#$b#I dyed my hair to match hers, and loved it so much I never changed it.$9#$e#Hey, did you know that Abigail never has to dye her hair?$0#$e#I know right? Strange.$0",
-"summer_28": "The moonlight jellyfish are arriving soon. I look forward to it every year.$1#$e#Maybe I should make a jellyfish-inspired costume?$8",
+"summer_1"
+: "Kau sudah tahu mau menanam apa musim ini?$1#$e#Cuacanya... sudah... mulai... panas.$2",
+"summer_10"
+: "Aku sudah tahu mau bawa apa ke Luau besok.$1#$e#Blue Moon Vineyard Iridium Wine!$9",
+"summer_18"
+: "Apa besok kamu akan ke Saloon?$1#$e#Mungkin aku akan kesana besok.$9",
+"summer_22"
+: "Salah satu karakter anime favoritku rambutnya merah muda.$1#$b#Kuwarnai rambutku sepertinya, karena aku suka jadi tidak pernah kuganti lagi.$9#$e#Hei, apa kau tahu kalau Abigail tidak pernah mewarnai rambutnya?$0#$e#Iya kan? Aneh.$0",
+"summer_28"
+: "Ubur-ubur Moonlight akan datang. Aku menantikannya setiap tahun.$1#$e#Mungkin aku akan buat kostum yang terinspirasi dari ubur-ubur.$8",
 
-"summer_Mon": "*sigh* I have no motivation today.$2#$b#Maybe I'll visit Haley and Emily?$0#$e#AHH! W-were you listening to me talk to myself!?$5#$e#%Sophia looks shocked.", 
-"summer_Mon4": "Oh, hi @. Taking a breather from farmwork?#$e#I might take it easy this week. I've been working really hard.$1#$e#Kinda just... wanna eat snacks, to be honest.$2", 
-"summer_Mon8": "Hey, you! Taking a breather from farmwork?$1#$e#I might take it easy this week. I've been working really hard.$9#$e#Kinda just... wanna eat snacks, to be honest.$2",
-"summer_Mon10": "I heard there's a cave on your farm. Do you think you could show me sometime?$1#$e#Yay!$9",
-"summer_Tue": "Do you have a pet? I've always wanted one...$2",
-"summer_Tue4": "I accidentally stepped on a bunny while tending my vineyard. I hope the bun is okay...$2",
-"summer_Tue10": "I've been spending more time with Haley and Emily. They're really good friends.$1",
-"summer_Wed": "...$6#$e#%Sophia is ignoring you. She looks sad.",
-"summer_Wed2": "Gus has been a friend of my family ever since I was little.$0#$b#I like it when he comes to visit.$1",
-"summer_Wed6": "Marnie's baby cows are adorable! They deserve all the pets!$9#$e#I should visit the ranch soon! I wonder how Betcy is doing.$1",
-"summer_Wed10": "It's so hot today. I may go swimming at the beach.$2#$e#Want to go swimming, @?$9",
-"summer_Thu": "...$6#$e#P-please leave me alone...$12#$e#%Sophia turns away from you.",
-"summer_Thu2": "The view from the cliff is my favorite. The ocean goes on all the way into the horizon, it seems like forever.$0#$b#I'd love to see what's on the other side one day.$1",
-"summer_Thu4": "I've never been to the mines before. I'm afraid of what I might find there.$2#$e#Oh? You've gone into the caves!?$5#$b#That's right. You're an adventurer. I'm not that brave...$1",
-"summer_Thu8": "Ms. Jenkins orders wine from me pretty often.$1#$b#I know she has fancy taste, so I'm really happy she likes my wine.$9#$e#I'll see you later, okay?$1",
-"summer_Fri": "H-hello. Nice day, isn't it?$2#$e#...$6",
-"summer_Fri2": "Sometimes I wish I could grow stuff that isn't grapes, but then Blue Moon Vineyard wouldn't... be a vineyard.$0",
-"summer_Fri8": "I'm thinking about having a picnic soon. The weather is perfect for it!$9#$e#Wanna join me sometime? There's a really pretty field of grass by my vineyard.$8",
-"summer_Sat4": "Bleh. I have a stomachache...$2#$e#Maybe it was the candy I ate for breakfast!?$6",
-"summer_Sat8": "People come to the cliff in front of my house pretty often.$0#$e#The view of the Gem Sea is beautiful from that far up. It's a good date spot.$1",
-"summer_Sun": "*sniff*... Ugh. I-I'm ruining my eyeliner...$6#$e#... S-sorry. Now isn't a good time.$6",
-"summer_Sun4": "Do you have any snacks on you? I've been craving something sweet all day.$0",
-"summer_Sun8": "Victor and I don't see each other as often as we used to... I wonder what's up.$2#$e#Hey, I really like it when you visit. Wanna swap farmer stories?$1",
-"summer_Sun10": "I was thinking we could maybe cook dinner together sometime? What do you think?$1#$e#Yay!$9",
+"summer_Mon"
+: "*hahh* Hari ini aku lagi malas.$2#$b#Apa aku ke rumahnya Halay dan Emily saja ya?$0#$e#AHH! K-Kamu mendengarku bicara sendiri ya!?$5#$e#%Sophia terlihat kaget.", 
+"summer_Mon4"
+: "Oh, hai @. Sedang istirahat dari kerja ya?#$e#Mungkin minggu ini aku akan lebih santai. Soalnya aku sudah bekerja sangat keras.$1#$e#Bersantai... sambil makan camilan.$2", 
+"summer_Mon8"
+: "Hey, kamu! Sedang istirahat dari kerja ya?$1#$e#Mungkin minggu ini aku akan lebih santai. Soalnya aku sudah bekerja sangat keras.$1#$e#Bersantai... sambil makan camilan.$2",
+"summer_Mon10"
+: "Kudengar ada gua di kebunmu. Apa kau mau menunjukkan itu padaku?$1#$e#Yey!$9",
+"summer_Tue"
+: "Apa kamu punya peliharaan? Aku selalu ingin punya peliharaan...$2",
+"summer_Tue4"
+: "Aku tidak sengaja menginjak kelinci saat merawat kebunku. Semoga kelincinya baik-baik saja...$2",
+"summer_Tue10"
+: "Aku sering meluangkan waktu bersama Haley dan Emily. Mereka teman yang baik.$1",
+"summer_Wed"
+: "...$6#$e#%Sophia mengabaikanmu. Dia tampak sedih.",
+"summer_Wed2"
+: "Gus sudah dekat sengan keluargaku sejak aku kecil.$0#$b#Aku suka saat dia datang berkunjung.$1",
+"summer_Wed6"
+: "Bayi-bayi sapinya Marnie menggemaskan! Mereka harus dielus-elus!$9#$e#Aku mau ke peternakan nanti! Aku kangen sama si Betcy.$1",
+"summer_Wed10"
+: "Hari ini panas sekali. Mungkin aku akan berenang di pantai.$2#$e#Mu ikut berenang, @?$9",
+"summer_Thu"
+: "...$6#$e#T-Tolong tinggalkan aku...$12#$e#%Sophia memalingkan badan.",
+"summer_Thu2"
+: "Pemandangan dari tebing adalah kesukaanku. Lautnya membentang sampai ke cakrawala, seperti tak ada habisnya.$0#$b#Suatu hari aku ingin melihat ada apa di seberang sana.$1",
+"summer_Thu4"
+: "Aku belum pernah ke tambang. Aku takut dengan apa yang ada di dalam sana.$2#$e#Oh? Kamu pernah ke tambang!?$5#$b#Oh begitu. Kamu seorang petualang. Aku orangnya penakut...$1",
+"summer_Thu8"
+: "Nona Jenkins sering pesan Wine dariku.$1#$b#Aku tahu seleranya tinggi, jadi aku senang dia suka Wine buatanku.$9#$e#Sampai jumpa lagi ya?$1",
+"summer_Fri"
+: "H-halo. Hari ini indah ya?$2#$e#...$6",
+"summer_Fri2"
+: "Kadang aku ingin menanam tanaman selain anggur, tapi kalau begitu Kebun Anggur Blue Moon bukan lagi... jadi kebun anggur.$0",
+"summer_Fri8"
+: "Aku ingin berpiknik. Cuacanya sempurna untuk itu!$9#$e#Mau ikut kapan-kapan? Ada ladang rumput bagus di kebunku.$8",
+"summer_Sat4"
+: "Bleh. Perutku sakit...$2#$e#Mungkin karena permen yang kumakan untuk sarapan!?$6",
+"summer_Sat8"
+: "Orang-orang sering ke tebing dekat rumahku.$0#$e#Pemandangan Gem Sea indah dari atas sana. Spot itu juga cocok buat berduaan.$1",
+"summer_Sun"
+: "*hiks*... Argh. Eyeliner-ku berantakan...$6#$e#... M-Maaf. Sekarang bukan waktu yang pas.$6",
+"summer_Sun4"
+: "Apa kau bawa camilan? Seharian ini aku ingin yang manis-manis.$0",
+"summer_Sun8"
+: "Aku dan Victor sudah jarang bertemu... Entah kenapa.$2#$e#Hei, aku senang sekali saat kamu berkunjung. Mau berbagi cerita berkebun?$1",
+"summer_Sun10"
+: "Mungkin kapan-kapan kita bisa masak makan malam bersama? Bagaimana?$1#$e#Yey!$9",
 
     
 // FALL DIALOGUE
-"fall_1": "So many grapes to harvest this season...$2#$e#O-oh. Um!$5#$b#Good luck to you, @! Have a productive fall!$9",
-"fall_4": "This was the day it happened...$6#$e#...$12#$e#S-Sorry. I-I just need to be alone. I... hope you understand.$12#$e#%Sophia gestures you to leave.",
-"fall_15": "Setting up a grange display tomorrow for the fair?$0#$e#I've been wondering what you've been up to on %farm Farm! Guess I get to see tomorrow!$9#$e#Oh. Well um... I-I better go now. Bye.$0",
-"fall_18": "Gus has ring fruit wine in stock at the saloon. Can't wait to try some tomorrow night.$1#$e#Have you been to the Fern Islands? I've always wanted to go.$0",
-"fall_27": "Spirit's Eve is my favorite festival. The wizard outdoes himself every year with the maze. It's so spooky!$1#$b#Plus, I get to cosplay!$9",
-"fall_28": "It's getting sooo cold. Winter is creeping up on us.$2#$e#The weather channel said there's a snowstorm on its way.$0",
+"fall_1"
+: "Banyak anggur yang harus dipanen musim ini...$2#$e#O-oh. Em!$5#$b#Semoga beruntung, @! Semoga musim gugurmu produktif!$9",
+"fall_4"
+: "Ini hari kejadian itu...$6#$e#...$12#$e#M-Maaf. A-Aku ingin sendiri. Aku... harap kau mengerti.$12#$e#%Sophia menyuruhmu untuk pergi.",
+"fall_15"
+: "Sedang menyiapkan pajangan untuk pekan raya besok ya?$0#$e#Aku penasaran apa saja yang kau siapkan di %farm Farm! Sepertinya aku harus lihat sendiri besok!$9#$e#Oh. Baiklah Em... A-Aku pergi dulu. Da-dah.$0",
+"fall_18"
+: "Gus punya stok Wine Ring Fruit di Saloon. Aku tidak sabar ingin mencobanya besok malam.$1#$e#Apa kamu pernah ke Fern Islands? Aku selalu ingin kesana.$0",
+"fall_27"
+: "Spirit's Eve adalah festival kesukaanku. Penyihir selalu membuat labirin yang bagus. Seram sekali!$1#$b#Ditambah, aku juga bisa ber-cosplay!$9",
+"fall_28"
+: "Cuacanya semakin dingin. Musim dingin mulai terasa.$2#$e#Saluran cuaca bilang akan ada badai salju.$0",
 
-"fall_Mon": "Can you please just go away? I'm not having a great day.$2#$e#P-please?$6#$e#%Sophia looks upset...",
-"fall_Mon4": "Scarlett's visiting soon. She always finds a way to cheer me up.$1#$e#I wish she came over more often. But I understand Grampleton is far away...$2",
-"fall_Mon8": "Hi, @. We should share a bottle of iridium wine soon. I wanna hang out with you and talk.$1#$e#Or better yet, we could watch anime together! The new season of 'Sailor Sun' is debuting soon!$9",
-"fall_Tue": "I'm sooo hungry. Is it time to eat yet?$2",
-"fall_Tue4": "Don't you just love the colors of this season?$1#$b#It's like we're living in a different world.$9",
-"fall_Tue10": "Hey, you! If you want orange chicken sometime, I'll make you some.$1#$e#But not too much of it. You have to save some for me!$9",
-"fall_Wed": "Wh-what do you want?$3#$e#Oh. Sorry. I'm a bit on edge today.$2#$e#You wouldn't understand...$2",
-"fall_Wed6": "I'm planning my next cosplay. I think I wanna be a princess.$1#$e#Not like, a regular princess, a fierce warrior princess! With a gigantic sword, and a flowy red cape!$9", 
-"fall_Thu": "*sniff*... Oh. Hi, @. H-how are you today?$6#$e#O-oh. Me? I-I'm okay.$6#$e#*sniff*...$12#$e#%Sophia is crying.",
-"fall_Thu4": "What do you mean you haven't heard of 'My Villain School'?!$5#$b#It is only one of the most popular animes right now.$9#$b#The main character reminds me of that one other anime from a while ago.$1#$e#The one with the orange ninja?$0",
-"fall_Thu8": "Hey, you! We should watch some anime or read manga together soon!$1",
-"Fall_Fri": "Pelican Town has such a problem with pests. Sometimes I wake up and find my garbage can knocked over.$3#$e#You haven't seen a trash panda around here, have you, @?$2",
-"fall_Fri4": "Have you been to the Zuzu City convention center? It's the largest in the Ferngill Republic.$1#$e#I go for the cosplay and people watching.$9",
-"fall_Fri8": "You know, I could see myself growing something other than grapes some day.$1",
-"fall_Sat": "I-I had some trouble breathing this morning.$2#$e#O-Oh. I'm okay now.$2#$b#I appreciate your concern.$1",
-"fall_Sat6": "Hey, you! Do you ever make your own clothes?$9#$b#Emily has a really good sewing machine. I bet if you asked, she'd let you use it.$1#$e#Oh. You're using it? We should sew something together!$8",
-"fall_Sat10": "Scarlett is visiting me soon! We're going to have dinner together.#$e#Hey, maybe you can join us if you have the time!$9",
-"fall_Sun": "...$6#$e#%Sophia is ignoring you. She looks sad.",
-"fall_Sun4": "The Jenkins are really nice. Sometimes, I sneak an extra bottle of wine into their orders.$1",
-"fall_Sun8": "Wow, it's hard to keep up with you! I need to apply myself more!$9#$e#See you later, @.$1", 
+"fall_Mon"
+: "Bisa tolong pergi? Hariku sedang buruk.$2#$e#K-Kumohon.$6#$e#%Sophia terlihat kesal...",
+"fall_Mon4"
+: "Scarlett akan berkunjung. Dia selalu bisa menghiburku.$1#$e#Andai saja dia lebih sering kesini. Tapi aku sadar kalau Grampleton itu jauh...$2",
+"fall_Mon8"
+: "Hai, @. Kapan-kapan ayo minum sebotol Wine iridium. Aku ingin nongkrong dan ngobrol denganmu.$1#$e#Atau, kita bisa sekalian nonton anime! Musim baru 'Sailor Sun' segera debut!$9",
+"fall_Tue"
+: "Aku lapaaar banget. Sudah jam makan belum?$2",
+"fall_Tue4"
+: "Warna di musim ini sangat bagus.$1#$b#Rasanya seperti berada di dunia yang berbeda.$9",
+"fall_Tue10"
+: "Hei, kamu! Kalau mau Orange Chicken, akan kubuatkan.$1#$e#Tapi jangan banyak-banyak. Sisakan juga buatku!$9",
+"fall_Wed"
+: "M-Mau apa kamu?$3#$e#Oh. Maaf. Aku agak gelisah hari ini.$2#$e#Kau tidak akan mengerti...$2",
+"fall_Wed6"
+: "Aku sedang merencanakan cosplay-ku berikutnya. Kurasa aku akan jadi tuan putri.$1#$e#Bukan tuan putri biasa, tapi tuan putri yang gagah berani! Dengan pedang raksasa, dan jubah merah!$9", 
+"fall_Thu"
+: "*hiks*... Oh. Hai, @. A-Apa kabar?$6#$e#O-oh. Aku? A-Aku t=baik-baik saja.$6#$e#*hiks*...$12#$e#%Sophia menangis.",
+"fall_Thu4"
+: "Apa? Kamu belum pernah dengar soal 'My Villain School'?!$5#$b#Itu anime terpopuler saat ini.$9#$b#Karakter utamanya mengingatkanku pada anime lain.$1#$e#Yang ada ninja oranye nya?$0",
+"fall_Thu8"
+: "Hei, kamu! Kapan-kapan ayo nonton anime atau baca manga!$1",
+"Fall_Fri"
+: "Pelican Town punya masalah hama. Kadang setelah bangun tidur aku lihat tong sampahku jatuh.$3#$e#Kamu tidak lihat rakun di sekitar sini, @?$2",
+"fall_Fri4"
+: "Apa kamu pernah ke pusat konvensi Zuzu City? Disana yang terbesar di Ferngill Republic.$1#$e#Aku kesana untuk cosplay dan melihat orang-orang.$9",
+"fall_Fri8"
+: "Kau tahu, mungkin kelak aku akan menanam tanaman selain anggur.$1",
+"fall_Sat"
+: "A-Aku kena asma pagi ini.$2#$e#O-Oh. Sekarang aku sudah tidak apa-apa.$2#$b#Terima kasih sudah krsamahawatir.$1",
+"fall_Sat6"
+: "Hei, kamu! Apa kau pernah membuat bajumu sendiri?$9#$b#Emily punya mesin jahit yang bagus. Kalau kau minta, dia pasti akan meminjamkannya.$1#$e#Oh. Kau sudah memakainya? Kalau begitu ayo menjahit bersama!$8",
+"fall_Sat10"
+: "Scarlett akan berkunjung! Kami akan makan malam bersama.#$e#Hei, kalau senggang ikutlah bergabung!$9",
+"fall_Sun"
+: "...$6#$e#%Sophia mengabaikanmu. Dia kelihatan sedih.",
+"fall_Sun4"
+: "Keluarga Jenkins sangat baik. Kadang aku menambah Wine gratis di pesanan mereka secara diam-diam.$1",
+"fall_Sun8"
+: "Wow, sulit bisa mengimbangimu! Sepertinya aku harus lebih berusaha lagi!$9#$e#Sampai ketemu lagi, @.$1", 
         
 
 //WINTER DIALOGUE    
-"winter_1": "Brr! It's freezing.$2#$e#I actually enjoy winter, believe it or not. Gives me an excuse to watch anime and work on my new cosplay all day!$9",
-"winter_7": "I don't really wanna go that far into the forest to see the ice fishing contest.$0#$e#Why can't I just stay home and watch anime?$2",
-"winter_13": "Emily and I might do a duo cosplay together!$1",
-"winter_18": "I'll be at the saloon tomorrow night. Gus is making my favorite meal!$1#$e#It's orange chicken! What else would it be?$9",
-"winter_24": "I have the perfect gift for her tomorrow!$8#$e#I actually put a lot of thought into it.$1",
-"winter_25": "Love the lights during this time of year. I wish they could stay forever.$1",
-"winter_28": "Do you know what you're planting once the ice thaws out?$1#$e#O-oh. Me!? Um.$2#$b#Same thing as always. Grapes!$1",
+"winter_1"
+: "Brr! Dingiiin.$2#$e#Sebenarnya, aku suka musim dingin. Aku bisa nonton anime dan menyiapkan cosplay-ku sepanjang hari!$9",
+"winter_7"
+: "Sebenarnya aku tidak mau ke dalam hutan untuk lihat lomba memancing.$0#$e#Kenapa aku tidak boleh di rumah saja sambil nonton anime?$2",
+"winter_13"
+: "Aku dan Emily mungkin akan membuat duet cosplay!$1",
+"winter_18"
+: "Besok malam aku akan ke Saloon. Gus membuat makanan favoritku!$1#$e#Orange Chicken! Memangnya apa lagi?$9",
+"winter_24"
+: "Aku punya hadiah sempurna untuk dia besok!$8#$e#Aku sudah memikirkannya dengan baik-baik.$1",
+"winter_25"
+: "Aku suka dengan cahaya di musim ini. Andai saja setiap hari seperti ini.$1",
+"winter_28"
+: "Apa kau sudah tahu mau menanam apa setelah esnya meleleh?$1#$e#O-oh. Aku!? Em.$2#$b#Sama seperti biasanya. Anggur!$1",
 
-"winter_Mon": "Should I work on cosplay or watch anime today? Hmm...$0#$e#How about both?$1",
-"winter_Mon10": "It's so so cold today. Sometimes I wish my house had a fireplace.$2#$e#Hey, we could maybe snuggle together by yours? Maybe roast marshmallows!$1",
-"winter_Tue": "*sniff*...$6#$e#I-I'm not in the mood. Sorry.$6",
-"winter_Tue6": "I went to a comic con last season in Zuzu City, @. Dressing up was so much fun!$9#$b#Everyone at the event looked amazing! I wonder what I should cosplay as next year.$1",
-"winter_Tue10": "You're looking cute today, silly.$4#$e#*smooch*$9#$e#%You lock eyes with Sophia. She turns away and blushes.",
-"winter_Wed": "I just want to sleep all day, eat snacks, and watch anime.$2#$e#Ugh. Maybe I can get away with it this weekend.$3",
-"winter_Wed4": "My favorite character in my tv show passed away last night. I'm so upset.$2#$b#I feel like locking myself in my room for the rest of the day.$6",
-"winter_Wed8": "This cold weather makes me want to snuggle up in bed all day with peppermint hot chocolate.$9#$e#H-hey. We could always watch something together. Maybe?$1",
-"winter_Wed10": "We should stop by the saloon soon and grab something to eat!$1#$e#You can guess what I'd get!$1#$e#Of course it's orange chicken, silly!$9",
-"winter_Thu": "Almost slipped on ice today.$2#$e#Maybe investing in some proper snow boots is in order.$3",
-"winter_Thu6": "Emily is sewing a gorgeous outfit. She's taught me a thing or two.$1#$e#I have more free time during the winter season to focus on hobbies. You do too, right?$9",
-"winter_Thu10": "Hey, it's my favorite person!$9#$e#Come closer.$4#$e#*smooch*$9",
-"winter_Fri": "Um, hi.$0#$b#Have anything planned for the weekend?$1#$e#I need to finish my show.$0",
-"winter_Fri4": "Fresh snow is covering everything. I love it!$1#$e#The crunchy sound snow makes when you walk in it is so satisfying!$9",
-"winter_Fri8": "Would people judge me if I carried my blanket around with me?$0#$e#O-oh. They would?$2#$b#Maybe I'll put on another layer instead.$9",
-"winter_Fri10": "Wanna have a snowball fight sometime?$1#$b#I bet I'd win!$9#$e#%You explain to Sophia there's no possible way she could win.#$e#Is that a challenge, silly?$4",
-"winter_Sat": "I ran out of snacks. Must get more.$3#$e#Do you have any on you?$1",
-"winter_Sat4": "Do you want to hear a joke? What do you call cheese that isn't yours?$1#$e#Nacho cheese!$8#$e#Now I'm hungry...$2",
-"winter_Sat8": "Hey, you! Do anything fun today?$9#$e#I made a huge breakthrough on my cosplay this morning. Artist's block, no more!$1",
-"winter_Sat10": "I-I don't feel so good today.$2#$e#Huh?$0#$e#%You hug Sophia.#$e#Th-thanks.$1#$b#You know, You really make me happy. Um. Maybe we could...$2#$e#Gah. Nevermind. It's nothing.$1#$e#%You hug Sophia.",
-"winter_Sun": "It's f-freezing t-today...$2",
-"winter_Sun6": "My makeup skills are improving! Practice makes perfect.$1#$e#Since moving to Stardew Valley, have you learned any new stuff?$1#$e#Ooh! That's really impressive!$9",
-"winter_Sun10": "I've been thinking about what it'd be like to live somewhere else.$1#$e#It'd be a new adventure.$9",
+"winter_Mon"
+: "Aku harus menyiapkan cosplay atau nonton anime hari ini? Hmm...$0#$e#Bagaimana kalau semuanya?$1",
+"winter_Mon10"
+: "Hari ini dingin sekali. Kadang aku berharap di rumahku ada perapian.$2#$e#Hei, mungkin kita bisa pakai punyamu? Sambil membakar marshmallow!$1",
+"winter_Tue"
+: "*hiks*...$6#$e#Suasana hatiku sedang buruk. Maaf.$6",
+"winter_Tue6"
+: "Musim dingin lalu aku ke comic-con di Zuzu City, @. Cosplay itu menyenangkan!$9#$b#Semua orang di acara itu keren-keren! Aku harus cosplay apa lagi ya untuk tahun depan?$1",
+"winter_Tue10"
+: "Kamu tampak manis hari ini, konyol.$4#$e#*kecup*$9#$e#%Kamu menatap mata Sophia. Dia berbalik dan tersipu.",
+"winter_Wed"
+: "Aku cuma ingin tiduran, makan camilan, dan nonton anime seharian ini.$2#$e#Argh. Nanti sajalah di akhir pekan.$3",
+"winter_Wed4"
+: "Karakter acara TV favoritku meninggal kemarin. Aku sangat sedih.$2#$b#Aku ingin mengunci diri di rumah sepanjang hari.$6",
+"winter_Wed8"
+: "Cuaca dingin ini membuatku ingin meringkuk di ranjang seoanjang hari dengan minum cokelat peppermint panas.$9#$e#H-hei. Atau mungkin kamu mau nonton sesuatu bersama?$1",
+"winter_Wed10"
+: "Ayo pergi ke Saloon dan makan sesuatu!$1#$e#Kamu tahulah aku mau makan apa!$1#$e#Tentu saja Orange Chicken, konyol!$9",
+"winter_Thu"
+: "Aku hampir terpeleset es tadi.$2#$e#Mungkin aku akan beli sepatu salju yang bagus.$3",
+"winter_Thu6" //wayahe iki
+: "Emily sedang membuat baju yang indah. Dia mengajariku beberapa hal.$1#$e#I have more free time during the winter season to focus on hobbies. You do too, right?$9",
+"winter_Thu10"
+: "Hey, it's my favorite person!$9#$e#Come closer.$4#$e#*smooch*$9",
+"winter_Fri"
+: "Um, hi.$0#$b#Have anything planned for the weekend?$1#$e#I need to finish my show.$0",
+"winter_Fri4"
+: "Fresh snow is covering everything. I love it!$1#$e#The crunchy sound snow makes when you walk in it is so satisfying!$9",
+"winter_Fri8"
+: "Would people judge me if I carried my blanket around with me?$0#$e#O-oh. They would?$2#$b#Maybe I'll put on another layer instead.$9",
+"winter_Fri10"
+: "Wanna have a snowball fight sometime?$1#$b#I bet I'd win!$9#$e#%You explain to Sophia there's no possible way she could win.#$e#Is that a challenge, silly?$4",
+"winter_Sat"
+: "I ran out of snacks. Must get more.$3#$e#Do you have any on you?$1",
+"winter_Sat4"
+: "Do you want to hear a joke? What do you call cheese that isn't yours?$1#$e#Nacho cheese!$8#$e#Now I'm hungry...$2",
+"winter_Sat8"
+: "Hey, you! Do anything fun today?$9#$e#I made a huge breakthrough on my cosplay this morning. Artist's block, no more!$1",
+"winter_Sat10"
+: "I-I don't feel so good today.$2#$e#Huh?$0#$e#%You hug Sophia.#$e#Th-thanks.$1#$b#You know, You really make me happy. Um. Maybe we could...$2#$e#Gah. Nevermind. It's nothing.$1#$e#%You hug Sophia.",
+"winter_Sun"
+: "It's f-freezing t-today...$2",
+"winter_Sun6"
+: "My makeup skills are improving! Practice makes perfect.$1#$e#Since moving to Stardew Valley, have you learned any new stuff?$1#$e#Ooh! That's really impressive!$9",
+"winter_Sun10"
+: "I've been thinking about what it'd be like to live somewhere else.$1#$e#It'd be a new adventure.$9",
 
 //SOPHIA 7 HEART EVENT DIALOGUE
-"sophia_event1": "T-Terima kasih.$1#$b#Aku harus belajar banyak hal baru. Dan rasanya sulit sekali di awal, tapi...$2#$b#Aku juga merasa diriku ikut berkembang.$1",
-"sophia_event2": "Aww. Kamu manis sekali.$9#$b#Kau tahu, Scarlett biasanya menelponku setiap hari!#$b#Senang rasanya... punya teman yang rumahnya dekat sepertimu. Grampleton itu jauh sekali.$2",
-"sophia_event3": "Kamu beneran mau membantuku?$1#$b#!!!$9",
-"sophia_event4": "Emm. I-Iya...?$2#$b#Tadinya aku ingin memberimu sebotol Aged Blue Moon Wine.$2#$b#Emm. Terima kasih sudah mau membantuku.$1#$b#!!!$9",
-"sophia_event5": "Ooo. Emang biasanya kita makan apa?$1#$b#Oke!$9",
-"sophia_event6": "Oke, tapi ini kejutan ya? Jangan ngintip!$9",
-"sophia_event7": "Aku lagi pengen makan Pancake dan Hashbrown!$1",
+"sophia_event1"
+: "T-Terima kasih.$1#$b#Aku harus belajar banyak hal baru. Dan rasanya sulit sekali di awal, tapi...$2#$b#Aku juga merasa diriku ikut berkembang.$1",
+"sophia_event2"
+: "Aww. Kamu manis sekali.$9#$b#Kau tahu, Scarlett biasanya menelponku setiap hari!#$b#Senang rasanya... punya teman yang rumahnya dekat sepertimu. Grampleton itu jauh sekali.$2",
+"sophia_event3"
+: "Kamu beneran mau membantuku?$1#$b#!!!$9",
+"sophia_event4"
+: "Emm. I-Iya...?$2#$b#Tadinya aku ingin memberimu sebotol Aged Blue Moon Wine.$2#$b#Emm. Terima kasih sudah mau membantuku.$1#$b#!!!$9",
+"sophia_event5"
+: "Ooo. Emang biasanya kita makan apa?$1#$b#Oke!$9",
+"sophia_event6"
+: "Oke, tapi ini kejutan ya? Jangan ngintip!$9",
+"sophia_event7"
+: "Aku lagi pengen makan Pancake dan Hashbrown!$1",
 }
