@@ -1,189 +1,100 @@
 {
   //SPECIAL DIALOGUE
-  "patio_Victor"
-  : "Ini hari yang indah.$1",
-  "spouseRoom_Victor"
-  : "Hai, sayang. Aku pinjam beberapa buku dari perpustakaan. Pengetahuan tentang Elf dan Dwarf sangat menarik.$1#$e#Aku sayang kamu!$4",
-  "funReturn_Victor"
-  : "Hei! Bagaimana harimu?$1#$b#Aku tadi keliling kebun dan kota. Omong-omong, ibuku titip salam! Dia ingin kamu mampir kesana.$3",
-  "funLeave_Victor"
-  : "Aku ada urusan hari ini. Apa kau mau titip sesuatu?$1",
-  "OneKid_0"
-  : "Apa menurutmu %kid1 akan tumbuh jadi petani sepertimu?$1#$e#Aku ingin %farm Farm jadi warisan keluarga.$3",
-  "OneKid_1"
-  : "Melihat %kid1 bermain pagi ini membuatku bahagia.$3#$e#Membuatku teringat kalau keputusan yang kuambil selama hidup berujung ke momen ini.$1#$b#Kita berkeluarga, @. Bersama.$4#$e#Aku sangat mencintaimu, dan itu takkan berubah.$4",
-  "OneKid_2"
-  : "Aku beli makanan bayi lagi di Pierre tempo hari, sayang.$3#$e#Kamu tidak usah cemas! Lanjutkan saja aktivitasmu.$1#$e#Semuanya sudah aman!$1" ,
-  "OneKid_3"
-  : "Ibu mau mampir untuk lihat %kid1. Tidak apa-apa kan?$3#$e#Aku senang. Kalau begitu akan kuberitahu dia!$1",
-  "OneKid_4"
-  : "Tadi %kid1 melempar mainan ke arahku. Untungnya refleksku seperti ninja, jadi bisa kuhindari.$0#$e#Oke. Aku akan jujur. Mainannya kena aku dan refleksku lambat.$2",
-  "TwoKids_0"
-  : "Aku senang %kid2 dan %kid1 bisa rukun.$1#$b#Pasti akan merepotkan kalau mereka tidak bisa rukun.$0",
-  "TwoKids_1"
-  : "Lihatlah keluarga kita ini. Kita berhasil!$4#$e#Aku belum pernah sebahagia ini dalam hidupku. Aku sangat mencintaimu, @.$4",
-  "TwoKids_2"
-  : "%kid2 bisa memecahkan teka-teka kemarin, @.$7#$b#Kurasa %kid2 akan jadi insinyur atau arsitek hebat di masa depan.$3#$e#Teka-tekinya? Itu cuma mainan... meletakkan balok bintang ke lubang berbentuk bintang tapi... Kamu tahulah maksudku.$0",
-  "TwoKids_3"
-  : "%kid2 dan %kid1 memberantakkan kamar mereka pagi ini. Itu umm... berantakan sekali.$0#$e#Jangan khawatir, @. Aku sudah bereskan semuanya.$1",
-  "TwoKids_4"
-  : "Aku beli popok lagi untuk %kid1 dan %kid2. Kamu tidak perlu cemas soal itu, @!$3#$e#Aku sayang kamu!$4",
+  "patio_Victor": "Ini hari yang indah.$1",
+  "spouseRoom_Victor": "Hai, sayang. Aku pinjam beberapa buku dari perpustakaan. Pengetahuan tentang Elf dan Dwarf sangat menarik.$1#$e#Aku sayang kamu!$4",
+  "funReturn_Victor": "Hei! Bagaimana harimu?$1#$b#Aku tadi keliling kebun dan kota. Omong-omong, ibuku titip salam! Dia ingin kamu mampir kesana.$3",
+  "funLeave_Victor": "Aku ada urusan hari ini. Apa kau mau titip sesuatu?$1",
+  "OneKid_0": "Apa menurutmu %kid1 akan tumbuh jadi petani sepertimu?$1#$e#Aku ingin %farm Farm jadi warisan keluarga.$3",
+  "OneKid_1": "Melihat %kid1 bermain pagi ini membuatku bahagia.$3#$e#Membuatku teringat kalau keputusan yang kuambil selama hidup berujung ke momen ini.$1#$b#Kita berkeluarga, @. Bersama.$4#$e#Aku sangat mencintaimu, dan itu takkan berubah.$4",
+  "OneKid_2": "Aku beli makanan bayi lagi di Pierre tempo hari, sayang.$3#$e#Kamu tidak usah cemas! Lanjutkan saja aktivitasmu.$1#$e#Semuanya sudah aman!$1" ,
+  "OneKid_3": "Ibu mau mampir untuk lihat %kid1. Tidak apa-apa kan?$3#$e#Aku senang. Kalau begitu akan kuberitahu dia!$1",
+  "OneKid_4": "Tadi %kid1 melempar mainan ke arahku. Untungnya refleksku seperti ninja, jadi bisa kuhindari.$0#$e#Oke. Aku akan jujur. Mainannya kena aku dan refleksku lambat.$2",
+  "TwoKids_0": "Aku senang %kid2 dan %kid1 bisa rukun.$1#$b#Pasti akan merepotkan kalau mereka tidak bisa rukun.$0",
+  "TwoKids_1": "Lihatlah keluarga kita ini. Kita berhasil!$4#$e#Aku belum pernah sebahagia ini dalam hidupku. Aku sangat mencintaimu, @.$4",
+  "TwoKids_2": "%kid2 bisa memecahkan teka-teka kemarin, @.$7#$b#Kurasa %kid2 akan jadi insinyur atau arsitek hebat di masa depan.$3#$e#Teka-tekinya? Itu cuma mainan... meletakkan balok bintang ke lubang berbentuk bintang tapi... Kamu tahulah maksudku.$0",
+  "TwoKids_3": "%kid2 dan %kid1 memberantakkan kamar mereka pagi ini. Itu umm... berantakan sekali.$0#$e#Jangan khawatir, @. Aku sudah bereskan semuanya.$1",
+  "TwoKids_4": "Aku beli popok lagi untuk %kid1 dan %kid2. Kamu tidak perlu cemas soal itu, @!$3#$e#Aku sayang kamu!$4",
   
   //SEASONAL DIALOGUE
-  "spring_Victor"
-  : "Musim semi di Stardew Valley indah. Tidak terlalu panas atau terlalu dingin.$1#$e#Cuacanya di musim ini sempurna. Bahkan hujan saja membuatnya terasa bersih.$0",
-  "spring_1"
-  : "Aku mencium aroma segar bunga dan serbuk sari. Musim semi tiba, sayang!$1#$e#Aku yakin panen kita akan fantastis tahun ini!$3",
-  "spring_13"
-  : "Apa kamu akan ikut berburu telur hari ini?$3#$b#Semoga kamu bisa mengalahkan Abigail. Dia juara bertahan, jadi senang bisa melihatnya kalah dari seseorang.$1",
-  "spring_24"
-  : "Aku harus pakai setelan terbaikku untuk Flower Dance!$1#$b#Senang melihat semuanya menari dengan membawa keranjang bunga yang indah.$1",
-  "summer_Victor"
-  : "Aku ingin es krim mint chocolate chip!$1#$b#Ayo pergi ke stan es krim Alex di dekat perpustakaan, @.$3",
-  "summer_1"
-  : "Musim panas akhirnya tiba! Cuaca cerah ini membuatku ingin keluar rumah.$1",
-  "summer_11"
-  : "Apa kamu sudah tahu mau memasukkan apa ke sup hari ini, @?$3#$b#Apapun itu, aku yakin supnya akan lebih enak!$2#$e#Asalkan bukan jamur. Aku benci jamur.$6",
-  "summer_28"
-  : "Nanti malam ayo bergandengan tangan di dermaga sambil melihat ubur-ubur moonlight.$4",
-  "fall_Victor"
-  : "Belakangan ini aku ingin pai labu. Mungkin nanti aku akan ke Pierre untuk beli bahan-bahannya.$0#$e#Itu akan jadi hidangan penutup yang pas untuk makan malam.$1",
-  "fall_1"
-  : "Ah, musim gugur! Musim favoritku! Aku senang keliling kota saat cuaca dingin.$1#$e#Warna-warna di lembah tampak semakin indah setiap tahun.$3",
-  "fall_16"
-  : "Semoga beruntung dengan pajanganmu di Stardew Valley Fair!$3#$b#Kamu pasti bisa mengalahkan Pierre. Aku bisa merasakannya!$1",
-  "fall_27"
-  : "Selamat hari seram, sayang! Kalau kita bergandengan tangan, mungkin tahun ini aku berani melewati monster di labirin!$1",
-  "winter_Victor"
-  : "Beritahu aku kalau ingin main lempar salju, @. Aku tidak akan mengalah padamu!$3#$e#Oke, mungkin aku akan mengalah sesekali.$4",
-  "winter_1"
-  : "Badai salju semalam menyelimuti seluruh lembah. Pakailah pakaian tebal ya?$6#$e#Kalau kamu pilek selama musim dingin, aku akan merawatmu.$3",
-  "winter_8"
-  : "Hari ini lomba memancing, @.$1#$b#Kita harus segera berangkat agar bisa kesana bersama yang lain!$1",
-  "winter_12"
-  : "Kita harus membuat manusia salju! Pasti akan bagus untuk halaman belakang kita.$1",
-  "winter_25"
-  : "Selamat Winter Star, sayang. Aku punya hadiah istimewa untukmu di rumah.$4#$e#Aku tidak bisa memberitahumu.$1#$b#Kamu pasti suka. Janji deh!$4",
+  "spring_Victor": "Musim semi di Stardew Valley indah. Tidak terlalu panas atau terlalu dingin.$1#$e#Cuacanya di musim ini sempurna. Bahkan hujan saja membuatnya terasa bersih.$0",
+  "spring_1": "Aku mencium aroma segar bunga dan serbuk sari. Musim semi tiba, sayang!$1#$e#Aku yakin panen kita akan fantastis tahun ini!$3",
+  "spring_13": "Apa kamu akan ikut berburu telur hari ini?$3#$b#Semoga kamu bisa mengalahkan Abigail. Dia juara bertahan, jadi senang bisa melihatnya kalah dari seseorang.$1",
+  "spring_24": "Aku harus pakai setelan terbaikku untuk Flower Dance!$1#$b#Senang melihat semuanya menari dengan membawa keranjang bunga yang indah.$1",
+  "summer_Victor": "Aku ingin es krim mint chocolate chip!$1#$b#Ayo pergi ke stan es krim Alex di dekat perpustakaan, @.$3",
+  "summer_1": "Musim panas akhirnya tiba! Cuaca cerah ini membuatku ingin keluar rumah.$1",
+  "summer_11": "Apa kamu sudah tahu mau memasukkan apa ke sup hari ini, @?$3#$b#Apapun itu, aku yakin supnya akan lebih enak!$2#$e#Asalkan bukan jamur. Aku benci jamur.$6",
+  "summer_28": "Nanti malam ayo bergandengan tangan di dermaga sambil melihat ubur-ubur moonlight.$4",
+  "fall_Victor": "Belakangan ini aku ingin pai labu. Mungkin nanti aku akan ke Pierre untuk beli bahan-bahannya.$0#$e#Itu akan jadi hidangan penutup yang pas untuk makan malam.$1",
+  "fall_1": "Ah, musim gugur! Musim favoritku! Aku senang keliling kota saat cuaca dingin.$1#$e#Warna-warna di lembah tampak semakin indah setiap tahun.$3",
+  "fall_16": "Semoga beruntung dengan pajanganmu di Stardew Valley Fair!$3#$b#Kamu pasti bisa mengalahkan Pierre. Aku bisa merasakannya!$1",
+  "fall_27": "Selamat hari seram, sayang! Kalau kita bergandengan tangan, mungkin tahun ini aku berani melewati monster di labirin!$1",
+  "winter_Victor": "Beritahu aku kalau ingin main lempar salju, @. Aku tidak akan mengalah padamu!$3#$e#Oke, mungkin aku akan mengalah sesekali.$4",
+  "winter_1": "Badai salju semalam menyelimuti seluruh lembah. Pakailah pakaian tebal ya?$6#$e#Kalau kamu pilek selama musim dingin, aku akan merawatmu.$3",
+  "winter_8": "Hari ini lomba memancing, @.$1#$b#Kita harus segera berangkat agar bisa kesana bersama yang lain!$1",
+  "winter_12": "Kita harus membuat manusia salju! Pasti akan bagus untuk halaman belakang kita.$1",
+  "winter_25": "Selamat Winter Star, sayang. Aku punya hadiah istimewa untukmu di rumah.$4#$e#Aku tidak bisa memberitahumu.$1#$b#Kamu pasti suka. Janji deh!$4",
   
   //DAY DIALOGUE
-  "Indoor_Day_Victor"
-  : "Aku bingung mau apa hari ini.$1#$e#Mungkin memulai buku baru?$3",
-  "Indoor_Day_0"
-  : "Hai, sayang! Bagaimana kabarmu hari ini?$1#$b#Aku bingung mau bermain vidio gim, melanjutkan baca buku, atau mengerjakan proyek.$0#$e#Akan kuputuskan nantu. Semoga kerjamu hari ini menyenangkan!$1",
-  "Indoor_Day_1"
-  : "Aku lapar. Ada apa ya di lemari es... Semoga ada spageti!$3#$e#Aku tidak pernah bosan sama spageti.$1",
-  "Indoor_Day_2"
-  : "Aku lagi merasa produktif, jadi aku bersih-bersih rumah. Tak ada setitik debu pun!$1#$e#Kalau ketemu debu, akan kubasmi itu kemocengku!$5",
-  "Indoor_Day_3"
-  : "Kamu bekerja sangat keras akhir-akhir ini.$3#$b#Aku mau memberimu uang untuk beli minuman di Saloon.[336]$1#$e#Kamu pantas mendapatkannya. Aku mencintaimu.$4",
-  "Indoor_Day_4"
-  : "Tinggal di pertanian bersamamu adalah pengalaman yang ajaib.$3#$b#Semoga kamu juga merasa begitu, sayang.$1#$e#Mari kita jadikan hari ini lebih baik dari kemarin.$1",
-  "Outdoor_Victor"
-  : "Aku beli Energy Tonic dari Dokter Harvey untukmu.$1#$b#Ini akan menambah energimu agar pekerjaanmu bisa mudah diselesaikan.[349]$1#$e#Semoga harimu menyenangkan!$3",
-  "Outdoor_0"
-  : "Sesekali keluar itu baik, meski aku ada pekerjaan yang harus kuselesaikan.$3",
-  "Outdoor_1"
-  : "Kakekmu beruntung bisa beli tanah seluas ini di Stardew Valley.$0#$b#Kalau sekarang mustahil beli tanah seluas ini, kecuali kamu punya puluhan juta.$6#$e#Aku senang kamu memutuskan untuk mencoba bertani daripada menjual tanahnya, @!$1",
-  "Outdoor_2"
-  : "Hai, sayang. Aku sedang cari angin. Semoga aku tidak mengganggu pekerjaanmu!$1#$e#Porsi pelukan kita harus ditambah malam ini!$4",
-  "Outdoor_3"
-  : "Senang melihatmu di sini.$3#$e#Aku sedang melamun.$1",
-  "Outdoor_4"
-  : "Aku senang melihat kebun dari teras. Kemajuan yang kau buat sudah banyak.$3#$e#Kamu harus bangga!$1",
-  "Rainy_Day_0"
-  : "Karena ini hujan, sebaiknya aku melanjutkan novel yang belum selesai kubaca.$0#$e#Hei, ada rahasia yang ingin kuberitahukan padamu.$3#$e#Kamu adalah hal favoritku. Aku sayang kamu.$4 #$e#Eh... agak gombal ya? Tapi kamu senyum kan?$3",
-  "Rainy_Day_1"
-  : "Aku suka hujan seperti ini. Aku bisa di rumah terus sepanjang hari.$3",
-  "Rainy_Day_2"
-  : "Kalau kamu keluar, jangan sampai kehujanan. Aku tidak ingin kamu sakit.$6#$e#Kalau kamu sakit, aku akan merawatmu.$1",
-  "Rainy_Day_3"
-  : "Cuaca seperti ini adalah kesempatan sempurna bagiku untuk mengerjakan skema jembatanku.$3#$e#Jangan biarkan cuaca menghentikan apa yang ingin kau lakukan hari ini!$1",
+  "Indoor_Day_Victor": "Aku bingung mau apa hari ini.$1#$e#Mungkin memulai buku baru?$3",
+  "Indoor_Day_0": "Hai, sayang! Bagaimana kabarmu hari ini?$1#$b#Aku bingung mau bermain vidio gim, melanjutkan baca buku, atau mengerjakan proyek.$0#$e#Akan kuputuskan nantu. Semoga kerjamu hari ini menyenangkan!$1",
+  "Indoor_Day_1": "Aku lapar. Ada apa ya di lemari es... Semoga ada spageti!$3#$e#Aku tidak pernah bosan sama spageti.$1",
+  "Indoor_Day_2": "Aku lagi merasa produktif, jadi aku bersih-bersih rumah. Tak ada setitik debu pun!$1#$e#Kalau ketemu debu, akan kubasmi itu kemocengku!$5",
+  "Indoor_Day_3": "Kamu bekerja sangat keras akhir-akhir ini.$3#$b#Aku mau memberimu uang untuk beli minuman di Saloon.[336]$1#$e#Kamu pantas mendapatkannya. Aku mencintaimu.$4",
+  "Indoor_Day_4": "Tinggal di pertanian bersamamu adalah pengalaman yang ajaib.$3#$b#Semoga kamu juga merasa begitu, sayang.$1#$e#Mari kita jadikan hari ini lebih baik dari kemarin.$1",
+  "Outdoor_Victor": "Aku beli Energy Tonic dari Dokter Harvey untukmu.$1#$b#Ini akan menambah energimu agar pekerjaanmu bisa mudah diselesaikan.[349]$1#$e#Semoga harimu menyenangkan!$3",
+  "Outdoor_0": "Sesekali keluar itu baik, meski aku ada pekerjaan yang harus kuselesaikan.$3",
+  "Outdoor_1": "Kakekmu beruntung bisa beli tanah seluas ini di Stardew Valley.$0#$b#Kalau sekarang mustahil beli tanah seluas ini, kecuali kamu punya puluhan juta.$6#$e#Aku senang kamu memutuskan untuk mencoba bertani daripada menjual tanahnya, @!$1",
+  "Outdoor_2": "Hai, sayang. Aku sedang cari angin. Semoga aku tidak mengganggu pekerjaanmu!$1#$e#Porsi pelukan kita harus ditambah malam ini!$4",
+  "Outdoor_3": "Senang melihatmu di sini.$3#$e#Aku sedang melamun.$1",
+  "Outdoor_4": "Aku senang melihat kebun dari teras. Kemajuan yang kau buat sudah banyak.$3#$e#Kamu harus bangga!$1",
+  "Rainy_Day_0": "Karena ini hujan, sebaiknya aku melanjutkan novel yang belum selesai kubaca.$0#$e#Hei, ada rahasia yang ingin kuberitahukan padamu.$3#$e#Kamu adalah hal favoritku. Aku sayang kamu.$4 #$e#Eh... agak gombal ya? Tapi kamu senyum kan?$3",
+  "Rainy_Day_1": "Aku suka hujan seperti ini. Aku bisa di rumah terus sepanjang hari.$3",
+  "Rainy_Day_2": "Kalau kamu keluar, jangan sampai kehujanan. Aku tidak ingin kamu sakit.$6#$e#Kalau kamu sakit, aku akan merawatmu.$1",
+  "Rainy_Day_3": "Cuaca seperti ini adalah kesempatan sempurna bagiku untuk mengerjakan skema jembatanku.$3#$e#Jangan biarkan cuaca menghentikan apa yang ingin kau lakukan hari ini!$1",
   
   //NIGHT DIALOGUE
-  "indoor_Night_Victor"
-  : "Apakah kamu siap untuk tidur? Aku cukup lelah.$0",
-  "Indoor_Night_0"
-  : "Apa harimu produktif?$1#$e#Senang mendengarnya! Kita harus banyak berpelukan malam ini.$4",
-  "Indoor_Night_1"
-  : "Aku menyelesaikan desain kasar jembatan untuk Mayor dari Grampleton hari ini.$3#$b#Hari ini aku harus ke kota untuk menunjukkan hasil kerjaku.$1",
-  "Indoor_Night_2"
-  : "Mendekatlah. Ada yang ingin kukatakan padamu.$0#$e#Kamu yang terbaik. Aku sayang kamu.$4",
-  "Indoor_Night_3"
-  : "Tadi aku mengunjungi ibu. Dia titip salam.$1#$e#Oh, dia juga memberi Wine lagi untuk kita. Kita bisa taruh ini di lemari.[348]$1#$e#... Atau kau bisa memasukkannya ke Shipping Bin. Terserah kamu saja.$0",
-  "Indoor_Night_4"
-  : "Kebun ini lebih gelap dibandingkan dengan Pelican Town.$0#$b#Di kota ada banyak tiang lampu sampai tidak bisa membedakan siang dan malam.$1",
-  "Rainy_Night_Victor"
-  : "Hei! Aku buatkan makan malam. Selamat menikmati, sayang.$1[214 224 228 235 237]",
-  "Rainy_Night_0"
-  : "Apa harimu menyenangkan? Aku tidak sabar mau segera tidur denganmu.$3#$e#Aku sudah menantikannya sejak kamu pergi bekerja!$3",
-  "Rainy_Night_1"
-  : "Akhirnya kamu pulang! Aku sangat merindukanmu hari ini!$1#$e#Jujur, aku sudah merindukanmu begitu kamu pergi.$2",
-  "Rainy_Night_2"
-  : "Aku menyelesaikan sebagian besar perencanaan perbaikan jembatan barat di Grampleton.$1#$e#Semoga Mayor menghargai pekerjaanku.$0#$e#Dia sering melakukannya.$1",
-  "Rainy_Night_3"
-  : "Emm... Ada yang ingin kukatakan tapi aku agak malu...$2#$e#Porsi pelukan kita harus ditambah malam ini, @.$4",
-  "Rainy_Night_4"
-  : "Setelah semua yang kulakukan hari ini, aku sangat lelah.$6#$b#Aku ingin segera tidur.$3#$e#Aku menantikan kamu tidur juga.$1",
+  "indoor_Night_Victor": "Apakah kamu siap untuk tidur? Aku cukup lelah.$0",
+  "Indoor_Night_0": "Apa harimu produktif?$1#$e#Senang mendengarnya! Kita harus banyak berpelukan malam ini.$4",
+  "Indoor_Night_1": "Aku menyelesaikan desain kasar jembatan untuk Mayor dari Grampleton hari ini.$3#$b#Hari ini aku harus ke kota untuk menunjukkan hasil kerjaku.$1",
+  "Indoor_Night_2": "Mendekatlah. Ada yang ingin kukatakan padamu.$0#$e#Kamu yang terbaik. Aku sayang kamu.$4",
+  "Indoor_Night_3": "Tadi aku mengunjungi ibu. Dia titip salam.$1#$e#Oh, dia juga memberi Wine lagi untuk kita. Kita bisa taruh ini di lemari.[348]$1#$e#... Atau kau bisa memasukkannya ke Shipping Bin. Terserah kamu saja.$0",
+  "Indoor_Night_4": "Kebun ini lebih gelap dibandingkan dengan Pelican Town.$0#$b#Di kota ada banyak tiang lampu sampai tidak bisa membedakan siang dan malam.$1",
+  "Rainy_Night_Victor": "Hei! Aku buatkan makan malam. Selamat menikmati, sayang.$1[214 224 228 235 237]",
+  "Rainy_Night_0": "Apa harimu menyenangkan? Aku tidak sabar mau segera tidur denganmu.$3#$e#Aku sudah menantikannya sejak kamu pergi bekerja!$3",
+  "Rainy_Night_1": "Akhirnya kamu pulang! Aku sangat merindukanmu hari ini!$1#$e#Jujur, aku sudah merindukanmu begitu kamu pergi.$2",
+  "Rainy_Night_2": "Aku menyelesaikan sebagian besar perencanaan perbaikan jembatan barat di Grampleton.$1#$e#Semoga Mayor menghargai pekerjaanku.$0#$e#Dia sering melakukannya.$1",
+  "Rainy_Night_3": "Emm... Ada yang ingin kukatakan tapi aku agak malu...$2#$e#Porsi pelukan kita harus ditambah malam ini, @.$4",
+  "Rainy_Night_4": "Setelah semua yang kulakukan hari ini, aku sangat lelah.$6#$b#Aku ingin segera tidur.$3#$e#Aku menantikan kamu tidur juga.$1",
   
   //AFFECTION DIALOGUE
-  "Good_0"
-  : "Aku buatkan makanan enak untukmu! Kamu bisa makan sekarang atau menyimpannya buat nanti.[210]$1",
-  "Good_1"
-  : "Aku mendengar berita %farm Farm pagi ini!$1#$b#Penjualanmu ke Zuzu City merupakan barang kualitas terbaik yang pernah mereka terima selama beberapa tahun!$3#$e#Aku sangat bangga denganmu, sayang !$4",
-  "Good_2"
-  : "%pet mengingatkanku pada kucingku, Dewey.$6#$b#Aku bisa tahu kamu sudah merawat %pet dengan sangat baik.$3",
-  "Good_3"
-  : "Hai, sayang. Ini kuberi uang. Gunakan itu minum di Saloon setelah bekerja keras![336]$1",
-  "Good_4"
-  : "Aku sudah menandai hal penting di buku tulisku.$3#$e#Omong-omong... apakah kamu hal penting dalam buku catatanku?$0#$b#Karena kamu adalah penanda hari-hariku.$4#$e#Heh... agak gombal ya?$1",
-  "Good_5"
-  : "Oh. Ada sesuatu di wajahmu. Biar kuambil.$0#$e#*kecup* Aku sayang kamu!$4",
-  "Good_6"
-  : "Aku sedang mengagumi Mermaid Pendant yang kau berikan padaku.$3#$b#Aku tidak akan pernah melepasnya.$4#$e#Oke, aku akan melepasnya pas mandi, tapi cuma itu saja!$0",
-  "Good_7"
-  : "Aku buat kopi untuk kita. Ini! Minumlah! Aku menuangkannya ke cangkir favoritmu.[395]$1",
-  "Good_8"
-  : "Ibu memberi kita Wine dari gudang bawah tanahnya. Ini Wine antik dari Abeja Vineyard![348]$1#$e#Mungkin kita bisa minum nanti saat makan malam?$3",
-  "Good_9"
-  : "Aku tidak ingin pindah dari Stardew Valley.$0#$b#Aku bisa dapat banyak uang di kota tapi...$2#$b#Aku ingin tinggal di sini bersamamu selamanya.$3# $e#Tidak akan ada yang bisa mengubah keputusan ini.$1",
-  "Neutral_0"
-  : "Aku dapat surel iklan tentang opsi saham Joja.$0#$e#Mungkin itu karena riwayat pencarian ibuku.$0",
-  "Neutral_1"
-  : "Aku ingin memulai lagi The Legend of Lonk hari ini. Ada begitu banyak unsur yang bisa diulangi di game Neendo.$1#$e#Ini... mirip sihir kalau dipikir-pikir.$0#$b#Sesuka aku mendesain jembatan, aku juga suka koding sebagai hobi.$3#$b#Mungkin kelak, aku akan jadi pengembang video game? Tapi aku takkan pernah mengalahkan bakat ConcernedMonkey!$1 ",
-  "Neutral_2"
-  : "Ibu membuatkan kita beberapa kukis! Ini![223]$1#$e#Ini pakai selai cokelat favoritku!$3",
-  "Neutral_3"
-  : "Aku beli beberapa buah dan sayuran segar di Pierre's tempo hari.$3#$b#Dia selalu menjual produk organik terbaik di lembah.$1#$e#Mungkin malam ini kita makan salad buah?$1",
-  "Neutral_4"
-  : "Aku sedang membaca 'The Elemental Wars'.$3#$e#Puluhan ribu Shadow People dan Dwarf berperang sekian ribu tahun yang lalu.$6#$b#Banyak korban berjatuhan dari kedua sisi.$2# $e#Buku ini dikumpulkan dari pengetahuan sejumlah penyihir dari berbagai desa dan kota.$0",
-  "Neutral_5"
-  : "Salah satu laci dapur berderit jadi aku perbaiki.$1#$b$Beri tahu aku kalau ada yang perlu diperbaiki di rumah, sayang!$3",
-  "Neutral_6"
-  : "Aku tidak sengaja pakai sepatu terbalik pagi ini. Pantas kakiku terasa sangat aneh.$0",
-  "Neutral_7"
-  : "Aku pinjam buku ini dari perpustakaan, judulnya 'Goblin Murkers'.$0#$b#Ini buku tentang goblin yang hidup di berbagai tambang di seluruh dunia.$3#$e#Rupanya, beberapa dari mereka pernah tinggal di Stardew Valley di atas Gunung Corneal.$3#$b#Mereka sudah hampir punah. Goblin yang tersisa biasanya jadi pelayan penyihir yang mencoba-coba sihir gelap.$0#$e#Penulis buku ini adalah penyihir berpendidikan tinggi, salah satunya adalah M. Rasmodius.$0",
-  "Neutral_8"
-  : "Aku mau mengunjungi Ibu hari ini. Aku yakin dia suka kejutan.$1",
-  "Neutral_9"
-  : "Entah kenapa, tapi akhir-akhir ini aku ingin seklai minum Lunar Horizon.$0#$b#Mungkin nanti malam aku akan ke Saloon setelah pekerjaanku hari ini selesai.$1",
-  "Bad_0"
-  : "Semalam aku mengalami mimpi buruk. Aku tidak... enak badan.$2#$e#Emm... Kita ngobrol lagi nanti malam ya, @.$2",
-  "Bad_1"
-  : "Hei... Kau menyakiti perasaanku semalam dan aku tidak suka itu.$2#$e#Kita bahas itu nanti malam.$2",
-  "Bad_2"
-  : "*hahh*... Ibuku kehilangan uang dalam perdagangan saham dan dia ingin aku kesana.$2#$b#Dia akan mengamuk padaku. Dia orangnya begitu.$0",
-  "Bad_3"
-  : "Apa kita bisa mengobrol serius hari ini?$0#$b#Ini... sesuatu yang serius.$2#$e#Kita akan lanjutkan sepulang kamu kerja.$2",
-  "Bad_4"
-  : "Sepertinya aku sakit tadi malam. Aku merasa mual. Jangan sentuh aku, @.$2#$e#Aku tidak ingin kamu ikut sakit! Aku akan beli obat di Dokter Harvey nanti. $2",
-  "Bad_5"
-  : "Aku lupa menyimpan gim-ku dan kehilangan banyak progre.$2#$b#Aku agak... frustrasi sekarang.$5#$e#Maaf, @... aku... aku sedang tidak ingin bicara. Semoga harimu menyenangkan.$2",
-  "Bad_6"
-  : "Sudah lamu aku terjebak dalam dilema kalkulus, dan aku tidak tahu bagaimana melanjutkannya.$2#$e#Aku... sedang tidak ingin bicara.$2" ,
-  "Bad_7"
-  : "Aku mendengar berita buruk soal Gotoro Empire dan bagaimana mereka memperlakukan tahanan mereka.$2#$e#Mereka... aku...$2#$e#...$2",
-  "Bad_8"
-  : "Hai, @...$2#$e#...$2#$e#%Victor mengabaikanmu.",
-  "Bad_9"
-  : "Semua orang membuat kesalahan. Kau menyakiti perasaanku kemarin dan aku masih sedih.$2#$e#Ini akan... butuh waktu.$2"
+  "Good_0": "Aku buatkan makanan enak untukmu! Kamu bisa makan sekarang atau menyimpannya buat nanti.[210]$1",
+  "Good_1": "Aku mendengar berita %farm Farm pagi ini!$1#$b#Penjualanmu ke Zuzu City merupakan barang kualitas terbaik yang pernah mereka terima selama beberapa tahun!$3#$e#Aku sangat bangga denganmu, sayang !$4",
+  "Good_2": "%pet mengingatkanku pada kucingku, Dewey.$6#$b#Aku bisa tahu kamu sudah merawat %pet dengan sangat baik.$3",
+  "Good_3": "Hai, sayang. Ini kuberi uang. Gunakan itu minum di Saloon setelah bekerja keras![336]$1",
+  "Good_4": "Aku sudah menandai hal penting di buku tulisku.$3#$e#Omong-omong... apakah kamu hal penting dalam buku catatanku?$0#$b#Karena kamu adalah penanda hari-hariku.$4#$e#Heh... agak gombal ya?$1",
+  "Good_5": "Oh. Ada sesuatu di wajahmu. Biar kuambil.$0#$e#*kecup* Aku sayang kamu!$4",
+  "Good_6": "Aku sedang mengagumi Mermaid Pendant yang kau berikan padaku.$3#$b#Aku tidak akan pernah melepasnya.$4#$e#Oke, aku akan melepasnya pas mandi, tapi cuma itu saja!$0",
+  "Good_7": "Aku buat kopi untuk kita. Ini! Minumlah! Aku menuangkannya ke cangkir favoritmu.[395]$1",
+  "Good_8": "Ibu memberi kita Wine dari gudang bawah tanahnya. Ini Wine antik dari Abeja Vineyard![348]$1#$e#Mungkin kita bisa minum nanti saat makan malam?$3",
+  "Good_9": "Aku tidak ingin pindah dari Stardew Valley.$0#$b#Aku bisa dapat banyak uang di kota tapi...$2#$b#Aku ingin tinggal di sini bersamamu selamanya.$3# $e#Tidak akan ada yang bisa mengubah keputusan ini.$1",
+  "Neutral_0": "Aku dapat surel iklan tentang opsi saham Joja.$0#$e#Mungkin itu karena riwayat pencarian ibuku.$0",
+  "Neutral_1": "Aku ingin memulai lagi The Legend of Lonk hari ini. Ada begitu banyak unsur yang bisa diulangi di game Neendo.$1#$e#Ini... mirip sihir kalau dipikir-pikir.$0#$b#Sesuka aku mendesain jembatan, aku juga suka koding sebagai hobi.$3#$b#Mungkin kelak, aku akan jadi pengembang video game? Tapi aku takkan pernah mengalahkan bakat ConcernedMonkey!$1 ",
+  "Neutral_2": "Ibu membuatkan kita beberapa kukis! Ini![223]$1#$e#Ini pakai selai cokelat favoritku!$3",
+  "Neutral_3": "Aku beli beberapa buah dan sayuran segar di Pierre's tempo hari.$3#$b#Dia selalu menjual produk organik terbaik di lembah.$1#$e#Mungkin malam ini kita makan salad buah?$1",
+  "Neutral_4": "Aku sedang membaca 'The Elemental Wars'.$3#$e#Puluhan ribu Shadow People dan Dwarf berperang sekian ribu tahun yang lalu.$6#$b#Banyak korban berjatuhan dari kedua sisi.$2# $e#Buku ini dikumpulkan dari pengetahuan sejumlah penyihir dari berbagai desa dan kota.$0",
+  "Neutral_5": "Salah satu laci dapur berderit jadi aku perbaiki.$1#$b$Beri tahu aku kalau ada yang perlu diperbaiki di rumah, sayang!$3",
+  "Neutral_6": "Aku tidak sengaja pakai sepatu terbalik pagi ini. Pantas kakiku terasa sangat aneh.$0",
+  "Neutral_7": "Aku pinjam buku ini dari perpustakaan, judulnya 'Goblin Murkers'.$0#$b#Ini buku tentang goblin yang hidup di berbagai tambang di seluruh dunia.$3#$e#Rupanya, beberapa dari mereka pernah tinggal di Stardew Valley di atas Gunung Corneal.$3#$b#Mereka sudah hampir punah. Goblin yang tersisa biasanya jadi pelayan penyihir yang mencoba-coba sihir gelap.$0#$e#Penulis buku ini adalah penyihir berpendidikan tinggi, salah satunya adalah M. Rasmodius.$0",
+  "Neutral_8": "Aku mau mengunjungi Ibu hari ini. Aku yakin dia suka kejutan.$1",
+  "Neutral_9": "Entah kenapa, tapi akhir-akhir ini aku ingin seklai minum Lunar Horizon.$0#$b#Mungkin nanti malam aku akan ke Saloon setelah pekerjaanku hari ini selesai.$1",
+  "Bad_0": "Semalam aku mengalami mimpi buruk. Aku tidak... enak badan.$2#$e#Emm... Kita ngobrol lagi nanti malam ya, @.$2",
+  "Bad_1": "Hei... Kau menyakiti perasaanku semalam dan aku tidak suka itu.$2#$e#Kita bahas itu nanti malam.$2",
+  "Bad_2": "*hahh*... Ibuku kehilangan uang dalam perdagangan saham dan dia ingin aku kesana.$2#$b#Dia akan mengamuk padaku. Dia orangnya begitu.$0",
+  "Bad_3": "Apa kita bisa mengobrol serius hari ini?$0#$b#Ini... sesuatu yang serius.$2#$e#Kita akan lanjutkan sepulang kamu kerja.$2",
+  "Bad_4": "Sepertinya aku sakit tadi malam. Aku merasa mual. Jangan sentuh aku, @.$2#$e#Aku tidak ingin kamu ikut sakit! Aku akan beli obat di Dokter Harvey nanti. $2",
+  "Bad_5": "Aku lupa menyimpan gim-ku dan kehilangan banyak progre.$2#$b#Aku agak... frustrasi sekarang.$5#$e#Maaf, @... aku... aku sedang tidak ingin bicara. Semoga harimu menyenangkan.$2",
+  "Bad_6": "Sudah lamu aku terjebak dalam dilema kalkulus, dan aku tidak tahu bagaimana melanjutkannya.$2#$e#Aku... sedang tidak ingin bicara.$2" ,
+  "Bad_7": "Aku mendengar berita buruk soal Gotoro Empire dan bagaimana mereka memperlakukan tahanan mereka.$2#$e#Mereka... aku...$2#$e#...$2",
+  "Bad_8": "Hai, @...$2#$e#...$2#$e#%Victor mengabaikanmu.",
+  "Bad_9": "Semua orang membuat kesalahan. Kau menyakiti perasaanku kemarin dan aku masih sedih.$2#$e#Ini akan... butuh waktu.$2"
 }
