@@ -1,0 +1,62 @@
+{
+  "Name": "Stardew Valley Expanded Patch Bahasa Indonesia",
+  "Author": "FlashShifter, diterjemahkan oleh Ninja Quince",
+  "Version": "1.13.8",
+  "Description": "Sebuah ekspansi buatan penggemar untuk Stardew Valley ciptaan ConcernedApe. Mod ini menambah 25 karakter baru, 32 lokasi, 220 event karakter, 850 pesan lokasi, area bawaan yang dirancang ulang, dua peta kebun, peta dunia yang dirancang ulang sesuai dengan perubahan tersebut, musik baru, quest baru, dan banyak tambahan lainnya!",
+  "UniqueID": "FlashShifter.StardewValleyExpandedCP",
+  "MinimumApiVersion": "3.0",
+  "UpdateKeys": [ "Nexus:3753" ],
+  "ContentPackFor": {
+  "UniqueID": "Pathoschild.ContentPatcher",
+   },
+  "Dependencies": [
+   {
+      "UniqueID": "Platonymous.Toolkit",
+      "IsRequired": true,
+   },
+   {
+      "UniqueID": "Bouhm.NPCMapLocations",
+      "IsRequired": false,
+   },
+   {
+      "UniqueID": "spacechase0.CustomNPCFixes",
+      "IsRequired": true,
+   },
+   {
+      "UniqueID": "Platonymous.CustomMusic",
+      "IsRequired": true,
+   },
+   {
+      "UniqueID": "spacechase0.SpaceCore",
+      "IsRequired": true,
+   },
+   {
+      "UniqueID": "spacechase0.JsonAssets",
+      "IsRequired": true,
+   },
+   {
+      "UniqueID": "Esca.FarmTypeManager",
+      "IsRequired": true,
+   },
+   {
+      "UniqueID": "FlashShifter.StardewValleyExpandedALL",
+      "IsRequired": true,
+   },
+   {
+      "UniqueID": "MoreFish",
+      "IsRequired": false,
+   },
+   {
+      "UniqueID": "Tanpoponoko.SeasonalOutfits",
+      "IsRequired": false,
+   },
+   {
+      "UniqueID": "Gweniaczek.Medieval_Craftables",
+      "IsRequired": false,
+   },
+   {
+      "UniqueID": "Rose.craftables",
+      "IsRequired": false,
+   },
+  ]
+}
