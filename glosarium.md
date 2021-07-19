@@ -61,3 +61,5 @@ stomp: ditumbuk
 bed: ranjang
 trip: wisata
 few days: tempo hari
+fingers: jemari
+finger: jari
