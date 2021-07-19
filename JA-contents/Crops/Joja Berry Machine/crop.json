@@ -1,3 +1,4 @@
+
 {
 	"Name": "Joja Berry Machine",
 	"Product": "Joja Berry",
@@ -15,8 +16,8 @@
 		"MaximumPerHarvest": 1,
 		"MaxIncreasePerFarmLevel": 5,
 		"ExtraChance": 0.15,
-	}
-	"SeedPurchasePrice": 6500,
+	},
+	"SeedPurchasePrice": 1000,
 	"SeedPurchaseFrom": "Zoey",
 	"SeedPurchaseRequirements": ["e 5553210"]
 }
