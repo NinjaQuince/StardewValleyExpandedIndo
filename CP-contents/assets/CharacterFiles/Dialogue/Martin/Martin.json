@@ -1,6 +1,8 @@
 ﻿{
   //SPECIAL DIALOGUE
   "Introduction": "Hei. Kau pemilik baru %farm Farm. Manajerku pernah mengadakan rapat karenamu!$0#$b#Aku bekerja paruh waktu di Joja Mart.$1#$e#Err. Lupakan soal rapatnya. Aku bisa kena masalah.$4",
+  "pamHouseUpgrade": "Apa ibu itu nanti akan lebih baik padaku di tempat kerja?$4",
+  "pamHouseUpgradeAnonymous": "Apa ibu itu nanti akan lebih baik padaku di tempat kerja?$4",
   "Town_92_44": "%'Khusus Karyawan'",
   "BusStop_12_8": "%Supir Bus: Cepat pak, mau naik apa turun?.^%Supir Bus: Cepat bu, mau naik apa turun?",
   "Resort_Entering": "Pulau ini keren!$1",

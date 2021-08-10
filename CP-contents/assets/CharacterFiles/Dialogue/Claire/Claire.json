@@ -1,6 +1,8 @@
 ﻿{
   //SPECIAL DIALOGUE
   "Introduction": "Hai. Aku belum pernah melihatmu...$0#$e#Maaf. Aku... Aku belum begitu mengenalmu.$2#$e#%Claire agak menjaga jarak denganmu.",
+  "pamHouseUpgrade": "Pelican Town hari ini tampak beda...$0#$e#Apa ada rumah baru di lokasi trailer itu?$1",
+  "pamHouseUpgradeAnonymous": "Pelican Town hari ini tampak beda...$0#$e#Apa ada rumah baru di lokasi trailer itu?$1",
   "accept_614": "Oh, teh hijau? Terima kasih.$1",
   "Town_92_44": "%'Khusus Karyawan'",
   "danceRejection": "Oh, kau mau menari denganku? Eng... nanti saja ya?$1",

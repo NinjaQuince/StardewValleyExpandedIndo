@@ -1,7 +1,9 @@
 ﻿
 { 
   //SPECIAL DIALOGUE
-  //Unused: "Introduction": "Anda pasti Tuan @. Senang berkenalan dengan anda.$5^Anda pasti Nona @. Senang berkenalan dengan anda.$5",
+  //"Introduction": "Anda pasti Tuan @. Senang berkenalan dengan anda.$5^Anda pasti Nona @. Senang berkenalan dengan anda.$5",
+  "pamHouseUpgrade": "Aku tidak heran sama sekali saat Robin bilang kamu yang membiayai rumah baru Pam.$1",
+  "pamHouseUpgradeAnonymous": "Desain Robin untuk rumah baru Pam sangat bagus.$0#$e#Aku jadi penasaran... siapa orang misterius yang membiayainya? Mungkin aku pernah bertemu dengan dia!$1#$e#%Gunther senyum padaku dan sedikit mengangkat topinya.",
   "Resort_Entering": "Willy bangga dengan perahunya. Katanya dulu itu milik ayahnya.$0",
   "Resort_Leaving": "Kapan-kapan aku akan ke pulau sendiri...$0",
   "Resort_Shore": "Kau sudah bertemu rekanku? Dia sedang menggali di pulau ini.",

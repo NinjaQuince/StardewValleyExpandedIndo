@@ -2,6 +2,8 @@
 {
 //SPECIAL DIALOGUE
 "Introduction": "Untung Joja sudah mengangkut longsorannnya. Aku dan Lewis kerepotan menyuruh mereka mengangkutnya.$2#$b#Tapi Joja masih tidak mau meminta maaf...$3#$e#Sampai jumpa lagi, nak. Senang akhirnya bisa bertemu denganmu!$1^Sampai jumpa lagi, manis. Senang akhirnya bisa bertemu denganmu!$1#$b#Aku senang ada petani lagi di lembah ini.$4",
+"pamHouseUpgrade": "Aku iri dengan keterampilan Robin. Dia sendiri yang mendesain rumah baru Pam!$1",
+"pamHouseUpgradeAnonymous": "Aku iri dengan keterampilan Robin. Dia sendiri yang mendesain rumah baru Pam!$1",
 "Resort_Entering": "Aku jarang berwisata dengan orang-orang di kota. Ini sudah terasa seru!$1",
 "Resort_Leaving": "Hari ini sangat menakjubkan!$4",
 "Resort_Shore": "Aku harus melawan ketakutanku dengan laut untuk pergi kesini. Kurasa hasilnya tidak sia-sia.$0",
@@ -90,7 +92,7 @@
 "fall_Wed10": "Aku menyukaimu karena kamu tahu hidup adalah petualangan, @.$4#$b#Beberapa orang menganggap kalau menjalankan kebun itu membosankan, tapi kita tahu butuh begitu banyak waktu, kesabaran, dan kreativitas untuk melakukannya dengan baik.$4#$e#Semoga hidup kita terus berwarna seperti ini.$4",
 "fall_Thu": "*hahh*... Semalam Andy agak berlebihan di Saloon. Mulutnya tidak ada saringannya.$2#$e#Kita semua punya keistimewaan masing-masing.$0#$e#Semoga harimu menyenangkan, nak.$1",
 "fall_Thu8": "Aku lihat Andy membawa kardus Joja beberapa hari yang lalu. Sepertinya harinya menyenangkan.$0#$b#Aku tidak suka Joja, tapi bukan berarti aku benci pada orang yang suka.$0# $e#Kenapa aku tidak suka Joja? Karena dunia adalah tempat berharga dengan sumber daya terbatas. Dan kurasa mereka menyia-nyiakannya.$2",
-"Fall_Fri": "Jamur muncul di Cindersap Forest di musim ini. Mungkin aku akan meramban mereka setelah ini.$0#$e#Tapi, biasanya Andy dan Leah sudah mengambil semuanya...$3",
+"fall_Fri": "Jamur muncul di Cindersap Forest di musim ini. Mungkin aku akan meramban mereka setelah ini.$0#$e#Tapi, biasanya Andy dan Leah sudah mengambil semuanya...$3",
 "fall_Fri4": "Ada hazelnut di sekitar danau gunung hari ini. Aku mau memanggangnya!$0#$e#Roasted Hazelnut kaya nutrisi dan lezat. Lain kali akan kubagi denganmu.$1",
 "fall_Fri10": "Tadi aku menemukan hazelnut lagi dan memanggangnya! Ini kuberi beberapa!$1[607]#$e#Nikmatilah, nak.$4",
 "fall_Sat": "Mengelola anggur berteralis beda dari tanaman biasa. Aku perlu memikirkan cara merambatkan batangnya.$2#$e#Aku akan coba tanya ke Sophia. Dia ahlinya anggur.$1",
