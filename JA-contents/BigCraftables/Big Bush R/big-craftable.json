@@ -1,0 +1,9 @@
+{
+  "Name": "Big Bush R",
+  "Price": 4000,
+  "ProvidesLight": false,
+  "Description": "Sebuah dekorasi untuk kebunmu. Dipotong tepat di tengah. Berganti setiap musim jika diletakkan di luar ruangan.",
+  "ProvidesLight": false,
+  "CanPurchase": false,
+  "TranslationKey": "big-craftables.big-bush-r",
+}

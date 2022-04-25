@@ -1,14 +1,15 @@
 {
-	"Name": "Lunaloo",
-	"Description": "Ubur-ubur bercahaya, alias ubur-ubur moonlight.",
-	"Category": "Fish",
-	"Edibility": -25,
-	"EdibleIsDrink": false,
-	"EdibleBuffs": null,
-	"Price": 110,
-	"IsColored": false,
-	"GiftTastes":
-	{
-		"Like": ["Wizard", "Willy"],
-	},
+  "Name": "Lunaloo",
+  "Description": "Ubur-ubur bercahaya, alias ubur-ubur moonlight.",
+  "Category": "Fish",
+  "Edibility": -25,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 110,
+  "IsColored": false,
+  "GiftTastes":
+  {
+    "Like": ["Wizard", "Willy", "Lance"],
+  },
+  "TranslationKey": "object.lunaloo",
 }

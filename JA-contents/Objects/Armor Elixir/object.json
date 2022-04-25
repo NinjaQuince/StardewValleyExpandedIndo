@@ -1,15 +1,15 @@
 {
-	"Name": "Armor Elixir",
-	"Description": "Melindungi tubuhmu. Ditambah ramuan kecepatan.",
-	"Category": "ArtisanGoods",
-	"Edibility": 2,
-	"EdibleIsDrink": false,
-	"CanSell": false,
-	"Price": 2000,
-	"CategoryTextOverride": "Potion",
-	"CategoryColorOverride": "125, 30, 150, 255",
-	"EdibleBuffs": 
-	{
+  "Name": "Armor Elixir",
+  "Description": "Melindungi tubuhmu. Ditambah ramuan kecepatan.",
+  "Category": "ArtisanGoods",
+  "Edibility": 2,
+  "EdibleIsDrink": false,
+  "CanSell": false,
+  "Price": 2000,
+  "CategoryTextOverride": "Potion",
+  "CategoryColorOverride": "125, 30, 150, 255",
+  "EdibleBuffs": 
+  {
         "Farming": 0,
         "Fishing": 0,
         "Mining": 0,
@@ -22,34 +22,35 @@
         "Attack": 0,
         "Duration": 240,
     },
-	"Recipe": {
+  "Recipe": {
     "ResultCount": 1,
     "Ingredients": [
       {
         "Object": "Solar Essence",
         "Count": 30,
       },
-	  {
+    {
         "Object": "Void Soul",
         "Count": 5,
       },
-	  {
+    {
         "Object": "Vinegar",
         "Count": 5,
       },
-	  {
+    {
         "Object": "Bone Fragment",
         "Count": 5,
       },
     ],
-	"PurchaseFrom": "AlesiaVendor",    
-	"PurchasePrice": 50000,
-	"CanPurchase": true,
-	},
-	"GiftTastes":
-	{
-		"Love": ["MarlonFay", "Abigail", "Wizard"],
-		"Like": ["Morgan"],
-		"Dislike": ["Apples", "GuntherSilvian", "Leo", "Sophia", "Claire", "Olivia", "Martin", "Andy", "Victor", "Susan", "MorrisTod", "Alex", "Elliott", "Harvey", "Sam", "Sebastian", "Shane", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Clint", "Demetrius", "Dwarf", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Pam", "Pierre", "Robin", "Sandy", "Vincent", "Willy"]
-	},
+  "PurchaseFrom": "AlesiaVendor",    
+  "PurchasePrice": 50000,
+  "CanPurchase": true,
+  },
+  "GiftTastes":
+  {
+    "Love": ["MarlonFay", "Abigail", "Wizard"],
+    "Like": ["Morgan", "Lance"],
+		"Dislike": ["Scarlett", "Apples", "GuntherSilvian", "Leo", "Sophia", "Claire", "Olivia", "Martin", "Andy", "Victor", "Susan", "MorrisTod", "Alex", "Elliott", "Harvey", "Sam", "Sebastian", "Shane", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Clint", "Demetrius", "Dwarf", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Pam", "Pierre", "Robin", "Sandy", "Vincent", "Willy"]
+  },
+  "TranslationKey": "object.armor-elixir",
 }

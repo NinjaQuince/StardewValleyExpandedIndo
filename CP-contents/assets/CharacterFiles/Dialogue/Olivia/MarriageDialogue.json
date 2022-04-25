@@ -1,183 +1,97 @@
 {
   //SPECIAL DIALOGUE
-  "patio_Olivia"
-  : "%farm Farm adalah tempat yang indah dan menenangkan.$3#$e#Aku senang ada disini bersamamu, sayang. Aku mencintai kamu, dan kehidupan yang kita bangun bersama.$1#$b#Semga pekerjaanmu hari ini lancar.$3",
-  "spouseRoom_Olivia"
-  : "Aku kesulitan mencoba teknik melukis dari Gotoro yang baru kubaca.$0#$e#Mungkin aku akan tanya pada Leah. Aku tidak mau mengganggunya tapi...$6#$b#Kalau aku bisa menguasai teknik ini, lukisan yang kubuat untukmu bisa lebih bagus lagi.$4",
-  "funReturn_Olivia"
-  : "Apa harimu menyenangkan?$0#$e#Aku menemukan Wine langka yang ingin kulelang, dan harganya sangat tinggi.$3#$b#kita harus merayakan sesuatu agar bisa meminumnya.$1",
-  "funLeave_Olivia"
-  : "Selamat pagi, sayang.$3",
-  "OneKid_0"
-  : "Si %kid1 baru kutinggal sebentar dan ia sudah mengacak-acak perlengkapan melukisku!$6#$b#Di rumah kita penuh manusia kreatif.$1#$e#Mungkin %kid1 mau jadi pelukis juga...$3",
-  "OneKid_1"
-  : "Mendongengi %kid1 sangat menyenangkan, @! Kami bergantian jadi binatang hutan dan menirukan suaranya.$1#$e#Aku lupa betapa serunya mengasuh bayi. Dunia yang mereka lihat sangat berbeda.$0",
-  "OneKid_2"
-  : "%kid1 agak bandel hari ini. Dia tidak mau tidur siang.$6#$b#Victor tidak pernah bandel. Mungkin %kid1 seperti kamu dulu, sayang...$2#$b#Hal apa yang kamu sukai sewaktu kecil?$4",
-  "OneKid_3"
-  : "%kid1 mengingatkanku dengan Victor saat masih kecil. Keduanya suka mendengar dongeng.$1",
-  "OneKid_4"
-  : "Kalau diamati, si %kid1 mirip sekali dengan kita... dengan hal terbaik dari kita.$3#$e#Aku sayang kamu, @.$3",
-  "TwoKids_0"
-  : "Kurasa %kid1 iri sama %kid2 karena terlalu diperhatikan.$2#$e#Mungkin dia dapat sifat gampang iri dariku, sayang. Maaf.$2",
-  "TwoKids_1"
-  : "Tadi, %kid1 dan %kid2 bertengkar.$6#$e#Jangan cemas, keadaan sudah diatasi. Mereka sekarang sudah akur lagi.$3#$b#Tapi karena kamu sudah pulang, sekarang aku bisa istirahat...$1",
-  "TwoKids_2"
-  : "Kau tahu, setelah Victor, aku bersumpah tidak mau punya anak lagi. Tapi aku tidak menyesal berkeluarga denganmu.$3#$b#Ini lembaran baru buatku, dan aku senang bisa menjalani hidup bersamamu.$1",
-  "TwoKids_3"
-  : "Aku sayang dengan keluarga kita.$1#$b#Kalau sedang tidak sibuk, ayo bepergian bersama-sama. Mungkin ke patai, atau taman? Victor juga boleh ikut.$3",
-  "TwoKids_4"
-  : "Mengurus dua anak memang lebih sulit. Aku kerepotan hari ini.$6#$e#Aku sudah tidak semuda dulu, @.$2#$b#...Semoga itu bukan masalah bagimu...$2#$e#%Kamu memeluk Olivia.#$e#!!!$9",
+  "patio_Olivia": "%farm Farm adalah tempat yang indah dan menenangkan.$3#$e#Aku senang ada disini bersamamu, sayang. Aku mencintai kamu, dan kehidupan yang kita bangun bersama.$1#$b#Semga pekerjaanmu hari ini lancar.$3",
+  "spouseRoom_Olivia": "Aku kesulitan mencoba teknik melukis dari Gotoro yang baru kubaca.$0#$e#Mungkin aku akan tanya pada Leah. Aku tidak mau mengganggunya tapi...$6#$b#Kalau aku bisa menguasai teknik ini, lukisan yang kubuat untukmu bisa lebih bagus lagi.$4",
+  "funReturn_Olivia": "Apa harimu menyenangkan?$0#$e#Aku menemukan Wine langka yang ingin kulelang, dan harganya sangat tinggi.$3#$b#kita harus merayakan sesuatu agar bisa meminumnya.$1",
+  "funLeave_Olivia": "Selamat pagi, sayang.$3",
+  "OneKid_0": "Si %kid1 baru kutinggal sebentar dan ia sudah mengacak-acak perlengkapan melukisku!$6#$b#Di rumah kita penuh manusia kreatif.$1#$e#Mungkin %kid1 mau jadi pelukis juga...$3",
+  "OneKid_1": "Mendongengi %kid1 sangat menyenangkan, @! Kami bergantian jadi binatang hutan dan menirukan suaranya.$1#$e#Aku lupa betapa serunya mengasuh bayi. Dunia yang mereka lihat sangat berbeda.$0",
+  "OneKid_2": "%kid1 agak bandel hari ini. Dia tidak mau tidur siang.$6#$b#Victor tidak pernah bandel. Mungkin %kid1 seperti kamu dulu, sayang...$2#$b#Hal apa yang kamu sukai sewaktu kecil?$4",
+  "OneKid_3": "%kid1 mengingatkanku dengan Victor saat masih kecil. Keduanya suka mendengar dongeng.$1",
+  "OneKid_4": "Kalau diamati, si %kid1 mirip sekali dengan kita... dengan hal terbaik dari kita.$3#$e#Aku sayang kamu, @.$3",
+  "TwoKids_0": "Kurasa %kid1 iri sama %kid2 karena terlalu diperhatikan.$2#$e#Mungkin dia dapat sifat gampang iri dariku, sayang. Maaf.$2",
+  "TwoKids_1": "Tadi, %kid1 dan %kid2 bertengkar.$6#$e#Jangan cemas, keadaan sudah diatasi. Mereka sekarang sudah akur lagi.$3#$b#Tapi karena kamu sudah pulang, sekarang aku bisa istirahat...$1",
+  "TwoKids_2": "Kau tahu, setelah Victor, aku bersumpah tidak mau punya anak lagi. Tapi aku tidak menyesal berkeluarga denganmu.$3#$b#Ini lembaran baru buatku, dan aku senang bisa menjalani hidup bersamamu.$1",
+  "TwoKids_3": "Aku sayang dengan keluarga kita.$1#$b#Kalau sedang tidak sibuk, ayo bepergian bersama-sama. Mungkin ke patai, atau taman? Victor juga boleh ikut.$3",
+  "TwoKids_4": "Mengurus dua anak memang lebih sulit. Aku kerepotan hari ini.$6#$e#Aku sudah tidak semuda dulu, @.$2#$b#...Semoga itu bukan masalah bagimu...$2#$e#%Kamu memeluk Olivia.#$e#!!!$9",
  
   //SEASONAL DIALOGUE
-  "spring_Olivia"
-  : "Serindu apapun aku dengan hiruk pikuk kota, aku lebih suka lembah ini di musim semi.$3#$e#Sebelum pindah kesini, aku belum pernah merasaka udara sesegar ini.$1#$b#Kalau nanti tidak sibuk, ayo jalan-jalan ke hutan. Aku suka melihat semuanya bermekaran.$3",
-  "spring_1"
-  : "Musim semi tiba, sayang! Aku menyiapkan Wine putih kering untuk merayakannya.$1#$e#Di musim semi, minuman yang paling cocok tidak terlalu berat atau manis.$6#$e#Harus seperti bunga, segar dan bermekaran.$3",
-  "spring_13"
-  : "Apa kamu ikut berburu telur nanti, sayang?$6#$e#Aku tahu kamu selalu ingin menang, tapi sesekali kamu dan Abigail harus memberi kesempatan pada yang lebih muda.$6",
-  "spring_24"
-  : "Aku bingung mau pakai gaun apa untuk menari besok.$1#$b#Gaunnya harus cocok dengan pakaianmu.$3#$b#Andai saja kita sering menari. Tariannya anggun, berada di pelukanmu, diiringi lagu indah dan dikelilingi teman dekat.$8",
-  "summer_Olivia"
-  : "Wah, hari ini hangat ya?$3#$b#Aku ingin melukis di tempat yang indah. Mungkin di tepi laut, kalau kepanasan aku bisa langsung berenang! $1",
-  "summer_1"
-  : "Apa kamu sudah tahu mau menanam apa musim ini, Sayang? Aku mau mengirim beberapa hasil panen ke orang tuaku.$0#$e#Mereka tidak percaya kalau aku tinggal di pertanian!$3",
-  "summer_11"
-  : "Aku memang agak fanatik, sayang, tapi kau harus menuangkan Wine merah ke sup festival.$6#$e#Wine dalam sup membuat rasanya enak. Ini bukan haya minuman biasa!$3",
-  "summer_28"
-  : "Ubur-uburnya membuatku gugup. Mereka bisa menyengat lho.$2#$e#Ini akan tetap romantis selama kamu menggenggam tanganku.$3",
-  "fall_Olivia"
-  : "Musim gugur adalah musimnya meramban di lembah. Jamur impor paling mahal sekalipun tidak akan bisa mengalahkan jamur yang kamu temukan disini.$0#$e#Carilah jamur untuk makan malam, sayang.$3",
-  "fall_1"
-  : "Aku mau melukis perubahan dedaunan di Cindersap Forest. Dengan begitu kita bisa mengingat warna musim gugur sepanjang tahun.$3#$e#Ini kesempatan bagus untuk belajar memakai warna bernuansa. Dan hasilnya pasti bagus kalau sudah jadi!$1",
-  "fall_16"
-  : "Semoga pajanganmu menang nanti.$3#$b#Kamu sudah memilih item-item terbaik yang mencerminkan keterampilanmu. Aku yakin Mayor juga setuju.$1",
-  "fall_27"
-  : "Aku kurang tertrik dengan Spirit's Eve. Seram kalau dipaksa itu menurutku agak konyol.$0#$e#Dan dekorasinya sedikit...norak.$2",
-  "winter_Olivia"
-  : "Aku menantikan hari untuk latihan yoga, terutama di musim ini. Badanku selalu kaku di musim semi.$0#$e#Aku tidak mau mengaku tua, tapi musim dingin belakangan ini dinginnya terasa.$2",
-  "winter_1"
-  : "Musim dingin membuat pipimu memerah, @. Kamu kelihatan manis.$4#$e#Musim yang indah.$3",
-  "winter_8"
-  : "Aku membuat Mulled Cider untuk festival hari ini.$0#$b#Ini akan membuat tubuhmu hangat saat kau mengalahkan nelayan itu.$3",
-  "winter_12"
-  : "Jaga kehangatan tubuhmu, sayang.$0#$e#Aku akan menunggumu sambil menikmati Wine merah. Biar kita bisa langsung menikmatinya sepulang kamu kerja.$3",
-  "winter_25"
-  : "Semoga kamu memberi orang rahasiamu hadiah yang bagus, sayang!$1",
+  "spring_Olivia": "Serindu apapun aku dengan hiruk pikuk kota, aku lebih suka lembah ini di musim semi.$3#$e#Sebelum pindah kesini, aku belum pernah merasaka udara sesegar ini.$1#$b#Kalau nanti tidak sibuk, ayo jalan-jalan ke hutan. Aku suka melihat semuanya bermekaran.$3",
+  "spring_1": "Musim semi tiba, sayang! Aku menyiapkan Wine putih kering untuk merayakannya.$1#$e#Di musim semi, minuman yang paling cocok tidak terlalu berat atau manis.$6#$e#Harus seperti bunga, segar dan bermekaran.$3",
+  "spring_13": "Apa kamu ikut berburu telur nanti, sayang?$6#$e#Aku tahu kamu selalu ingin menang, tapi sesekali kamu dan Abigail harus memberi kesempatan pada yang lebih muda.$6",
+  "spring_24": "Aku bingung mau pakai gaun apa untuk menari besok.$1#$b#Gaunnya harus cocok dengan pakaianmu.$3#$b#Andai saja kita sering menari. Tariannya anggun, berada di pelukanmu, diiringi lagu indah dan dikelilingi teman dekat.$8",
+  "summer_Olivia": "Wah, hari ini hangat ya?$3#$b#Aku ingin melukis di tempat yang indah. Mungkin di tepi laut, kalau kepanasan aku bisa langsung berenang! $1",
+  "summer_1": "Apa kamu sudah tahu mau menanam apa musim ini, Sayang? Aku mau mengirim beberapa hasil panen ke orang tuaku.$0#$e#Mereka tidak percaya kalau aku tinggal di pertanian!$3",
+  "summer_11": "Aku memang agak fanatik, sayang, tapi kau harus menuangkan Wine merah ke sup festival.$6#$e#Wine dalam sup membuat rasanya enak. Ini bukan haya minuman biasa!$3",
+  "summer_28": "Ubur-uburnya membuatku gugup. Mereka bisa menyengat lho.$2#$e#Ini akan tetap romantis selama kamu menggenggam tanganku.$3",
+  "fall_Olivia": "Musim gugur adalah musimnya meramban di lembah. Jamur impor paling mahal sekalipun tidak akan bisa mengalahkan jamur yang kamu temukan disini.$0#$e#Carilah jamur untuk makan malam, sayang.$3",
+  "fall_1": "Aku mau melukis perubahan dedaunan di Cindersap Forest. Dengan begitu kita bisa mengingat warna musim gugur sepanjang tahun.$3#$e#Ini kesempatan bagus untuk belajar memakai warna bernuansa. Dan hasilnya pasti bagus kalau sudah jadi!$1",
+  "fall_16": "Semoga pajanganmu menang nanti.$3#$b#Kamu sudah memilih item-item terbaik yang mencerminkan keterampilanmu. Aku yakin Mayor juga setuju.$1",
+  "fall_27": "Aku kurang tertrik dengan Spirit's Eve. Seram kalau dipaksa itu menurutku agak konyol.$0#$e#Dan dekorasinya sedikit...norak.$2",
+  "winter_Olivia": "Aku menantikan hari untuk latihan yoga, terutama di musim ini. Badanku selalu kaku di musim semi.$0#$e#Aku tidak mau mengaku tua, tapi musim dingin belakangan ini dinginnya terasa.$2",
+  "winter_1": "Musim dingin membuat pipimu memerah, @. Kamu kelihatan manis.$4#$e#Musim yang indah.$3",
+  "winter_8": "Aku membuat Mulled Cider untuk festival hari ini.$0#$b#Ini akan membuat tubuhmu hangat saat kau mengalahkan nelayan itu.$3",
+  "winter_12": "Jaga kehangatan tubuhmu, sayang.$0#$e#Aku akan menunggumu sambil menikmati Wine merah. Biar kita bisa langsung menikmatinya sepulang kamu kerja.$3",
+  "winter_25": "Semoga kamu memberi orang rahasiamu hadiah yang bagus, sayang!$1",
  
   //DAY DIALOGUE
-  "Indoor_Day_0"
-  : "Aku merasa malas hari ini. Aku mau di dalam rumah dan membaca saja.$6#$e#Kadang aku rindu dengan perpustakaan kami. Aku bisa menemukan buku yang ingin kubaca selama seharian dengan mudah.$3",
-  "Indoor_Day_1"
-  : "Bisakah kita beli TV yang lebih besar, sayang?$0#$b#Masih ada cukup ruang dan akan bagus untuk malam hari.$1",
-  "Indoor_Day_2"
-  : "Kemarin aku menemukan tikus, sayang. Tikus!$0",
-  "Indoor_Day_3"
-  : "Apa wallpaper baru akan membuat ruang tamu kita bagus...? Atau mungkin cat baru...$1",
-  "Indoor_Day_4"
-  : "Kadang aku merasa terkurung di rumah.$6#$b#Aku harus lebih sering ke kota besar, sayang. Dan kamu harus ikut!$3",
-  "Outdoor_Olivia"
-  : "Begitu aku keluar, jemariku mulai gatal ingin melukis.$3#$b#Alam punya warna yang sangat indah.$1",
-  "Outdoor_0"
-  : "Kadang aku ingin pergi sendiri ke hutan dan mencari jamur untuk dimasak, tapi aku takut nanti kejauhan dan tersesat.$6#$e#Maukah kamu ikut kapan-kapan?$1",
-  "Outdoor_1"
-  : "Udara di kebun sangat bersih.$3#$b#Kalau Victor berkunjung, ayo kita piknik di luar. Dia juga butuh udara segar.$0",
-  "Outdoor_2"
-  : "Apa kau pernah lihat binatang liar di lembah ini, sayang?$0#$b#Aku takut sama beruang. Semoga aku takkan pernah bertemu mereka.$2",
-  "Outdoor_3"
-  : "Aku mau ke kebun anggur lokal lagi.$3#$b#Meskipun lembah ini kecil, tapi rang-orang disini sangat profesional.$3",
-  "Outdoor_4"
-  : "Hmm... Apa ini bisa jadi gambar latar untuk lukisanku nanti...$6#$b#Bagaimana menurutmu, @? Pilihanmu pasti bagus.$3",
-  "Rainy_Day_0"
-  : "Hujan di kota sangat berbeda. Di sana cuma dianggap sebagai gangguan.$0#$b#Di sini, hujan adalah berkah bagi tanaman dan tampak indah. Ini bukan hujan yang kukenali, tapi aku suka.$3",
-  "Rainy_Day_1"
-  : "Hujan itu seperti Wine merah.$0#$b#Sedikit Wine bisa meningkatkan imun untuk melawan rasa dingin.$3",
-  "Rainy_Day_2"
-  : "Di hari kelam seperti ini, aku mencoba mengingat kalau cuaca ini bagus untuk tanaman. Tapi, aku masih merasa suram...$0#$e#Jangan pulang terlalu malam, sayang. Aku butuh teman hari ini.$3",
-  "Rainy_Day_3"
-  : "Kelembaban udara di cuaca seperti ini membuatku sulit melukis. Semuanya akan basah dan prosesnya jadi lama.$2#$b#Kurasa aku harus cari hal lain untuk mengisi waktu luang.$0",
+  "Indoor_Day_0": "Aku merasa malas hari ini. Aku mau di dalam rumah dan membaca saja.$6#$e#Kadang aku rindu dengan perpustakaan kami. Aku bisa menemukan buku yang ingin kubaca selama seharian dengan mudah.$3",
+  "Indoor_Day_1": "Bisakah kita beli TV yang lebih besar, sayang?$0#$b#Masih ada cukup ruang dan akan bagus untuk malam hari.$1",
+  "Indoor_Day_2": "Kemarin aku menemukan tikus, sayang. Tikus!$0",
+  "Indoor_Day_3": "Apa wallpaper baru akan membuat ruang tamu kita bagus...? Atau mungkin cat baru...$1",
+  "Indoor_Day_4": "Kadang aku merasa terkurung di rumah.$6#$b#Aku harus lebih sering ke kota besar, sayang. Dan kamu harus ikut!$3",
+  "Outdoor_Olivia": "Begitu aku keluar, jemariku mulai gatal ingin melukis.$3#$b#Alam punya warna yang sangat indah.$1",
+  "Outdoor_0": "Kadang aku ingin pergi sendiri ke hutan dan mencari jamur untuk dimasak, tapi aku takut nanti kejauhan dan tersesat.$6#$e#Maukah kamu ikut kapan-kapan?$1",
+  "Outdoor_1": "Udara di kebun sangat bersih.$3#$b#Kalau Victor berkunjung, ayo kita piknik di luar. Dia juga butuh udara segar.$0",
+  "Outdoor_2": "Apa kau pernah lihat binatang liar di lembah ini, sayang?$0#$b#Aku takut sama beruang. Semoga aku takkan pernah bertemu mereka.$2",
+  "Outdoor_3": "Aku mau ke kebun anggur lokal lagi.$3#$b#Meskipun lembah ini kecil, tapi rang-orang disini sangat profesional.$3",
+  "Outdoor_4": "Hmm... Apa ini bisa jadi gambar latar untuk lukisanku nanti...$6#$b#Bagaimana menurutmu, @? Pilihanmu pasti bagus.$3",
+  "Rainy_Day_0": "Hujan di kota sangat berbeda. Di sana cuma dianggap sebagai gangguan.$0#$b#Di sini, hujan adalah berkah bagi tanaman dan tampak indah. Ini bukan hujan yang kukenali, tapi aku suka.$3",
+  "Rainy_Day_1": "Hujan itu seperti Wine merah.$0#$b#Sedikit Wine bisa meningkatkan imun untuk melawan rasa dingin.$3",
+  "Rainy_Day_2": "Di hari kelam seperti ini, aku mencoba mengingat kalau cuaca ini bagus untuk tanaman. Tapi, aku masih merasa suram...$0#$e#Jangan pulang terlalu malam, sayang. Aku butuh teman hari ini.$3",
+  "Rainy_Day_3": "Kelembaban udara di cuaca seperti ini membuatku sulit melukis. Semuanya akan basah dan prosesnya jadi lama.$2#$b#Kurasa aku harus cari hal lain untuk mengisi waktu luang.$0",
  
   //NIGHT DIALOGUE
-  "Indoor_Night_0"
-  : "Apa kau juga suka suara rintikan hujan di atap?$0#$e#Aku merasa aman dan hangat disini bersamamu. Aku sayang kamu.$3",
-  "Indoor_Night_1"
-  : "Ayo main permainan papan malam ini.$0#$e#Hati-hati ya. Aku sangat kompetitif, dan aku selalu ingin menang.$6",
-  "Indoor_Night_2"
-  : "Kamu mau minum wine merah atau putih malam ini?$3#$e#Aku? Aku akan minum yang sama denganmu.$6",
-  "Indoor_Night_3"
-  : "Hari ini aku lelah. Ayo segera tidur, @.$2",
-  "Indoor_Night_4"
-  : "Botolnya sudah hampir habis. Ini gelas terakhir malam ini, sayang. Ayo dinikmati.$4",
-  "Rainy_Night_0"
-  : "Apa kita harus menjenguk Victor?$0#$b#Dia sering murung saat hujan di malam hari. Kurasa dia dapat sifat itu dariku.$2",
-  "Rainy_Night_1"
-  : "Semoga besok sudah kering. Aku ingin sekali jalan-jalan, tapi aku tidak mau sepatuku kotor.$0",
-  "Rainy_Night_2"
-  : "Di Gotoro Empire juga seing hujan malam.$0#$e#Semoga semua yang disana baik-baik saja.$2",
-  "Rainy_Night_3"
-  : "Hujan malam membuatku banyak pikiran.$0#$e#Apa kau bisa mengalihkan pikiranku, @? Aku tidak ingin terhisap kenanganku sendiri.$2#$e#Aku juga sayang kamu.$4",
-  "Rainy_Night_4"
-  : "Hati-hati kalau keluar malam ini.$0#$b#Aku tidak ingin kamu terpeleset.$2",
+  "Indoor_Night_0": "Bagaimana harimu, sayang?$0",
+  "Indoor_Night_1": "Ayo main permainan papan malam ini.$0#$e#Hati-hati ya. Aku sangat kompetitif, dan aku selalu ingin menang.$6",
+  "Indoor_Night_2": "Kamu mau minum wine merah atau putih malam ini?$3#$e#Aku? Aku akan minum yang sama denganmu.$6",
+  "Indoor_Night_3": "Hari ini aku lelah. Ayo segera tidur, @.$2",
+  "Indoor_Night_4": "Botolnya sudah hampir habis. Ini gelas terakhir malam ini, sayang. Ayo dinikmati.$4",
+  "Rainy_Night_0": "Apa kita harus menjenguk Victor?$0#$b#Dia sering murung saat hujan di malam hari. Kurasa dia dapat sifat itu dariku.$2",
+  "Rainy_Night_1": "Semoga besok sudah kering. Aku ingin sekali jalan-jalan, tapi aku tidak mau sepatuku kotor.$0",
+  "Rainy_Night_2": "Di Gotoro Empire juga seing hujan malam.$0#$e#Semoga semua yang disana baik-baik saja.$2",
+  "Rainy_Night_3": "Hujan malam membuatku banyak pikiran.$0#$e#Apa kau bisa mengalihkan pikiranku, @? Aku tidak ingin terhisap kenanganku sendiri.$2#$e#Aku juga sayang kamu.$4",
+  "Rainy_Night_4": "Hati-hati kalau keluar malam ini.$0#$b#Aku tidak ingin kamu terpeleset.$2",
  
   //AFFECTION DIALOGUE
-  "Good_0"
-  : "Kadang aku masih belum percaya kita ditakdirkan bersama. Kita sangat beruntung.$3#$e#Aku sayang kamu, @.$4",
-  "Good_1"
-  : "@, tak kusangka masih bisa menemukan cinta di usia sesenja ini.$3#$b#Aku tahu aku belum begitu tua, tapi... aku sudah memutuskan ingin sendiri.$2#$e#Tapi aku senang sekarang bisa bersamamu.$3",
-  "Good_2"
-  : "Kau tahu tidak, @? Kamu membuatku jadi orang yang lebih baik.$3#$b#Aku kadang... sulit diatur. Dan sombong. Tapi kamu yang mengajariku cara bersabar dan jadi penyayang, sayang. Terima kasih.$3",
-  "Good_3"
-  : "Cuma kamu yang bisa menyebuhkanku disaat aku sedih.$0#$b#Entah kenapa, tapi aku merasa kamu begitu memahamiku. Terima kasih.$3",
-  "Good_4"
-  : "Kadang aku masih belum percaya kita ditakdirkan bersama. Kita sangat beruntung.$3#$e#Aku sayang kamu, @.$4",
-  "Good_5"
-  : "Ayo liburan.$0#$b#Ke tempat yang romantis. Mungkin di Fern Islands.$4#$e#Aku ingin keliling ke tempat-temoat indah bersamamu, sayang.$3",
-  "Good_6"
-  : "Aku tidak menyesal pensiun dagang saham untuk hidup denganmu di kebun.$3#$b#Aku merasa damai disini bersamamu.$1",
-  "Good_7"
-  : "Apa kamu pernah menari, @? Selain saat Flower Festival?$0#$e#Saat aku bersamamu, aku selalu ingin menari. Mungkin kita bisa les bersama kelak.$3",
-  "Good_8"
-  : "Di kota besar... semuanya terasa begitu cepat. Aku selalu berpindah tempat, dan tidak pernah berhenti untuk memperhatikan sekelilingku.$0#$e#Rasanya nyaman bisa berhenti dan menikmati hidup bersamamu, @.$3",
-  "Good_9"
-  : "Semalam aku mimpi kita saat sudah tua.$0#$b#Aku tahu itu agak gombal, sayang. Tapi aku jadi ingin melukis gambar kita saat tua dan bahagia nanti.$3",
-  "Neutral_0"
-  : "Ayo kita pergi ke gurun kapan-kapan.$3#$e#Aku ingin coba buah kaktus segar.$1",
-  "Neutral_1"
-  : "Aku kepikiran ingin menawarkan warga pesanan masal untuk kebun anggur di tempat yang jauh. Kita bisa dapat harga miring.$0#$b#Komunitas kecil kita ini menyenangkan ya?$0",
-  "Neutral_2"
-  : "Hari ini aku mau bersih-bersih rumah, sayang. Jangan lupa bersihkan sepatumu sebelum masuk rumah.$0#$e#Aku tahu kamu akan hati-hati.$3",
-  "Neutral_3"
-  : "Apa kamu pernah bertemu penyihir di utara kota?$0#$e#Kamu lebih berani dari aku. Aku kagum dengan kemampuanmu yang bisa berteman dengan orang aneh sekalipun.$3",
-  "Neutral_4"
-  : "Aku mau mengenalkanmu dengan teman-temanku di kota besar lain kali.$0#$e#Aku yakin kalian bisa akrab.$3",
-  "Neutral_5"
-  : "Victor titip buku buatmu, manis.$6#$b#Dia bilang kamu akan suka - ini memoar dari awal Adventurer Guild didirikan.$3#$e#Aku senang kalian berdua sudah akrab.$1",
-  "Neutral_6"
-  : "Kenalanku dari pasar saham meneleponku dan menawarkan investasi bagus.$3#$e#Agak menggiurkan, tapi aku sudah nyaman dengan keadaanku sekarang.$3",
-  "Neutral_7"
-  : "Ayo ajak Victor makan malam.$0#$b#Aku tidak ingin dia merasa diasingkan setelah kita menikah. Dia juga harus merasa disambut disini.$0",
-  "Neutral_8"
-  : "Aku mau ke kota dan membeli kebutuhan melukis.$0#$e#Kebanyakan perlengkapanku adalah buatan khusus, tapi aku juga suka beli produk lokal yang unik.$0",
-  "Neutral_9"
-  : "Satu hari telah terlewat lagi di lembah...$0#$b#Kadang hari disini bisa terasa cepat. Ayo lakukan sesuatu bersama. Agar bisa menikmati waktu.$3",
-  "Bad_0"
-  : "Aku membuang lukisan yang sedang kukerjakan. Rasanya kurang pas.$2#$e#Mungkin aku akan berhenti melukis sebentar. Rasanya aku tidak bisa melanjutkannya.$2",
-  "Bad_1"
-  : "Sayang Wine tidak bisa memecahkan semua masalah. Tapi bisa memantu.$2#$e#Jangan cemas, aku cuma bercanda. Aku takkan minum banyak meski ketika sedih.$0",
-  "Bad_2"
-  : "Badanku terasa tidak enak. Aku harus periksa ke Dokter Harvey.$2#$b#Jaga jarakmu, sayang. Nanti kamu tertular.$2",
-  "Bad_3"
-  : "Aku sedang murung. Jangan mendekatiku.$5#$e#Ini bukan salahmu. Aku kadang sering begini sendir.$2",
-  "Bad_4"
-  : "Cuaca seperti ini membuatku ingin terus di ranjang.$2#$b#Atau belanja. Aku belanja di kota saja untuk menghibur diri.$6",
-  "Bad_5"
-  : "Perang dengan Gotoro Empire berkecamuk, dan korbannya terus bertambah.$2#$b#Sedih melihat banyak orang menderita.$2",
-  "Bad_6"
-  : "Aku tahu kamu ngobrol dengan dia di kota.$2#$b#Siapa? Tak usah tanya. Kamu tahu siapa.$5",
-  "Bad_7"
-  : "Kamu tidak lihat aku sedang ingin sendiri?$5#$e#...Maaf, sayang. Aku butuh waktu sendiri.$2",
-  "Bad_8"
-  : "Aku memecahkan salah satu perabotan dari Gotoro.$5#$e#Aku marah dengan diriku. Perabotan itu tidak tergantikan.$2#$e#Aku tidak ingin memikirkannya lagi.$2",
-  "Bad_9"
-  : "Aku memang sayang kamu, tapi kadang aku kepikiran Edward dan jadi sedih...$2#$e#Akan kuceritakan kelak... tapi jangan sekarang.$2",
+  "Good_0": "Kadang aku masih belum percaya kita ditakdirkan bersama. Kita sangat beruntung.$3#$e#Aku sayang kamu, @.$4",
+  "Good_1": "@, tak kusangka masih bisa menemukan cinta di usia sesenja ini.$3#$b#Aku tahu aku belum begitu tua, tapi... aku sudah memutuskan ingin sendiri.$2#$e#Tapi aku senang sekarang bisa bersamamu.$3",
+  "Good_2": "Kau tahu tidak, @? Kamu membuatku jadi orang yang lebih baik.$3#$b#Aku kadang... sulit diatur. Dan sombong. Tapi kamu yang mengajariku cara bersabar dan jadi penyayang, sayang. Terima kasih.$3",
+  "Good_3": "Cuma kamu yang bisa menyebuhkanku disaat aku sedih.$0#$b#Entah kenapa, tapi aku merasa kamu begitu memahamiku. Terima kasih.$3",
+  "Good_4": "Kadang aku masih belum percaya kita ditakdirkan bersama. Kita sangat beruntung.$3#$e#Aku sayang kamu, @.$4",
+  "Good_5": "Ayo liburan.$0#$b#Ke tempat yang romantis. Mungkin di Fern Islands.$4#$e#Aku ingin keliling ke tempat-temoat indah bersamamu, sayang.$3",
+  "Good_6": "Aku tidak menyesal pensiun dagang saham untuk hidup denganmu di kebun.$3#$b#Aku merasa damai disini bersamamu.$1",
+  "Good_7": "Apa kamu pernah menari, @? Selain saat Flower Festival?$0#$e#Saat aku bersamamu, aku selalu ingin menari. Mungkin kita bisa les bersama kelak.$3",
+  "Good_8": "Di kota besar... semuanya terasa begitu cepat. Aku selalu berpindah tempat, dan tidak pernah berhenti untuk memperhatikan sekelilingku.$0#$e#Rasanya nyaman bisa berhenti dan menikmati hidup bersamamu, @.$3",
+  "Good_9": "Semalam aku mimpi kita saat sudah tua.$0#$b#Aku tahu itu agak gombal, sayang. Tapi aku jadi ingin melukis gambar kita saat tua dan bahagia nanti.$3",
+  "Neutral_0": "Ayo kita pergi ke gurun kapan-kapan.$3#$e#Aku ingin coba buah kaktus segar.$1",
+  "Neutral_1": "Aku kepikiran ingin menawarkan warga pesanan masal untuk kebun anggur di tempat yang jauh. Kita bisa dapat harga miring.$0#$b#Komunitas kecil kita ini menyenangkan ya?$0",
+  "Neutral_2": "Hari ini aku mau bersih-bersih rumah, sayang. Jangan lupa bersihkan sepatumu sebelum masuk rumah.$0#$e#Aku tahu kamu akan hati-hati.$3",
+  "Neutral_3": "Apa kamu pernah bertemu penyihir di utara kota?$0#$e#Kamu lebih berani dari aku. Aku kagum dengan kemampuanmu yang bisa berteman dengan orang aneh sekalipun.$3",
+  "Neutral_4": "Aku mau mengenalkanmu dengan teman-temanku di kota besar lain kali.$0#$e#Aku yakin kalian bisa akrab.$3",
+  "Neutral_5": "Victor titip buku buatmu, manis.$6#$b#Dia bilang kamu akan suka - ini memoar dari awal Adventurer Guild didirikan.$3#$e#Aku senang kalian berdua sudah akrab.$1",
+  "Neutral_6": "Kenalanku dari pasar saham meneleponku dan menawarkan investasi bagus.$3#$e#Agak menggiurkan, tapi aku sudah nyaman dengan keadaanku sekarang.$3",
+  "Neutral_7": "Ayo ajak Victor makan malam.$0#$b#Aku tidak ingin dia merasa diasingkan setelah kita menikah. Dia juga harus merasa disambut disini.$0",
+  "Neutral_8": "Aku mau ke kota dan membeli kebutuhan melukis.$0#$e#Kebanyakan perlengkapanku adalah buatan khusus, tapi aku juga suka beli produk lokal yang unik.$0",
+  "Neutral_9": "Satu hari telah terlewat lagi di lembah...$0#$b#Kadang hari disini bisa terasa cepat. Ayo lakukan sesuatu bersama. Agar bisa menikmati waktu.$3",
+  "Bad_0": "Aku membuang lukisan yang sedang kukerjakan. Rasanya kurang pas.$2#$e#Mungkin aku akan berhenti melukis sebentar. Rasanya aku tidak bisa melanjutkannya.$2",
+  "Bad_1": "Sayang Wine tidak bisa memecahkan semua masalah. Tapi bisa memantu.$2#$e#Jangan cemas, aku cuma bercanda. Aku takkan minum banyak meski ketika sedih.$0",
+  "Bad_2": "Badanku terasa tidak enak. Aku harus periksa ke Dokter Harvey.$2#$b#Jaga jarakmu, sayang. Nanti kamu tertular.$2",
+  "Bad_3": "Aku sedang murung. Jangan mendekatiku.$5#$e#Ini bukan salahmu. Aku kadang sering begini sendir.$2",
+  "Bad_4": "Cuaca seperti ini membuatku ingin terus di ranjang.$2#$b#Atau belanja. Aku belanja di kota saja untuk menghibur diri.$6",
+  "Bad_5": "Perang dengan Gotoro Empire berkecamuk, dan korbannya terus bertambah.$2#$b#Sedih melihat banyak orang menderita.$2",
+  "Bad_6": "Aku tahu kamu ngobrol dengan dia di kota.$2#$b#Siapa? Tak usah tanya. Kamu tahu siapa.$5",
+  "Bad_7": "Kamu tidak lihat aku sedang ingin sendiri?$5#$e#...Maaf, sayang. Aku butuh waktu sendiri.$2",
+  "Bad_8": "Aku memecahkan salah satu perabotan dari Gotoro.$5#$e#Aku marah dengan diriku. Perabotan itu tidak tergantikan.$2#$e#Aku tidak ingin memikirkannya lagi.$2",
+  "Bad_9": "Aku memang sayang kamu, tapi kadang aku kepikiran Edward dan jadi sedih...$2#$e#Akan kuceritakan kelak... tapi jangan sekarang.$2",
 }

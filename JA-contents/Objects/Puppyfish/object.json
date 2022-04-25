@@ -1,16 +1,17 @@
 {
-	"Name": "Puppyfish",
-	"Description": "Ikan ini cuma ingin dielus-elus dan dikasih makan.",
-	"Category": "Fish",
-	"Edibility": 40,
-	"EdibleIsDrink": false,
-	"EdibleBuffs": null,
-	"Price": 280,
-	"IsColored": false,
-	"GiftTastes":
-	{
-		"Love": ["Sophia"],
-		"Like": ["Willy", "Abigail"],
-		"Hate": ["George", "Kent", "Andy"]
-	},
+  "Name": "Puppyfish",
+  "Description": "Ikan ini cuma ingin dielus-elus dan dikasih makan.",
+  "Category": "Fish",
+  "Edibility": 40,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 280,
+  "IsColored": false,
+  "GiftTastes":
+  {
+    "Love": ["Sophia"],
+    "Like": ["Willy", "Abigail", "Lance" ],
+    "Hate": ["George", "Kent", "Andy"]
+  },
+  "TranslationKey": "object.puppyfish",
 }

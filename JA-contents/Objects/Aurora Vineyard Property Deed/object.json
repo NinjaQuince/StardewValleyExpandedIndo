@@ -1,0 +1,8 @@
+{
+  "Name": "Aurora Vineyard Property Deed",
+  "Description": "Harus diberikan pada pihak otoritas untuk pemeriksaan.",
+  "Price": 0,
+  "CanTrash": false,
+    "CanSell": false,
+  "TranslationKey": "object.aurora-vineyard-property-deed",
+}

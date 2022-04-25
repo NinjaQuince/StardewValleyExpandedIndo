@@ -1,0 +1,8 @@
+{
+  "Name": "Leafy Crop (stage 1)",
+  "Price": 325,
+  "ProvidesLight": false,
+  "Description": "Sebuah tanaman panen dekorasi. Berganti setiap musim mulai dari 'Kale', 'Red Cabbage', dan 'Amaranth' jika diletakkan di luar ruangan.",
+  "CanPurchase": false,
+  "TranslationKey": "big-craftables.leafy-crop-stage-1",
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "Big Crop (stage 3)",
+  "Price": 560,
+  "ProvidesLight": false,
+  "Description": "Sebuah tanaman panen dekorasi. Berganti setiap musim mulai dari 'Cauliflower', 'Melon', dan 'Pumpkin' jika diletakkan di luar ruangan.",
+  "CanPurchase": false,
+  "TranslationKey": "big-craftables.big-crop-stage-3",
+}

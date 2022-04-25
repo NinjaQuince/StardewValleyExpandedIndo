@@ -1,10 +1,11 @@
 {
-	"Name": "Joja Veggie",
-	"Price": 1140,
-	"Description": "Sebuah Organisme Modifikasi Magis (OMM). Mengandung ramuan pemulih mujarabyang membuat harganya tinggi.",
-	"Category": "Vegetable",
-	"Edibility": 200,
-	"Recipe": null,
-	"CanSell": false,
-	"PurchaseRequirements": [ "e 5553210" ]
+  "Name": "Joja Veggie",
+  "Price": 1140,
+  "Description": "Sebuah Organisme Modifikasi Magis (OMM). Mengandung ramuan pemulih mujarabyang membuat harganya tinggi.",
+  "Category": "Vegetable",
+  "Edibility": 200,
+  "Recipe": null,
+  "CanSell": false,
+  "PurchaseRequirements": [ "e 5553210" ],
+  "TranslationKey": "object.joja-veggie",
 }

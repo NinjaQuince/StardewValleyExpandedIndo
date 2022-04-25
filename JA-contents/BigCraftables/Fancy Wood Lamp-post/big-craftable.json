@@ -5,4 +5,5 @@
   "Description": "Menyediakan cahaya sedang.",
   "ProvidesLight": true,
   "CanPurchase": false,
+  "TranslationKey": "big-craftables.fancy-wood-lamp-post",
 }

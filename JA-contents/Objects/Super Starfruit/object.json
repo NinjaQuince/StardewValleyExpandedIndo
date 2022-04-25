@@ -1,0 +1,9 @@
+{
+  "Name": "Super Starfruit",
+  "Description": "Sebuah simbolis untuk Junimo. Sebagai hadiah, itu menandakan keinginan untuk tinggal bersama sebagai teman.",
+  "CanSell": false,
+  "Price": 4500,
+  "CategoryTextOverride": "Junimo Item",
+  "CategoryColorOverride": "125, 30, 150, 255",
+  "TranslationKey": "object.super-starfruit",
+}

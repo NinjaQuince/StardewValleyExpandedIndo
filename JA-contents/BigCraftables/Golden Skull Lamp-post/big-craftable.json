@@ -5,4 +5,5 @@
   "Description": "Terbuat dari emas murni. Menyediakan cahaya sedang.",
   "ProvidesLight": true,
   "CanPurchase": false,
+  "TranslationKey": "big-craftables.golden-skull-lamp-post",
 }

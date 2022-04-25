@@ -1,0 +1,9 @@
+{
+  "Name": "Beautiful Flower",
+  "Price": 500,
+  "ProvidesLight": false,
+  "Description": "Sebuah dekorasi untuk kebunmu. Berganti setiap musim jika diletakkan di luar ruangan. Berubah jadi gumpalan salju di musim dingin.",
+  "ProvidesLight": false,
+  "CanPurchase": false,
+  "TranslationKey": "big-craftables.beautiful-flower",
+}

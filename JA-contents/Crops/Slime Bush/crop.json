@@ -1,0 +1,20 @@
+{
+  "Name": "Slime Bush",
+  "Product": "Slime Berry",
+  "SeedName": "Slime Seed",
+  "SeedDescription": "Tanam ini di musim semi. Berbuah dalam 13 hari, dan terus berbuah.",
+  "Type": "Fruit",
+  "CropType": "Normal",
+  "Seasons": ["spring"],
+  "Phases": [2,3,2,3,3],
+  "RegrowthPhase": 4,
+  "HarvestWithScythe": false,
+  "Bonus": {
+    "MinimumPerHarvest": 1,
+    "MaximumPerHarvest": 3,
+    "MaxIncreasePerFarmLevel": 3,
+    "ExtraChance": 0.10,
+  },
+  "TranslationKey": "crop.slime-bush",
+  "SeedTranslationKey": "crop.slime-seed",
+}

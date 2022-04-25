@@ -1,24 +1,17 @@
 {
-	"Name": "Tempered Galaxy Dagger",
-	"Description": "Kekuatan kosmos menjalar ke tubuhmu, memberimu kekuatan dan pertahanan besar.",
-	"Type": "dagger",
-	"MinimumDamage": 115,
-	"MaximumDamage": 160,
-	"Knockback": 1.0,
-	"Speed": 10,
-	"Accuracy": 100,
-	"Defense": 20,
-	"MineDropVar": 0,
-	"MineDropMinimumLevel": -1,
-	"ExtraSwingArea": -1,
-	"CritChance": 0.30,
-	"CritMultiplier": 3,
-	"NameLocalization":
-	{
-		/*Information goes here*/
-	},
-	"DescriptionLocalization":
-	{
-		/*Information goes here*/
-	}
+  "Name": "Tempered Galaxy Dagger",
+  "Description": "Kekuatan kosmos menjalar ke tubuhmu, memberimu kekuatan dan pertahanan besar.",
+  "Type": "dagger",
+  "MinimumDamage": 50,
+  "MaximumDamage": 70,
+  "Knockback": 1.0,
+  "Speed": 10,
+  "Accuracy": 100,
+  "Defense": 10,
+  "MineDropVar": 0,
+  "MineDropMinimumLevel": -1,
+  "ExtraSwingArea": -1,
+  "CritChance": 0.30,
+  "CritMultiplier": 3,
+  "TranslationKey": "weapon.tempered-galaxy-dagger",
 }

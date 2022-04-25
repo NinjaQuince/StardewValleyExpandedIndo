@@ -1,24 +1,17 @@
 {
-	"Name": "Tempered Galaxy Sword",
-	"Description": "Kekuatan kosmos menjalar ke tubuhmu, memberimu kekuatan dan pertahanan besar.",
-	"Type": "sword",
-	"MinimumDamage": 100,
-	"MaximumDamage": 175,
-	"Knockback": 1,
-	"Speed": 5,
-	"Accuracy": 100,
-	"Defense": 15,
-	"MineDropVar": 0,
-	"MineDropMinimumLevel": -1,
-	"ExtraSwingArea": -1,
-	"CritChance": 0.15,
-	"CritMultiplier": 3,
-	"NameLocalization":
-	{
-		/*Information goes here*/
-	},
-	"DescriptionLocalization":
-	{
-		/*Information goes here*/
-	}
+  "Name": "Tempered Galaxy Sword",
+  "Description": "Kekuatan kosmos menjalar ke tubuhmu, memberimu kekuatan dan pertahanan besar.",
+  "Type": "sword",
+  "MinimumDamage": 80,
+  "MaximumDamage": 120,
+  "Knockback": 1,
+  "Speed": 5,
+  "Accuracy": 100,
+  "Defense": 15,
+  "MineDropVar": 0,
+  "MineDropMinimumLevel": -1,
+  "ExtraSwingArea": -1,
+  "CritChance": 0.15,
+  "CritMultiplier": 3,
+  "TranslationKey": "weapon.tempered-galaxy-sword",
 }

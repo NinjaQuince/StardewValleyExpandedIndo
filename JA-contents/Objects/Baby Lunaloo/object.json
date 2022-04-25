@@ -1,14 +1,16 @@
 {
-	"Name": "Baby Lunaloo",
-	"Description": "Ubur-ubur bercahaya, alias ubur-ubur moonlight. Masih kecil, dan belum dewasa",
-	"Category": "Fish",
-	"Edibility": -10,
-	"EdibleIsDrink": false,
-	"EdibleBuffs": null,
-	"Price": 45,
-	"IsColored": false,
-	"GiftTastes":
-	{
-		"Like": ["Wizard", "Willy"],
-	},
+  "Name": "Baby Lunaloo",
+  "Description": "Ubur-ubur bercahaya, alias ubur-ubur moonlight. Masih kecil, dan belum dewasa",
+  "Category": "Fish",
+  "Edibility": -10,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 45,
+  "IsColored": false,
+  "GiftTastes":
+  {
+    "Like": ["Wizard", "Willy"],
+    "Neutral": ["Lance"]
+  },
+  "TranslationKey": "object.baby-lunaloo",
 }

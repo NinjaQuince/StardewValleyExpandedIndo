@@ -1,0 +1,9 @@
+{
+  "Name": "Shrub",
+  "Price": 2000,
+  "ProvidesLight": false,
+  "Description": "Sebuah dekorasi untuk kebunmu. Berganti setiap musim jika diletakkan di luar ruangan.",
+  "ProvidesLight": false,
+  "CanPurchase": false,
+  "TranslationKey": "big-craftables.shrub",
+}

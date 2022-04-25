@@ -1,11 +1,11 @@
 {
-	"Name": "Big Bark Burger",
-	"Description": "Tiga B. Teksturnya mudah dikunyah dan dagingnya sangat lezat.",
-	"Category": "Cooking",
-	"Edibility": 85,
-	"EdibleIsDrink": false,
-	"EdibleBuffs": 
-	{
+  "Name": "Big Bark Burger",
+  "Description": "Tiga B. Teksturnya mudah dikunyah dan dagingnya sangat lezat.",
+  "Category": "Cooking",
+  "Edibility": 85,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": 
+  {
         "Farming": 0,
         "Fishing": 0,
         "Mining": 0,
@@ -18,7 +18,7 @@
         "Attack": 3,
         "Duration": 480,
     },
-	"Recipe":
+  "Recipe":
     {
     "ResultCount": 1,
     "Ingredients": [ { "Object": "Puppyfish", "Count": 1, }, { "Object": 216, "Count": 1 }, { "Object": 247, "Count": 1 } ],
@@ -27,13 +27,14 @@
     "PurchasePrice": 5500,
     "PurchaseRequirements": [ "f Gus 1250" ],
     },
-	"CanSell": false,
-	"Price": 400,
-	"IsColored": false,
-	"GiftTastes":
-	{
-	    "Love": [ "Gus", "Martin" ],
-		"Like": [ "Kent", "Vincent", "Jas" ],
-		"Hate": [ "Dwarf", "Krobus", "Apples", "Sophia" ]
-	},
+  "CanSell": false,
+  "Price": 400,
+  "IsColored": false,
+  "GiftTastes":
+  {
+      "Love": [ "Gus", "Martin" ],
+      "Like": [ "Kent", "Vincent", "Jas", "Lance", "Scarlett" ],
+      "Hate": [ "Dwarf", "Krobus", "Apples", "Sophia" ]
+  },
+  "TranslationKey": "object.big-bark-burger",
 }

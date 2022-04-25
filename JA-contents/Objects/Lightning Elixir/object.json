@@ -1,14 +1,14 @@
 {
-	"Name": "Lightning Elixir",
-	"Description": "Membuat larimu sangat cepat dalam satu menit. Ditambah ramuan serangan dan pertahanan.",
-	"Category": "ArtisanGoods",
-	"Edibility": 1,
-	"EdibleIsDrink": true,
-	"CanSell": false,
-	"CategoryTextOverride": "Potion",
-	"CategoryColorOverride": "125, 30, 150, 255",
-	"EdibleBuffs": 
-	{
+  "Name": "Lightning Elixir",
+  "Description": "Membuat larimu sangat cepat dalam satu menit. Ditambah ramuan serangan dan pertahanan.",
+  "Category": "ArtisanGoods",
+  "Edibility": 1,
+  "EdibleIsDrink": true,
+  "CanSell": false,
+  "CategoryTextOverride": "Potion",
+  "CategoryColorOverride": "125, 30, 150, 255",
+  "EdibleBuffs": 
+  {
         "Farming": 0,
         "Fishing": 0,
         "Mining": 0,
@@ -21,12 +21,13 @@
         "Attack": 0,
         "Duration": 88, //duration is not accurate
     },
-	"Price": 5000,
-	"IsColored": false,
-	"GiftTastes":
-	{
-		"Love": ["MarlonFay", "Abigail", "Wizard"],
-		"Like": ["Morgan"],
-		"Dislike": ["Apples", "Leo", "Sophia", "Claire", "Olivia", "Martin", "Andy", "Victor", "Susan", "MorrisTod", "Alex", "Elliott", "Harvey", "Sam", "Sebastian", "Shane", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Clint", "Demetrius", "Dwarf", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Pam", "Pierre", "Robin", "Sandy", "Vincent", "Willy"]
-	},
+  "Price": 5000,
+  "IsColored": false,
+  "GiftTastes":
+  {
+    "Love": ["MarlonFay", "Abigail", "Wizard"],
+    "Like": ["Morgan", "Lance"],
+		"Dislike": ["Scarlett", "Apples", "Leo", "Sophia", "Claire", "Olivia", "Martin", "Andy", "Victor", "Susan", "MorrisTod", "Alex", "Elliott", "Harvey", "Sam", "Sebastian", "Shane", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Clint", "Demetrius", "Dwarf", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Pam", "Pierre", "Robin", "Sandy", "Vincent", "Willy"]
+  },
+  "TranslationKey": "object.lightning-elixir",
 }

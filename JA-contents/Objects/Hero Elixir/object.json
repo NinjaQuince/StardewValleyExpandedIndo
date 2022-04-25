@@ -1,15 +1,15 @@
 {
-	"Name": "Hero Elixir",
-	"Description": "Memberi atribut kegagahan. Ditambah ramuan kecepatan.",
-	"Category": "ArtisanGoods",
-	"Edibility": 2,
-	"EdibleIsDrink": false,
-	"CanSell": false,
-	"Price": 2650,
+  "Name": "Hero Elixir",
+  "Description": "Memberi atribut kegagahan. Ditambah ramuan kecepatan.",
+  "Category": "ArtisanGoods",
+  "Edibility": 2,
+  "EdibleIsDrink": false,
+  "CanSell": false,
+  "Price": 2650,
     "CategoryTextOverride": "Potion",
-	"CategoryColorOverride": "125, 30, 150, 255",
-	"EdibleBuffs": 
-	{
+  "CategoryColorOverride": "125, 30, 150, 255",
+  "EdibleBuffs": 
+  {
         "Farming": 0,
         "Fishing": 0,
         "Mining": 0,
@@ -22,34 +22,35 @@
         "Attack": 6,
         "Duration": 240,
     },
-	"Recipe": {
+  "Recipe": {
     "ResultCount": 1,
     "Ingredients": [
       {
         "Object": "Void Pebble",
         "Count": 3,
       },
-	  {
+    {
         "Object": "Void Soul",
         "Count": 5,
       },
-	  {
+    {
         "Object": "Oil",
         "Count": 1,
       },
-	  {
+    {
         "Object": "Slime",
         "Count": 10,
       },
     ],
-	"PurchaseFrom": "IsaacVendor",    
-	"PurchasePrice": 65000,
-	"CanPurchase": true,
-	},
-	"GiftTastes":
-	{
-		"Love": ["MarlonFay", "Abigail", "Wizard"],
-		"Like": ["Morgan"],
-		"Dislike": ["Apples", "Leo", "GuntherSilvian", "Sophia", "Olivia", "Andy", "Claire", "Victor", "Martin", "Susan", "MorrisTod", "Alex", "Elliott", "Harvey", "Sam", "Sebastian", "Shane", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Clint", "Demetrius", "Dwarf", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Pam", "Pierre", "Robin", "Sandy", "Vincent", "Willy"]
-	},
+  "PurchaseFrom": "IsaacVendor",    
+  "PurchasePrice": 65000,
+  "CanPurchase": true,
+  },
+  "GiftTastes":
+  {
+    "Love": ["MarlonFay", "Abigail", "Wizard"],
+    "Like": ["Morgan", "Lance"],
+		"Dislike": ["Scarlett", "Apples", "Leo", "GuntherSilvian", "Sophia", "Olivia", "Andy", "Claire", "Victor", "Martin", "Susan", "MorrisTod", "Alex", "Elliott", "Harvey", "Sam", "Sebastian", "Shane", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Clint", "Demetrius", "Dwarf", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Pam", "Pierre", "Robin", "Sandy", "Vincent", "Willy"]
+  },
+  "TranslationKey": "object.hero-elixir",
 }

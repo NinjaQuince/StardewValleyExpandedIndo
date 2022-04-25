@@ -1,0 +1,9 @@
+{
+  "Name": "Meteorite R",
+  "Price": 10000,
+  "ProvidesLight": false,
+  "Description": "Sebuah dekorasi untuk kebunmu. Dipotong tepat di tengah.",
+  "ProvidesLight": false,
+  "CanPurchase": false,
+  "TranslationKey": "big-craftables.meteorite-r",
+}

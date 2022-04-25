@@ -1,0 +1,9 @@
+{
+  "Name": "Mystic Node",
+  "Price": 5000,
+  "ProvidesLight": false,
+  "Description": "Sebuah dekorasi untuk kebunmu.",
+  "ProvidesLight": false,
+  "CanPurchase": false,
+  "TranslationKey": "big-craftables.mystic-node",
+}

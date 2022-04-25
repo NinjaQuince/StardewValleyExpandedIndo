@@ -1,0 +1,9 @@
+{
+  "Name": "Frozen Stone 1",
+  "Price": 500,
+  "ProvidesLight": false,
+  "Description": "Sebuah dekorasi untuk kebunmu.",
+  "ProvidesLight": false,
+  "CanPurchase": false,
+  "TranslationKey": "big-craftables.frozen-stone-1",
+}

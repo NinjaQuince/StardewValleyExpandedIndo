@@ -1,22 +1,15 @@
 {
-	"Name": "Minnow",
-	"Description": "Ikan sungai biasa.",
-	"Category": "Fish",
-	"Edibility": 1,
-	"EdibleIsDrink": false,
-	"EdibleBuffs": null,
-	"Price": 20,
-	"IsColored": false,
-	"GiftTastes":
-	{
-		/*gift tastes go here*/
-	},
-	"NameLocalization":
-	{
-		/*to be added in*/
-	},
-	"DescriptionLocalization":
-	{
-		/*to be added in*/
-	},
+  "Name": "Minnow",
+  "Description": "Ikan sungai biasa.",
+  "Category": "Fish",
+  "Edibility": 1,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 20,
+  "IsColored": false,
+  "GiftTastes":
+  {
+    /*gift tastes go here*/
+  },
+  "TranslationKey": "object.minnow",
 }

@@ -1,12 +1,12 @@
 {
-	"Name": "Aged Blue Moon Wine",
-	"Description": "Wine tua buatan Sophia dari Blue Moon Vineyard. Dibungkus parsel indah yang diitari dedaunan, dan pita cantik. Cocok sekali untuk hadiah!",
-	"Category": "ArtisanGoods",
-	"Edibility": 100,
-	"EdibleIsDrink": true,
-	"CanSell": false,
-	"EdibleBuffs": 
-	{
+  "Name": "Aged Blue Moon Wine",
+  "Description": "Wine tua buatan Sophia dari Blue Moon Vineyard. Dibungkus parsel indah yang diitari dedaunan, dan pita cantik. Cocok sekali untuk hadiah!",
+  "Category": "ArtisanGoods",
+  "Edibility": 100,
+  "EdibleIsDrink": true,
+  "CanSell": false,
+  "EdibleBuffs": 
+  {
         "Farming": 0,
         "Fishing": 0,
         "Mining": 0,
@@ -19,14 +19,15 @@
         "Attack": 0,
         "Duration": 600,
     },
-	"Price": 10000,
-	"IsColored": false,
-	"GiftTastes":
-	{
-		"Love": ["Olivia", "Victor", "Gus", "MarlonFay", "MorrisTod", "Elliott", "Harvey", "Leah", "Jodi", "Kent", "Marnie", "Pam", "Pierre", ],
-		"Like": ["Sebastian", "Maru", "Sam", "Susan", "Lewis", "Alex", "Shane", "Abigail", "Emily", "Haley", "Caroline", "Clint", "Demetrius", "Evelyn", "George", "Robin", "Sandy", "Willy", "Linus", "Wizard"],
-		"Neutral": ["Sophia"],
-	    "Dislike": ["Jas", "Vincent", "Morgan", "Claire"],
-		"Hate": ["Dwarf", "Leo", "Krobus", "Penny", "Andy", "Martin"]
-	},
+  "Price": 10000,
+  "IsColored": false,
+  "GiftTastes":
+  {
+		"Love": ["Lance", "Scarlett", "Olivia", "Victor", "Gus", "MarlonFay", "MorrisTod", "Elliott", "Harvey", "Leah", "Jodi", "Kent", "Marnie", "Pam", "Pierre", ],
+    "Like": ["Sebastian", "Maru", "Sam", "Susan", "Lewis", "Alex", "Shane", "Abigail", "Emily", "Haley", "Caroline", "Clint", "Demetrius", "Evelyn", "George", "Robin", "Sandy", "Willy", "Linus", "Wizard"],
+    "Neutral": ["Sophia"],
+    "Dislike": ["Jas", "Vincent", "Morgan", "Claire"],
+    "Hate": ["Dwarf", "Leo", "Krobus", "Penny", "Andy", "Martin"]
+  },
+  "TranslationKey": "object.aged-blue-moon-wine",
 }

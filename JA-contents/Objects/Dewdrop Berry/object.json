@@ -1,13 +1,13 @@
 {
-	"Name": "Dewdrop Berry",
-	"Price": 45,
-	"Description": "Buah harum yang tumbuh di Nexus-ku. Memberi kemampuan sihir sampai besok fajar.",
-	"Category": "Fruit",
-	"Edibility": 90,
-	"Recipe": null,
-	"CanSell": false,
-	"EdibleBuffs": 
-	{
+  "Name": "Dewdrop Berry",
+  "Price": 45,
+  "Description": "Buah harum yang tumbuh di Nexus. Memberi kemampuan sihir sampai besok fajar.",
+  "Category": "Fruit",
+  "Edibility": 90,
+  "Recipe": null,
+  "CanSell": false,
+  "EdibleBuffs": 
+  {
         "Farming": 0,
         "Fishing": 0,
         "Mining": 0,
@@ -20,8 +20,9 @@
         "Attack": 0,
         "Duration": 1600,
     },
-	"GiftTastes":
-	{
-		"Like": ["Morgan", "MarlonFay", "GuntherSilvian", "Abigail", "Wizard", "Apples", "Leo", "Sophia", "Claire", "Olivia", "Martin", "Andy", "Victor", "Susan", "MorrisTod", "Alex", "Elliott", "Harvey", "Sam", "Sebastian", "Shane", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Clint", "Demetrius", "Dwarf", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Pam", "Pierre", "Robin", "Sandy", "Vincent", "Willy"]
-	},
+  "GiftTastes":
+  {
+		"Like": [ "Scarlett", "Lance", "Morgan", "MarlonFay", "GuntherSilvian", "Abigail", "Wizard", "Apples", "Leo", "Sophia", "Claire", "Olivia", "Martin", "Andy", "Victor", "Susan", "MorrisTod", "Alex", "Elliott", "Harvey", "Sam", "Sebastian", "Shane", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Clint", "Demetrius", "Dwarf", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Pam", "Pierre", "Robin", "Sandy", "Vincent", "Willy"]
+  },
+  "TranslationKey": "object.dewdrop-berry",
 }

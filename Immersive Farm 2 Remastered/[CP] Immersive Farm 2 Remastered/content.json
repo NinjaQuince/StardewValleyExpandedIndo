@@ -68,6 +68,11 @@
   "Default": "false"
    },
    
+ "Remove_Cherry_Blossom_Tree_From_Southeast_Hill": {
+  "AllowValues": "true, false",
+  "Default": "false"
+   },
+   
   "Remove_Fences_From_Backyard": {
   "AllowValues": "true, false",
   "Default": "false"
@@ -231,7 +236,7 @@
     "Target": "Strings/UI",
     "When": { "HasMod |contains=flashshifter.GrandpasFarm": false },
     "Entries": {
-    "Character_FarmStandard": "Immersive Farm 2 Remastered_Tanah luas yang petaknya sudah dipagari. Menyediakan tanah berumput yang bisa dibajak dan rahasia di dalamnya.",
+    "Character_FarmStandard": "Immersive Farm 2 Remastered_Tanah luas yang petaknya sudah dipagari. Menyediakan tanah berumput yang bisa dibajak dan ada rahasianya.",
     }
   },
   
@@ -402,6 +407,14 @@
     "When": { "Remove_Central_Cherry_Blossom_Tree_And_Water_Trough": "true", "Remove_Farm_Animal_Area_Fences": "true", "Farm_Sandbox_Layout": "false", "FarmType": "Standard", "HasMod |contains=flashshifter.GrandpasFarm": false }
     },
   
+    {
+      "Action": "EditMap",
+      "Target": "Maps/Farm,Maps",
+      "FromFile": "assets/MapPatches/RemoveCherryBlossomTreeFromSoutheastHill.tbin",
+	  "ToArea": { "X": 128, "Y": 72, "Width": 14, "Height": 14 },
+	  "When": { "Remove_Cherry_Blossom_Tree_From_Southeast_Hill": "true", "FarmType": "Standard", "HasMod |contains=flashshifter.GrandpasFarm": false }
+    },
+	
   {
       "Action": "EditMap",
       "Target": "Maps/Greenhouse,Maps",
@@ -485,46 +498,6 @@
        "When": { "Remove_Minecart_System": "false", "FarmType": "Standard", "HasMod |contains=flashshifter.GrandpasFarm": false }
     },
   
-  { //Sophia spouse area
-      "Action": "EditMap",
-      "Target": "Maps/Farm,Maps",
-      "FromFile": "assets/MapPatches/IF2R_Sophia_SpouseArea.tbin",
-      "ToArea": { "X": 69, "Y": 7, "Width": 4, "Height": 2 },
-      "When": { "FarmType": "Standard", "Spouse": "Sophia", "HasMod |contains=flashshifter.GrandpasFarm": false }
-    },
-  
-  { //Victor spouse area
-      "Action": "EditMap",
-      "Target": "Maps/Farm,Maps",
-      "FromFile": "assets/MapPatches/IF2R_Victor_SpouseArea.tbin",
-      "ToArea": { "X": 69, "Y": 7, "Width": 4, "Height": 2 },
-      "When": { "FarmType": "Standard", "Spouse": "Victor", "HasMod |contains=flashshifter.GrandpasFarm": false }
-    },
-  
-  { //Olivia spouse area
-      "Action": "EditMap",
-      "Target": "Maps/Farm,Maps",
-      "FromFile": "assets/MapPatches/IF2R_Olivia_SpouseArea.tbin",
-      "ToArea": { "X": 69, "Y": 7, "Width": 4, "Height": 2 },
-      "When": { "FarmType": "Standard", "Spouse": "Olivia", "HasMod |contains=flashshifter.GrandpasFarm": false, "Weather |contains=Winter": false }
-    },
-  
-  { //Claire spouse area
-      "Action": "EditMap",
-      "Target": "Maps/Farm,Maps",
-      "FromFile": "assets/MapPatches/IF2R_Claire_SpouseArea.tbin",
-      "ToArea": { "X": 69, "Y": 7, "Width": 4, "Height": 2 },
-      "When": { "FarmType": "Standard", "Spouse": "Claire", "HasMod |contains=flashshifter.GrandpasFarm": false }
-    },
-  
-  { //Wizard spouse area
-      "Action": "EditMap",
-      "Target": "Maps/Farm,Maps",
-      "FromFile": "assets/MapPatches/IF2R_Wizard_SpouseArea.tbin",
-      "ToArea": { "X": 69, "Y": 8, "Width": 4, "Height": 2 },
-      "When": { "FarmType": "Standard", "Spouse": "Wizard", "HasMod |contains=flashshifter.GrandpasFarm": false }
-    },
-  
   { //Adds mist effects to the farm
      "Action": "EditMap",
    "Target": "Maps/Farm",
@@ -559,6 +532,36 @@
     "When": { "FarmType": "Standard", "HasMod |contains=flashshifter.GrandpasFarm": false },
       "Entries": {
       "65/m 25000/t 600 1200/H": "continue/64 15/farmer 64 16 2 Demetrius 64 18 0/pause 1200/speak Demetrius \"Hai @! Aku punya kabar baik buatmu. Beberapa hari lalu aku membuat terobosan baru dalam riset lingkungan lokal.$h#$b#Aku takkan bertele-tele dan langsung saja... Kau tahu gua kosong di tenggara itu? Jadi, aku bisa merubahnya jadi sesuatu yang berguna... buat kita berdua.#$b#Aku ingin menyiapkan gua itu untuk menarik spesies lokal. Dengan begitu aku bisa mengawasinya dalam lingkungan terkendali. Dan kau bisa mengambil produk apa saja yang mereka hasilkan.#$b#Aku bisa membuatnya untuk menarik jamur atau codot. Kelelawar codot akan meninggalkan buah untuk diambil.\"/cave/speak Demetrius \"Baiklah! Akan segera kusiapkan! Tidak butuh waktu lama kok.$h#$b#Terima kasih sudah memberiku ijin.\"/end dialogue Demetrius \"Aku tak sabar menantikan apa yang akan terjadi pada gua itu.#$e#Semoga kamu puas dengan hasil kerjaku.\""
+    }
+  },
+
+//Marnie mentions farm animals can't leave fenced in area (player has white egg in their inventory)
+  {
+    "Action": "EditData",
+    "Target": "data/events/farm",
+  "When": { "FarmType": "Standard", "Farm_Sandbox_Layout": "false", "Remove_Farm_Animal_Area_Fences": "false" },
+    "Entries": {
+    "896152/i 176/t 600 1800/y 1/z winter": "none/-1000 -1000/farmer 64 16 2 Marnie 64 18 0/skippable/pause 1000/speak Marnie \"Hai @! Karena sekarang kamu sudah punya ternak, akan kuberitahu sedikit rahasia.$0\"/pause 400/emote farmer 8/pause 100/speak Marnie \"Mereka tidak akan melewati pagar, jadi kamu bebas membuka pintu kandangnya!$1\"/pause 250/emote farmer 32/pause 100/end"
+  }
+  },
+
+//Marnie mentions farm animals can't leave fenced in area (player has white egg in their inventory)
+  {
+    "Action": "EditData",
+    "Target": "data/events/farm",
+  "When": { "FarmType": "Standard", "Farm_Sandbox_Layout": "false", "Remove_Farm_Animal_Area_Fences": "false" },
+    "Entries": {
+    "896152/i 180/t 600 1800/y 1/z winter": "none/-1000 -1000/farmer 64 16 2 Marnie 64 18 0/skippable/pause 1000/speak Marnie \"Hai @! Karena sekarang kamu sudah punya ternak, akan kuberitahu sedikit rahasia.$0\"/pause 400/emote farmer 8/pause 100/speak Marnie \"Mereka tidak akan melewati pagar, jadi kamu bebas membuka pintu kandangnya!$1\"/pause 250/emote farmer 32/pause 100/end"
+  }
+  },
+
+//Marnie mentions farm animals can't leave fenced in area (player has milk in their inventory)
+  {
+    "Action": "EditData",
+    "Target": "data/events/farm",
+  "When": { "FarmType": "Standard", "Farm_Sandbox_Layout": "false", "Remove_Farm_Animal_Area_Fences": "false" },
+    "Entries": {
+    "896152/i 184/t 600 1800/y 1/z winter": "none/-1000 -1000/farmer 64 16 2 Marnie 64 18 0/skippable/pause 1000/speak Marnie \"Hai @! Karena sekarang kamu sudah punya ternak, akan kuberitahu sedikit rahasia.$0\"/pause 400/emote farmer 8/pause 100/speak Marnie \"Mereka tidak akan melewati pagar, jadi kamu bebas membuka pintu kandangnya!$1\"/pause 250/emote farmer 32/pause 100/end"
       }
     },
 

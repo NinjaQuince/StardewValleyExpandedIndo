@@ -1,7 +1,8 @@
 {
-	"Name": "Property Deed",
-	"Description": "Harus diberikan ke pihak berwajib untuk diperiksa.",
-	"Price": 0,
-	"CanTrash": false,
-    "CanSell": false,
+  "Name": "Property Deed",
+  "Description": "Harus diberikan ke pihak otoritas untuk diperiksa.",
+  "Price": 0,
+  "CanTrash": false,
+  "CanSell": false,
+  "TranslationKey": "object.property-deed",
 }

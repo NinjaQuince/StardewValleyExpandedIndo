@@ -1,23 +1,16 @@
 {
-	"Name": "Starfish",
-	"Description": "Disebut juga dengan bintang laut karena bentuknya mirip bintang.",
-	"Category": "Fish",
-	"Edibility": -20,
-	"EdibleIsDrink": false,
-	"EdibleBuffs": null,
-	"Price": 150,
-	"IsColored": false,
-	"GiftTastes":
-	{
-		/*gift tastes go here*/
-	},
-	"NameLocalization":
-	{
-		/*to be added in*/
-	},
-	"DescriptionLocalization":
-	{
-		/*to be added in*/
-	},
-	"DisableWithMod": "MoreFish"
+  "Name": "Starfish",
+  "Description": "Disebut juga dengan bintang laut karena bentuknya mirip bintang.",
+  "Category": "Fish",
+  "Edibility": -20,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 150,
+  "IsColored": false,
+  "GiftTastes":
+  {
+    /*gift tastes go here*/
+  },
+  "DisableWithMod": "MoreFish",
+  "TranslationKey": "object.starfish",
 }

@@ -1,0 +1,8 @@
+{
+  "Name": "Tiny Crop (stage 2)",
+  "Price": 240,
+  "ProvidesLight": false,
+  "Description": "Sebuah tanaman panen dekorasi. Berganti setiap musim mulai dari 'Parsnip', 'Radish', dan 'Yam' jika diletakkan di luar ruangan.",
+  "CanPurchase": false,
+  "TranslationKey": "big-craftables.tiny-crop-stage-2",
+}

@@ -5,4 +5,5 @@
   "Description": "Dua pasang sepatu dan satu dagger kecil.",
   "ProvidesLight": false,
   "CanPurchase": false,
+  "TranslationKey": "big-craftables.advendurer-gear",
 }

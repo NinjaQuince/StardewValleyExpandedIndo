@@ -1,24 +1,17 @@
 {
-	"Name": "Tempered Galaxy Hammer",
-	"Description": "Kekuatan kosmos menjalar ke tubuhmu, memberimu kekuatan dan pertahanan besar.",
-	"Type": "club",
-	"MinimumDamage": 80,
-	"MaximumDamage": 135,
-	"Knockback": 2.5,
-	"Speed": 1,
-	"Accuracy": 100,
-	"Defense": 30,
-	"MineDropVar": 0,
-	"MineDropMinimumLevel": -1,
-	"ExtraSwingArea": -1,
-	"CritChance": 0,
-	"CritMultiplier": 3,
-	"NameLocalization":
-	{
-		/*Information goes here*/
-	},
-	"DescriptionLocalization":
-	{
-		/*Information goes here*/
-	}
+  "Name": "Tempered Galaxy Hammer",
+  "Description": "Kekuatan kosmos menjalar ke tubuhmu, memberimu kekuatan dan pertahanan besar.",
+  "Type": "club",
+  "MinimumDamage": 90,
+  "MaximumDamage": 110,
+  "Knockback": 2.5,
+  "Speed": 1,
+  "Accuracy": 100,
+  "Defense": 25,
+  "MineDropVar": 0,
+  "MineDropMinimumLevel": -1,
+  "ExtraSwingArea": -1,
+  "CritChance": 0,
+  "CritMultiplier": 3,
+  "TranslationKey": "weapon.tempered-galaxy-hammer",
 }

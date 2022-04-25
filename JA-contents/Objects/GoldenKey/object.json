@@ -1,0 +1,8 @@
+{
+  "Name": "Golden Key",
+  "Description": "Mungkin akan berguna di sekitar sini?",
+  "Price": 0,
+  "CanTrash": false,
+    "CanSell": false,
+  "TranslationKey": "object.golden-key",
+}

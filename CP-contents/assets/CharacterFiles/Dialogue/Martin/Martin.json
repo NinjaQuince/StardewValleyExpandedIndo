@@ -13,6 +13,7 @@
   
   
   //SPRING AND GENERAL DIALOGUE
+  "Mon": "Hei, @! Gimana kabar Claire?$0",
   "Tue": "Ehh. Hai.$0",
   "Tue2": "Ibuku membawakan banyak bekal hari ini.$0#$e#Dia membawakan 'cheez curls', keripik kesukaanku!$1",
   "Tue8": "Hai, @. Masih sibuk terus nih?$0#$e#Sampai jumpa lagi.$6",

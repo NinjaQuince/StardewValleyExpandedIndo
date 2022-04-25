@@ -1,16 +1,17 @@
 {
-	"Name": "Kittyfish",
-	"Description": "Ikan ajaib yang dimunculkan oleh Camilla. Suka kalau digaruk dagunya.",
-	"Category": "Fish",
-	"Edibility": 40,
-	"EdibleIsDrink": false,
-	"EdibleBuffs": null,
-	"Price": 280,
-	"IsColored": false,
-	"GiftTastes":
-	{
-		"Love": ["Morgan"],
-		"Like": [ "Wizard", "Abigail"],
-		"Dislike": ["Willy"]
-	},
+  "Name": "Kittyfish",
+  "Description": "Ikan ajaib yang dimunculkan oleh Camilla. Suka kalau digaruk dagunya.",
+  "Category": "Fish",
+  "Edibility": 40,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 280,
+  "IsColored": false,
+  "GiftTastes":
+  {
+    "Love": ["Morgan"],
+    "Like": [ "Wizard", "Abigail", "Lance"],
+    "Dislike": ["Willy"]
+  },
+  "TranslationKey": "object.kittyfish",
 }

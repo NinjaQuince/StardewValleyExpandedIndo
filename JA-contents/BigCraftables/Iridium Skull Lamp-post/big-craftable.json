@@ -5,4 +5,5 @@
   "Description": "Terbuat dari Iridium murni. Menyediakan cahaya sedang.",
   "ProvidesLight": true,
   "CanPurchase": false,
+  "TranslationKey": "big-craftables.iridium-skull-lamp-post",
 }

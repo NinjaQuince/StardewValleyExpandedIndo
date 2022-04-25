@@ -1,11 +1,11 @@
 {
-	"Name": "Frog Legs",
-	"Description": "Salah satu hidangan khas dari Gotoro.",
-	"Category": "Cooking",
-	"Edibility": 30,
-	"EdibleIsDrink": false,
-	"EdibleBuffs": 
-	{
+  "Name": "Frog Legs",
+  "Description": "Salah satu hidangan khas dari Gotoro.",
+  "Category": "Cooking",
+  "Edibility": 30,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": 
+  {
         "Farming": 0,
         "Fishing": 0,
         "Mining": 0,
@@ -18,7 +18,7 @@
         "Attack": 0,
         "Duration": 480,
     },
-	"Recipe":
+  "Recipe":
     {
     "ResultCount": 1,
     "Ingredients": [ { "Object": "Frog", "Count": 1, }, { "Object": 247, "Count": 1 }, { "Object": 246, "Count": 1 } ],
@@ -26,14 +26,15 @@
     "PurchaseFrom": "Marlon",
     "PurchasePrice": 2000,
     },
-	"CanSell": false,
-	"Price": 400,
-	"IsColored": false,
-	"GiftTastes":
-	{
-	    "Love": [ "Wizard", "Linus", "Pierre" ],
- 		"Like": [ "Willy", "MarlonFay", "Gus" ],
-		"Dislike": [ "Emily", "Jas", "Robin", "Demetrius", "Maru", "Caroline", "Alex", "George", "Evelyn", "Lewis", "Clint", "Penny", "Pam", "Haley", "Jodi", "Kent", "Marlon", "Sam", "Leah", "Shane", "Marnie", "Elliott", "Dwarf", "Harvey", "Sandy", "MorrisTod", "GuntherSilvian", "Andy", "Susan", "Victor", "Olivia", "Morgan", "Apples", "Claire", "Martin" ],
-	    "Hate": [ "Vincent", "Abigail", "Sebastian", "Sophia", "Morgan" ]
-	},
-}
+  "CanSell": false,
+  "Price": 400,
+  "IsColored": false,
+  "GiftTastes":
+  {
+      "Love": [ "Wizard", "Linus", "Pierre" ],
+     "Like": [ "Willy", "MarlonFay", "Gus" ],
+      "Dislike": [ "Lance", "Emily", "Jas", "Robin", "Demetrius", "Maru", "Caroline", "Alex", "George", "Evelyn", "Lewis", "Clint", "Penny", "Pam", "Haley", "Jodi", "Kent", "Marlon", "Sam", "Leah", "Shane", "Marnie", "Elliott", "Dwarf", "Harvey", "Sandy", "MorrisTod", "GuntherSilvian", "Andy", "Susan", "Victor", "Olivia", "Morgan", "Apples", "Claire", "Martin" ],
+      "Hate": [ "Scarlett", "Vincent", "Abigail", "Sebastian", "Sophia", "Morgan" ]
+  },
+     "TranslationKey": "object.frog-legs",
+ }

@@ -1,0 +1,8 @@
+{
+  "Name": "Lance's Schedule",
+  "Description": "SEN: Pos Galdoran\nSEL: Stardew Valley\nRAB: Stardew Valley\nKAM: Ginger Island\nJUM: Ginger Island\nSAB: Highlands\nMIN: Highlands",
+  "Price": 0,
+  "CanTrash": false,
+    "CanSell": false,
+  "TranslationKey": "object.lance-schelude"
+}

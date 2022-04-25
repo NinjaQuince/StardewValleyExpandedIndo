@@ -1,0 +1,9 @@
+{
+  "Name": "Stone 6",
+  "Price": 400,
+  "ProvidesLight": false,
+  "Description": "Sebuah dekorasi untuk kebunmu.",
+  "ProvidesLight": false,
+  "CanPurchase": false,
+  "TranslationKey": "big-craftables.stone-6",
+}

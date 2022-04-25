@@ -1,0 +1,8 @@
+{
+  "Name": "Corn Crop (stage 3)",
+  "Price": 275,
+  "ProvidesLight": false,
+  "Description": "Sebuah tanaman panen dekorasi. Tumbuh sesuai musim jika diletakkan di luar ruangan.",
+  "CanPurchase": false,
+  "TranslationKey": "big-craftables.corn-crop-stage-3",
+}
