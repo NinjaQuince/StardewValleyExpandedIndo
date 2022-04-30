@@ -1,0 +1,62 @@
+﻿{
+
+//Scarlett is usually working in the valley during these days, but players can catch her walking back home or in her house.
+"Mon": "Aku lagi ingin makan ceri.$0#$e#Itu salah satu buah favoritku!$1#$b#Tetanggaku ada yang punya pohon ceri besar di halaman rumahnya. Kalau sudah musimnya, kami selalu dikasih satu keranjang.$0",
+"Mon4": "Jujur, aku agak iri sama ruangan cosplay-nya Sophia.$0#$e#Papaku sudah cukup baik mau meminjamkan meja kerjanya di garasi untuk proyekku.$1#$e#Mesin jahit di kamarku dikasih sama teman dekat keluarga.$0#$b#Masih berfungsi dengan baik!$1",
+"Mon8": "Merapikan dan membersihkan kamar itu sulit, tapi bisa mengetahui dimana barangku berada tidak buruk juga.$0",
+"Tue": "Papaku sayang sekali sama mobil pickupnya. Sudah seperti benda paling berharga miliknya.$0#$e#Meskipun aku sudah punya SIM, dia tidak mau meminjamkannya padaku.$2#$e#*hahh* Mungkin suatu saat nanti. Aku pingin jalan-jalan pakai mobil.$0",
+"Tue8": "Aku sudah tidak bisa menahan keinginanku untuk tamasya ke seberang negeri. Aku ingin lihat hal baru!$0#$e#Kalau aku minta baik-baik, munkin papa akan meminjamkannya padaku.",
+"Wed": "Kebanyakan orang yang tinggal di Suburb kerjanya di pusat kota Grampleton.$0#$e#Papaku juga salah satunya! Dia punya toko!$1",
+"Wed4": "%Scarlett mengunyah makanan dan melihatmu.#$e#*nyam* Hei! Maaf, aku lagi makan goat cheese.$0#$e#Ini, kamu mau? Ini salah satu makanan favoritku.[426]$1",
+"Wed8": "Hei, ada salah satu teman baikku! Ada gosip baru apa?$1#$e#Kayaknya penting banget. Kau membuat perubahan bagi banyak orang, tahu nggak?$0",
+"Thu": "Kamu kayak lagi sedang dalam misi hari ini! Memangnya mau ngapain sih kok kayaknya penting?$0#$e#Kamu orangnya selalu sibuk!$1",
+"summer_Thu": "Ugh. Aku cuma... Ugh!$3#$e#Aku dan ayah sedang berselisih. Kami jarang setuju dalam banyak hal...$2#$e#Aku lagi nggak mau bicara.$3#$e#%Scarlett tidak mau ngobrol lagi.",
+"Thu6": "Aku belajar banyak dari bekerja dengan Susan dan Andy.$1#$e#Rasanya aku bisa memanfaatkan kemampuan ini kelak.$0",
+
+//Scarlett is always home during these days (except Sat during winter when she's sleeping over at Sophia's)
+"Fri": "Jumat ini lagi pingin malas-malasan aja.$0#$e#Aku harus segera membuang sampahnya.$0",
+"Fri2": "Maaf kalau kamarku berantakan.$2#$e#Jadi, kamu ada di Pondwood sekarang! Apa ada yang ingin kau lakukan selagi disini?$0#$e#Oh! Aku bisa menunjukkan koleksi mangaku!$1#$e#Aku sudah mengoleksi manga sejak umur tujuh tahun.$0#$b#Itu semua bermula saat aku di perpustakaan umum mencari buku mewarnai dan salah mengambil manga!$1",
+"winter_Fri4": "Aku ingin sekali membuat malaikat salju.$0",
+"Fri8": "Kalau ada perkumpulan lagi di Pondwood, kamu akan kuberitahu. Kami akan senang jika kamu ikut!$1",
+"spring_Fri8": "Sebenarnya aku tidak pernah tertarik masuk kuliah.$0#$b#Itu keinginan papaku. Untuk melanjutkan 'pendidikan'...$2#$e#Aku cewek yang tipenya belajar dari praktek.$1",
+"fall_Fri8": "Ada karnaval keren di Grampleton setiap musim gugur.$0",
+"winter_Fri8": "Pertandingannya akan segera dimulai! Ayo Tunnelers!$1#$e#Apa kamu suka nonton gridball, @?$0",
+"Sat": "Hei, senang melihatmu! Lagi ngapain akhir-akhir ini?$1#$e#Entah gimana caramu melakukannya. Tapi kamu selalu bisa cari kesibukan, @.",
+"summer_Sat": "Sungai dekat rumah membuat halaman rumah kami teduh di musim panas.$0",
+"fall_Sat": "*hahh* Daun-daunnya selalu saja masuk ke garasi.$2#$e#Papaku nggak mau menutup pintunya, dia suka pamerin mobilnya.$3",
+"winter_Sat": "Hei, senang melihatmu! Lagi ngapain akhir-akhir ini?$1#$e#Entah gimana caramu melakukannya. Tapi kamu selalu bisa cari kesibukan, @.$0",
+"winter_Sat2": "Aku selalu menyelipkan waktu di jadwalku untuk mengunjungi Sophia.$0#$e#Andai saja kita tinggal serumah. Mungkin kalau sudah punya uang nanti, aku akan pindah ke Stardew Valley.$0",
+"winter_Sat8": "Di suatu saat, Sophia berkunjung dan kami makan malam grampleton orange chicken. Dia belum pernah makan itu sebelumnya.$0#$b#Dia menghabiskan makannya dalam waktu dua menit!$1#$e#Aku menawarkan punyaku dan dia menghabiskan setengahnya.#$b#Mungkin itu adalah kenangan favoritku tentangnya!$1",
+"Sun": "Hei! Senang melihatmu. Bagaimana perjalananmu naik kereta api?$1#$e#Tidak semua orang punya mobil. Kebanyakan tetangga kami bergantung pada stasiun kereta lokal untuk pergi kerja.",
+"Sun4": "Anjing tetangga kami di ujung jalan lumayan liar.$0#$e#Dia selalu lari-larian!$1",
+"Sun8": "Hei! Terima kasih sudah berkunjung.$1#$e#Kalau lapar silahkan digeledah saja kulkasnya.$0#$e#Oh, kue sponsnya jangan dimakan. Papaku membuat itu untuk temannya di ujung jalan.$1",
+"summer_Sun8": "%Scarlett mengunyah makanan dan melihatmu.#$e#*nyam* Hei! Maaf, aku lagi makan goat cheese.$0#$e#Ini, kamu mau? Ini salah satu makanan favoritku.[426]$1",
+"fall_Sun8": "Kapan-kapan ayo adakan pesta menginap!$1#$b#Aku tahu resep bumbu popcorn yang enak banget.$0#$e#Aku belajar dari Hank. Bumbunya terbuat dari campuran kare kelapa, roti jahe, dan bubuk kayu manis.$0",
+"summer_Sun8": "Ayahku dan Hank mau mengundangmu makan malam kapan-kapan.$0",
+
+//schedule dialogue
+"Custom_BlueMoonVineyard_27_33": "Siap untuk bekerja, Sophia!?$1",
+"Custom_SophiaHouse_3_25": "Hari ini aku bantuin Sophia!$1",
+"Custom_SophiaHouse_10_25": "Nanti malam kami akan ke saloon. Mau ikut?$0",
+"Custom_SophiaHouse_15_24": "Hari ini berat ya, Sophia?$1",
+"Custom_SophiaHouse_5_22": "Ruang Cosplay-nya Sophia keren ya?$0",
+"Custom_SophiaHouse_17_21": "Hardwood ini didatangkan jauh-jauh dari Grampleton, rumahku!$1",
+"Custom_SophiaHouse_20_7": "Whoa! Dia tidak bilang kalau punya volume ini!$1",
+"Custom_SophiaHouse_23_6": "Nggak keren, @! Aku lagi tidur.$2",
+"Custom_SophiaHouse_20_37": "Ya! Ayo pergi ke saloon!$1",
+"Saloon_24_18": "Aku suka suasana tempat ini.$0",
+"Custom_GrampletonSuburbs_21_15": "Aku sedang buang sampah. Ngobrolnya kita lanjut nanti, ya?$0",
+
+//event dialogue
+"scarlett_event1": "Kalau begitu kita sama! Pasti uangmu banyak!$1",
+"scarlett_event2": "Whoa, itu diumumkan di Pelican Town? Ide yang keren!$1#$b#Mungkin Pondwood juga bisa menirunya.$0",
+"scarlett_event3": "Pengumuman festival merupakan favoritku! Desain selebarannya selalu berganti setiap tahunnya.$1",
+"scarlett_event4": "Kurasa tidak semua orang mengecek. Tapi tidak masalah!$0",
+"scarlett_event5": "...$2#$b#Kamu nggak salah kok. Aku pasti akan melakukannya juga kalau ada hal seperti itu.$2",
+"scarlett_event6": "Uh huh... Tentu.$3#$b#...$3#$b#...$2#$b#Kamu nggak salah kok. Aku pasti akan melakukannya juga kalau ada hal seperti itu.$2#$b#Tepi setidaknya aku nggak akan bohong.$3",
+"scarlett_event7": "Setuju! Kamu punya banyak ruang untuk melakukan apapun semaumu.$0",
+"scarlett_event8": "Setuju! Papaku juga mengijinkanku memakai tanah di luar rumah untuk menanam bunga. Jadi aku juga tahu rasanya.$0",
+"scarlett_event9": "Aku selalu ingin punya kambing. Biar aku bisa makan goat cheese sepuasnya!$1#$b#Andai saja Marnie butuh bantuan di peternakannya, tapi semua sudah dia tangani sendiri.$0",
+"scarlett_event10": "Ya, aku juga begitu. Aku selalu bingung kalau lagi tidak melakukan apa-apa.$0"
+
+}
